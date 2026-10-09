@@ -19,7 +19,7 @@ Cena criada vazia e preenchida somente com meshes dentro do recorte. As 26 malha
 | Referências externas a assets legados | 0 |
 | Maior arquivo de asset | 11.969.385 bytes |
 | Arquivos distribuídos do projeto, incluindo metas e configurações | 1.383 |
-| Capturas reais | 4 × 1600 × 900 |
+| Capturas reais publicadas | 6 × 1600 × 900 (4 locais + 2 do clone) |
 
 O censo antigo somava 26 malhas inteiras e 354 recortadas, inclusive 10 renderizadores inativos. Por isso 466.319 não representa o total de triângulos ativos; a diferença foi registrada no relatório novo. Esses 10 objetos agora referenciam somente assets locais e não têm colisores criados.
 
@@ -33,4 +33,8 @@ Melhorias aplicadas: redução do brilho aparente do mosaico, intensidade de nor
 
 Evidência: `evidence/standalone_qa.json`, quatro PNGs e SHA-256 individuais, `evidence/guid_resolution.tsv`, `evidence/files_sha256.json`, `evidence/mesh_provenance.tsv`. Os testes portáteis verificam arquivos, hashes, GUIDs, grafo de assets, dimensões e integridade das capturas; não julgam automaticamente a qualidade artística.
 
-Verificação em clone da nuvem: pendente nesta revisão. Nenhum legado foi excluído.
+**Clone da nuvem verificado:** commit `6aac5f5a559eb848d659a70d35009b1f05c999ad`, baixado do novo GitHub para outra pasta, sem Library/Temp/Logs da fonte. Os seis testes passaram antes e depois do import. O script portátil do próprio clone importou a cena, gerou quatro frames GPU reais e concluiu com exit code 0. O Git do clone ficou limpo após o import. Duas dessas capturas estão publicadas com prefixo `CloudClone_`; todas as contagens se repetiram. Evidência em `evidence/cloud_clone_qa.json` e `evidence/clone_unity_execution.txt`.
+
+CI de integridade passou: https://github.com/sergiomrge-tech/Project-Resort-300m/actions/runs/37968292929. Este CI executa Python, não Unity na nuvem. O import GPU foi executado localmente sobre os arquivos baixados da nuvem.
+
+A revisão seguinte ajusta rótulos de objetos da cena para 300m, sem alterar geometria, materiais ou transformações; a QA nativa foi repetida para essa cena. Nenhum legado foi excluído. Os gates técnicos de independência permitem ao supervisor iniciar a revisão de exclusão; a aprovação artística e os testes de gameplay continuam pendentes.

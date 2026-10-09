@@ -107,5 +107,16 @@ class StandaloneTests(unittest.TestCase):
         self.assertEqual(4, len({s['sha256'] for s in qa['captures']}))
         self.assertFalse(qa['fps_measured'])
 
+    def test_cloud_clone_evidence(self):
+        qa = json.loads((ROOT / 'evidence/cloud_clone_qa.json').read_text())
+        self.assertTrue(qa['fresh_library'])
+        self.assertTrue(qa['tracked_files_unchanged_after_import'])
+        self.assertEqual('Direct3D11', qa['renderer'])
+        self.assertEqual(380, qa['meshes'])
+        self.assertEqual(0, qa['missing_scripts'])
+        self.assertEqual(4, qa['native_capture_count'])
+        for shot in qa['captures']:
+            self.assertEqual(shot['sha256'], hashlib.sha256((ROOT / 'evidence' / shot['filename']).read_bytes()).hexdigest())
+
 if __name__ == '__main__':
     unittest.main(verbosity=2)

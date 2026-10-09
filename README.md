@@ -15,7 +15,7 @@ python tools/test_standalone.py
 Para repetir a importação e a captura nativas:
 
 ```powershell
-powershell -File tools/run_unity_qa.ps1
+powershell -NoProfile -ExecutionPolicy Bypass -File tools/run_unity_qa.ps1
 ```
 
 O script aceita `-Editor`, `-Project` e `-Output`. Requer Unity instalado e licenciado e uma GPU disponível. O CI executa os testes de integridade portáteis; não substitui o teste nativo do Editor.

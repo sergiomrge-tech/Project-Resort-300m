@@ -3,8 +3,8 @@
     "unity_version": "6000.6.2f1",
     "gpu": "NVIDIA GeForce RTX 4060 Ti",
     "renderer": "Direct3D11",
-    "scene_sha256": "337fc7fecd0eb10b70eb87eaf77eb59202d2ffdca3039b0f4cded3525b63c4fb",
-    "utc": "2026-10-09T17:31:43.6183159Z",
+    "scene_sha256": "8fa15c0cdd98aaf4e398a8dc619f30148ea4bb669f100580e09e4def6b5f177f",
+    "utc": "2026-10-09T17:39:30.6957913Z",
     "dependencies": [
         "Assets/R15/Materials/R15_0000_CloudyDaylight_Skybox.mat",
         "Assets/R15/Materials/R15_0009_Tree_Bark.mat",
@@ -781,7 +781,7 @@
     "captures": [
         {
             "filename": "R15_01_CoastWalk_CloudyDay_RealUnity.png",
-            "sha256": "149fe58a2931aa998db87cd810679989b2ddf0ccf5a9b1d2f30ec072b8df5367",
+            "sha256": "fff0a6184bd2a310d76cf269bee3e06d899852f5be08541cf4ab61ab8f638f23",
             "position": {
                 "x": -338.5166320800781,
                 "y": 1.649999976158142,
@@ -800,7 +800,7 @@
         },
         {
             "filename": "R15_02_Clouds_Over_Beach_RealUnity.png",
-            "sha256": "2350d5f8aba3923d6b3e74a67028b5802991facf9cdc861cb8832cde1ace4c53",
+            "sha256": "62a02a0a89ec21eca6c1c0e5eab8587042cd785464da1b02548545a4fec8cad5",
             "position": {
                 "x": -378.2747497558594,
                 "y": 2.4000000953674316,
@@ -838,7 +838,7 @@
         },
         {
             "filename": "R15_04_300m_Cropped_Aerial_RealUnity.png",
-            "sha256": "909d6f4577dbd43b794aa2ee8a80646e275e9cfa79c4514005249cdd67c7fdf4",
+            "sha256": "97ec43ea1934ee85ff2526a9775157503c1bd37f539086e7ce82098077b68d6c",
             "position": {
                 "x": -329.20440673828125,
                 "y": 230.0,

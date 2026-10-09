@@ -22634,7 +22634,7 @@ GameObject:
   - component: {fileID: 1058844189}
   - component: {fileID: 1058844188}
   m_Layer: 0
-  m_Name: R15_0183_Clipped_URBAN_PAVEMENT_2000x1000_0157
+  m_Name: R15_0183_Clipped_URBAN_PAVEMENT_300x300_0157
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -32217,7 +32217,7 @@ GameObject:
   - component: {fileID: 1663332431}
   - component: {fileID: 1663332430}
   m_Layer: 0
-  m_Name: R15_0026_Clipped_GIS_OSM_REAL_MAP_MINUS_50_REPLACED_WAYS_0000
+  m_Name: R15_0026_Clipped_GIS_Copacabana_300m_0000
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

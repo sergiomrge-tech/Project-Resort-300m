@@ -18,7 +18,7 @@ public static class StandaloneBake {
  static int serial;
  static void Need(bool ok,string message){if(!ok)throw new Exception(message);}
  static void Folder(string path){if(AssetDatabase.IsValidFolder(path))return;Directory.CreateDirectory(path);AssetDatabase.Refresh();}
- static string Clean(string s)=>Regex.Replace(Regex.Replace(s,@"(?i)R\d+[_ ]?",""),@"[^A-Za-z0-9_]","_");
+ static string Clean(string s)=>Regex.Replace(Regex.Replace(s,@"(?i)R\d+[_ ]?",""),@"[^A-Za-z0-9_]","_").Replace("2000x1000","300x300").Replace("GIS_OSM_REAL_MAP_MINUS_50_REPLACED_WAYS","GIS_Copacabana_300m");
  static UnityEngine.Object Local(UnityEngine.Object obj){
   if(obj==null)return null;
   if(copies.TryGetValue(obj,out var cached))return cached;
