@@ -1,0 +1,135 @@
+{
+    "status": "R15_COMPACT_REAL_GPU_BEFORE_AFTER_PASS_VISUAL_REVIEW_PENDING",
+    "unity": "6000.6.2f1",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti",
+    "renderer": "Direct3D11",
+    "measured_gap_before": 73.19999694824219,
+    "measured_gap_after": 9.199999809265137,
+    "city_approach_m": 64.0,
+    "skybox_seen": true,
+    "art_approved": false,
+    "real_gameplay_tested": false,
+    "fps_measured": false,
+    "captures": [
+        {
+            "filename": "R15_01_MosaicToCity_BEFORE_RealUnity.png",
+            "sha256": "a284639a67aec8ace5445c00ec24a39698c2bb8990f5df561985159d57d5a76b",
+            "scene": "Assets/Scenes/ProjectResort_300m.unity",
+            "view": "01_MosaicToCity",
+            "gpu": "NVIDIA GeForce RTX 4060 Ti",
+            "width": 1600,
+            "height": 900,
+            "warmup_frames": 5,
+            "camera": {
+                "x": -370.1892395019531,
+                "y": 1.649999976158142,
+                "z": 224.99095153808594
+            },
+            "target": {
+                "x": -319.5038757324219,
+                "y": 12.0,
+                "z": 171.0651397705078
+            }
+        },
+        {
+            "filename": "R15_01_MosaicToCity_AFTER_RealUnity.png",
+            "sha256": "95eb64956c162efb1094b4f146a81fc48ec06b24d0b293f1271e3371b3c74af7",
+            "scene": "Assets/Scenes/ProjectResort_300m_Immersive.unity",
+            "view": "01_MosaicToCity",
+            "gpu": "NVIDIA GeForce RTX 4060 Ti",
+            "width": 1600,
+            "height": 900,
+            "warmup_frames": 5,
+            "camera": {
+                "x": -370.1892395019531,
+                "y": 1.649999976158142,
+                "z": 224.99095153808594
+            },
+            "target": {
+                "x": -319.5038757324219,
+                "y": 12.0,
+                "z": 171.0651397705078
+            }
+        },
+        {
+            "filename": "R15_02_CoastFacingCity_BEFORE_RealUnity.png",
+            "sha256": "104d34c3c6de41a69c1874bb91d3be4745fd395d47fbebc9b0565c0f601acf83",
+            "scene": "Assets/Scenes/ProjectResort_300m.unity",
+            "view": "02_CoastFacingCity",
+            "gpu": "NVIDIA GeForce RTX 4060 Ti",
+            "width": 1600,
+            "height": 900,
+            "warmup_frames": 5,
+            "camera": {
+                "x": -338.1891784667969,
+                "y": 2.1500000953674316,
+                "z": 235.0406036376953
+            },
+            "target": {
+                "x": -324.5885925292969,
+                "y": 10.0,
+                "z": 163.37454223632813
+            }
+        },
+        {
+            "filename": "R15_02_CoastFacingCity_AFTER_RealUnity.png",
+            "sha256": "5c2a5071082e7f5d218b00a2b480559761b370c7e140145a5c35b2dc7e3df6c2",
+            "scene": "Assets/Scenes/ProjectResort_300m_Immersive.unity",
+            "view": "02_CoastFacingCity",
+            "gpu": "NVIDIA GeForce RTX 4060 Ti",
+            "width": 1600,
+            "height": 900,
+            "warmup_frames": 5,
+            "camera": {
+                "x": -338.1891784667969,
+                "y": 2.1500000953674316,
+                "z": 235.0406036376953
+            },
+            "target": {
+                "x": -324.5885925292969,
+                "y": 10.0,
+                "z": 163.37454223632813
+            }
+        },
+        {
+            "filename": "R15_03_AbovePromenade_BEFORE_RealUnity.png",
+            "sha256": "93d4e2fb8a6ac4967a78d5800de16c0e9d4443f8764f9b2b957a0f1978cc326b",
+            "scene": "Assets/Scenes/ProjectResort_300m.unity",
+            "view": "03_AbovePromenade",
+            "gpu": "NVIDIA GeForce RTX 4060 Ti",
+            "width": 1600,
+            "height": 900,
+            "warmup_frames": 5,
+            "camera": {
+                "x": -377.2592468261719,
+                "y": 86.0,
+                "z": 225.11434936523438
+            },
+            "target": {
+                "x": -316.1293029785156,
+                "y": 4.0,
+                "z": 161.8124542236328
+            }
+        },
+        {
+            "filename": "R15_03_AbovePromenade_AFTER_RealUnity.png",
+            "sha256": "a33f9721214b72e8126224be42c0e2e6225f94aa3e1dc606229eecb4b01ab125",
+            "scene": "Assets/Scenes/ProjectResort_300m_Immersive.unity",
+            "view": "03_AbovePromenade",
+            "gpu": "NVIDIA GeForce RTX 4060 Ti",
+            "width": 1600,
+            "height": 900,
+            "warmup_frames": 5,
+            "camera": {
+                "x": -377.2592468261719,
+                "y": 86.0,
+                "z": 225.11434936523438
+            },
+            "target": {
+                "x": -316.1293029785156,
+                "y": 4.0,
+                "z": 161.8124542236328
+            }
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "status": "R15_SHORE_CITY_APPROACH_NATIVE_PASS_ART_REVIEW_PENDING",
+    "source_scene": "Assets/Scenes/ProjectResort_300m.unity",
+    "destination_scene": "Assets/Scenes/ProjectResort_300m_Immersive.unity",
+    "unity_version": "6000.6.2f1",
+    "source_scene_sha256": "8fa15c0cdd98aaf4e398a8dc619f30148ea4bb669f100580e09e4def6b5f177f",
+    "meshes_copied": 380,
+    "renderers_changed": 380,
+    "colliders_updated": 347,
+    "triangle_count": 466319,
+    "unchanged_omission": 0,
+    "material_count": 202,
+    "width_m": 300.0,
+    "depth_m": 300.0,
+    "city_approach_m": 64.0,
+    "gap_before_m": 73.19999694824219,
+    "gap_after_m": 9.199999809265137,
+    "unchanged_city_geometry": true,
+    "source_scene_preserved": true,
+    "cloud_skybox_kept": true,
+    "gameplay_playmode_tested": false,
+    "artistic_gate_approved": false
+}

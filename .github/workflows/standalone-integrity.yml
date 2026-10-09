@@ -11,4 +11,6 @@ jobs:
         with:
           python-version: '3.12'
       - name: Files, hashes, GUIDs, dependency closure, crop, GPU evidence
-        run: python tools/test_standalone.py
+        run: |
+          python tools/test_standalone.py
+          python tools/test_compact_distance.py
