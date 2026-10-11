@@ -1,0 +1,23 @@
+{
+  "unreal_checkpoint": {
+    "manifest_hashes_verified": 15,
+    "geometry_actors": 16,
+    "ground_hits": 4,
+    "dimensions_m": [
+      1000,
+      500
+    ]
+  },
+  "legacy_unity_published_snapshot": {
+    "source": "Git HEAD UnityProject/tools/evidence; uncommitted Unity experiments excluded",
+    "standalone_tests": 7,
+    "compact_distance_tests": 3,
+    "result": "PASS"
+  },
+  "not_tested": [
+    "Unreal FPS benchmark",
+    "exhaustive traversal and interiors",
+    "Unreal packaged executable",
+    "20-stage resort progression gameplay"
+  ]
+}

@@ -1,0 +1,116 @@
+{
+    "status": "FIVE_NATIVE_UNITY_GPU_CAPTURES_PASS_VISUAL_REVIEW_PENDING",
+    "unity": "6000.6.2f1",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti",
+    "renderer": "Direct3D12",
+    "genuine_unity_render": true,
+    "fps_measured": false,
+    "art_approved": false,
+    "captures": [
+        {
+            "file": "ProjectResort_v2_01_PromenadeToBuildings_UnityGPU.png",
+            "sha256": "2a01ad48eccd31f69b69680e49a9fc6ba90fde6eb54a17638835253fc7774692",
+            "view": "Calçadão olhando para os prédios",
+            "scene": "Assets/Scenes/ProjectResort_300m_Immersive_v2.unity",
+            "gpu": "NVIDIA GeForce RTX 4060 Ti",
+            "renderer": "Direct3D12",
+            "width": 1600,
+            "height": 900,
+            "warmup_frames": 5,
+            "camera": {
+                "x": -375.74652099609375,
+                "y": 1.649999976158142,
+                "z": 230.74566650390625
+            },
+            "target": {
+                "x": -356.3454284667969,
+                "y": 9.5,
+                "z": 207.77615356445313
+            }
+        },
+        {
+            "file": "ProjectResort_v2_02_AvenueAndFacades_UnityGPU.png",
+            "sha256": "f49386160f267a7d5c0e85984be558a977e14a0609144798ec0e5180d53d1883",
+            "view": "Avenida e fachadas",
+            "scene": "Assets/Scenes/ProjectResort_300m_Immersive_v2.unity",
+            "gpu": "NVIDIA GeForce RTX 4060 Ti",
+            "renderer": "Direct3D12",
+            "width": 1600,
+            "height": 900,
+            "warmup_frames": 5,
+            "camera": {
+                "x": -343.7464294433594,
+                "y": 2.0,
+                "z": 240.79531860351563
+            },
+            "target": {
+                "x": -349.22607421875,
+                "y": 7.800000190734863,
+                "z": 210.48074340820313
+            }
+        },
+        {
+            "file": "ProjectResort_v2_03_BeachSkyClouds_UnityGPU.png",
+            "sha256": "25dc00bd1c23b9e007537a88ea9bf88eca6efa9bfff2a71a76835909e73f299c",
+            "view": "Praia, céu e nuvens",
+            "scene": "Assets/Scenes/ProjectResort_300m_Immersive_v2.unity",
+            "gpu": "NVIDIA GeForce RTX 4060 Ti",
+            "renderer": "Direct3D12",
+            "width": 1600,
+            "height": 900,
+            "warmup_frames": 5,
+            "camera": {
+                "x": -392.21728515625,
+                "y": 2.0,
+                "z": 219.01051330566406
+            },
+            "target": {
+                "x": -404.26971435546875,
+                "y": 15.0,
+                "z": 176.78802490234375
+            }
+        },
+        {
+            "file": "ProjectResort_v2_04_Aerial300m_UnityGPU.png",
+            "sha256": "b4e9ec222e53299c4c8ea999f2b034008c2be89a0c6cf60ee446512ed9de0f30",
+            "view": "Vista aérea do mapa compacto",
+            "scene": "Assets/Scenes/ProjectResort_300m_Immersive_v2.unity",
+            "gpu": "NVIDIA GeForce RTX 4060 Ti",
+            "renderer": "Direct3D12",
+            "width": 1600,
+            "height": 900,
+            "warmup_frames": 5,
+            "camera": {
+                "x": -351.4334716796875,
+                "y": 410.1729431152344,
+                "z": 205.5687713623047
+            },
+            "target": {
+                "x": -351.4334716796875,
+                "y": -0.16996383666992188,
+                "z": 205.5687713623047
+            }
+        },
+        {
+            "file": "ProjectResort_v2_05_CloseFacade_UnityGPU.png",
+            "sha256": "0755abb6a6c5e995e6ea82427615c0553f2da295cffdd549b68931b57a3401f8",
+            "view": "Detalhe próximo das fachadas",
+            "scene": "Assets/Scenes/ProjectResort_300m_Immersive_v2.unity",
+            "gpu": "NVIDIA GeForce RTX 4060 Ti",
+            "renderer": "Direct3D12",
+            "width": 1600,
+            "height": 900,
+            "warmup_frames": 5,
+            "camera": {
+                "x": -354.08868408203125,
+                "y": 2.4000000953674316,
+                "z": 215.51612854003906
+            },
+            "target": {
+                "x": -351.4581604003906,
+                "y": 6.5,
+                "z": 204.15476989746094
+            }
+        }
+    ]
+}

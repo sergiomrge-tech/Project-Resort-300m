@@ -1,0 +1,86 @@
+{
+  "revision": 2,
+  "created_utc": "2026-10-10T10:19:18.1812306Z",
+  "files": [
+    {
+      "file": "Mare_Evolucao_Unificada_v2.blend",
+      "bytes": 295221851,
+      "sha256": "a1deb5b06365d487f0730efbeb6d0953ec9dc384df8d2ac068810eab589cbc88"
+    },
+    {
+      "file": "mare_unified_progression_20.json",
+      "bytes": 15935,
+      "sha256": "ab4f8a6105b77d83bc673149a8dd051659950451f7d182552cf71716a747a0f0"
+    },
+    {
+      "file": "MARE_UNIFIED_DELIVERY.md",
+      "bytes": 4384,
+      "sha256": "04938fccfc8a065c86493ab26dd28fcb5719c43f5f2d66217e93c6fa46d7074c"
+    },
+    {
+      "file": "mare_unified_validation.json",
+      "bytes": 16182,
+      "sha256": "d37e416a63b8cd0526fbe45c012cedf16b10147cf857c62bd275368b77181955"
+    },
+    {
+      "file": "mare_unida_01_quiosque.png",
+      "bytes": 1874900,
+      "sha256": "60243b1eed4cbd8259f3282a7c46c6bf41fe5dda7d627e73f5c6980c6612cf66"
+    },
+    {
+      "file": "mare_unida_04_restaurante.png",
+      "bytes": 1947188,
+      "sha256": "ecfaa7235ea5aa9582c6e065cd714ed8c1032a8cc4de216443bee042d0c47ff2"
+    },
+    {
+      "file": "mare_unida_06_hotel.png",
+      "bytes": 1921920,
+      "sha256": "a331d035eb4aac685565b94c65f920ee38f5e4961003b5b1321920c0dd3c8e75"
+    },
+    {
+      "file": "mare_unida_20_resort.png",
+      "bytes": 2114570,
+      "sha256": "b6d2d2bacdf87f5ed1491b0918196ddcfec82c89315c1993c2be778ad9e407f5"
+    },
+    {
+      "file": "mare_unida_orla.png",
+      "bytes": 1942382,
+      "sha256": "6383c484116a5aecf610734fad8dd7c5076143145b08cd2882b63af804e0fdde"
+    },
+    {
+      "file": "build_mare_unified_v2.py",
+      "bytes": 14895,
+      "sha256": "87217539de91398fadbcc27584c01756b2bbca914b8afa11ce9e8c07658191f1"
+    },
+    {
+      "file": "finish_unified_resort.py",
+      "bytes": 5954,
+      "sha256": "5c3f5fc57aec6e76659585d94e4f18df72ddc0c77a1d81bfb10d7ef06f6c1567"
+    },
+    {
+      "file": "refine_unified_transitions.py",
+      "bytes": 7891,
+      "sha256": "5819439f902104d8b4407b3e7d8a6fea065eafbdad2428f75c8fa4094817d6c5"
+    },
+    {
+      "file": "finalize_unified_access.py",
+      "bytes": 3482,
+      "sha256": "954fd477931af591fbd85d256afe10b3301997ced712ae8b6009227e8f596510"
+    },
+    {
+      "file": "finish_unified_shore.py",
+      "bytes": 4021,
+      "sha256": "fe11030793fc6dd7e77b34c7c2acaf495cd4b09af7231f55fd8cd7e78dd76a8f"
+    },
+    {
+      "file": "write_unified_design.py",
+      "bytes": 7896,
+      "sha256": "eb52ab4c79b4df316a8bb95a3e1cd37ae1d1147b174f55f9241e14ec8be84d5c"
+    },
+    {
+      "file": "inspect_unified_delivery.py",
+      "bytes": 1873,
+      "sha256": "7797a18de2d38820b0aef9107bd74648ebe87b60150c4a46fda73c59ff39869f"
+    }
+  ]
+}

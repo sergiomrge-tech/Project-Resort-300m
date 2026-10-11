@@ -1,0 +1,98 @@
+[
+  {
+    "file": "D:\\ProjectResort_300m_CompactPass\\UnrealProject\\SourceArt\\Coast1000x500\\City_01_03_Coast500.fbx",
+    "bounds_m": [
+      [
+        -1000.0,
+        -190.0000762939453,
+        -0.699999988079071
+      ],
+      [
+        -800.0,
+        5.960464477539063e-08,
+        32.040000915527344
+      ]
+    ],
+    "faces": 776212
+  },
+  {
+    "file": "D:\\ProjectResort_300m_CompactPass\\UnrealProject\\SourceArt\\Coast1000x500\\City_02_03_Coast500.fbx",
+    "bounds_m": [
+      [
+        -800.0,
+        -190.0000762939453,
+        -0.699999988079071
+      ],
+      [
+        -600.0,
+        2.384185791015625e-07,
+        32.040000915527344
+      ]
+    ],
+    "faces": 783136
+  },
+  {
+    "file": "D:\\ProjectResort_300m_CompactPass\\UnrealProject\\SourceArt\\Coast1000x500\\City_03_03_Coast500.fbx",
+    "bounds_m": [
+      [
+        -600.0,
+        -190.00006103515625,
+        -0.699999988079071
+      ],
+      [
+        -400.0,
+        2.384185791015625e-07,
+        32.040000915527344
+      ]
+    ],
+    "faces": 783136
+  },
+  {
+    "file": "D:\\ProjectResort_300m_CompactPass\\UnrealProject\\SourceArt\\Coast1000x500\\City_04_03_Coast500.fbx",
+    "bounds_m": [
+      [
+        -400.0,
+        -190.00003051757812,
+        -0.699999988079071
+      ],
+      [
+        -199.99996948242188,
+        5.960464477539063e-08,
+        32.040000915527344
+      ]
+    ],
+    "faces": 776212
+  },
+  {
+    "file": "D:\\ProjectResort_300m_CompactPass\\UnrealProject\\SourceArt\\Coast1000x500\\City_05_03_Coast500.fbx",
+    "bounds_m": [
+      [
+        -200.0,
+        -190.00001525878906,
+        -0.699999988079071
+      ],
+      [
+        5.507634796231287e-06,
+        2.384185791015625e-07,
+        32.040000915527344
+      ]
+    ],
+    "faces": 782778
+  },
+  {
+    "file": "D:\\ProjectResort_300m_CompactPass\\UnrealProject\\SourceArt\\Coast1000x500\\HalfWest_BoundarySurfaces_Coast500.fbx",
+    "bounds_m": [
+      [
+        -1000.0,
+        -500.0,
+        -1.5999999046325684
+      ],
+      [
+        7.562069868072285e-07,
+        2.384185791015625e-07,
+        4.75
+      ]
+    ],
+    "faces": 6111
+  }
+]

@@ -1,0 +1,30 @@
+{
+    "status": "VISUAL_FINISH_BUILT_REQUIRES_NATIVE_REVIEW",
+    "source_scene": "Assets/Scenes/ProjectResort_300m_Immersive.unity",
+    "destination_scene": "Assets/Scenes/ProjectResort_300m_Immersive_v2.unity",
+    "unity": "6000.6.2f1",
+    "renderer": "Direct3D12",
+    "gpu": "NVIDIA GeForce RTX 4060 Ti",
+    "source_sha256": "10ba8fc2df1766a964bc49c92803dd5d478e7399a525e59c8423def58398b9dd",
+    "base_renderers": 380,
+    "final_renderers": 511,
+    "building_families": 22,
+    "awnings": 1,
+    "palms": 7,
+    "planters": 7,
+    "benches": 5,
+    "lights": 5,
+    "width_m": 300.0,
+    "depth_m": 300.0,
+    "source_unchanged": true,
+    "skybox_preserved": true,
+    "original_scenes_preserved": true,
+    "fps_measured": false,
+    "art_approved": false,
+    "views": [
+        "Pedestrian promenade-to-city",
+        "Mixed-use facade detail",
+        "Beachfront street",
+        "Aerial composition"
+    ]
+}

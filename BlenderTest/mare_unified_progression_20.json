@@ -1,0 +1,601 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-10",
+  "blender_file": "Mare_Evolucao_Unificada_v2.blend",
+  "design": "same business transforms from kiosk to restaurant, to hotel with rear restaurant, to one connected resort",
+  "balance_status": "draft, not playtested",
+  "currency": "fictional game coins",
+  "growth_policy": "buy new land strips or floors; replace only obsolete shell assets; retain inventory and reusable equipment",
+  "urban_map_preserved": "2 x 1 km scene preserved; this is an asset study, not a replacement city map",
+  "final_building_and_deck_envelope_m": {
+    "x": [
+      -48,
+      50
+    ],
+    "y": [
+      -31,
+      56
+    ]
+  },
+  "public_promenade": "outside bought modules, permanent and unobstructed",
+  "sources": [
+    {
+      "url": "https://www.fourseasons.com/jimbaranbay/services-and-amenities/",
+      "supports": [
+        "spa",
+        "piscinas",
+        "beach club",
+        "kids club",
+        "fitness",
+        "yoga",
+        "concierge",
+        "eventos",
+        "atividades de praia"
+      ]
+    },
+    {
+      "url": "https://www.marriott.com/en-us/hotels/dxbpj-marriott-resort-palm-jumeirah-dubai/overview/",
+      "supports": [
+        "varandas",
+        "suítes",
+        "room service 24h",
+        "restaurantes",
+        "academia",
+        "spa",
+        "kids club"
+      ]
+    },
+    {
+      "url": "https://www.fourseasons.com/hualalai/services-and-amenities/sustainability/",
+      "supports": [
+        "redução de descartáveis",
+        "produção local",
+        "gestão ambiental"
+      ]
+    },
+    {
+      "url": "https://stories.forbestravelguide.com/what-makes-a-forbes-travel-guide-five-star",
+      "supports": [
+        "qualidade de serviço e instalações; edifícios sozinhos não definem cinco estrelas"
+      ]
+    },
+    {
+      "url": "https://www.fourseasons.com/orlando/accommodations/accessibility-overview/",
+      "supports": [
+        "acessibilidade de quartos e áreas comuns"
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "id": 1,
+      "title": "Quiosque inicial",
+      "action": "quiosque",
+      "scene": "MARE_UNIDA_ETAPA_01",
+      "asset_id": "core_original",
+      "requires_stages": [],
+      "cost_game_coins_draft": 12000,
+      "new_services": [
+        "café",
+        "coco",
+        "sucos",
+        "lanches"
+      ],
+      "rooms_represented_delta": 0,
+      "runtime_status": "not integrated",
+      "unlock_rule_draft": {
+        "reputation_min": 0,
+        "positive_operating_profit_days": 0,
+        "working_capital_days": 3
+      }
+    },
+    {
+      "id": 2,
+      "title": "Deck ligado ao balcão",
+      "action": "ampliar",
+      "scene": "MARE_UNIDA_ETAPA_02",
+      "asset_id": "deck",
+      "requires_stages": [
+        1
+      ],
+      "cost_game_coins_draft": 18000,
+      "new_services": [
+        "mesas externas"
+      ],
+      "rooms_represented_delta": 0,
+      "runtime_status": "not integrated",
+      "unlock_rule_draft": {
+        "reputation_min": 23,
+        "positive_operating_profit_days": 3,
+        "working_capital_days": 3
+      }
+    },
+    {
+      "id": 3,
+      "title": "Cozinha de apoio ligada",
+      "action": "ampliar",
+      "scene": "MARE_UNIDA_ETAPA_03",
+      "asset_id": "cozinha",
+      "requires_stages": [
+        2
+      ],
+      "cost_game_coins_draft": 28000,
+      "new_services": [
+        "preparo",
+        "estoque"
+      ],
+      "rooms_represented_delta": 0,
+      "runtime_status": "not integrated",
+      "unlock_rule_draft": {
+        "reputation_min": 27,
+        "positive_operating_profit_days": 3,
+        "working_capital_days": 3
+      }
+    },
+    {
+      "id": 4,
+      "title": "Transformar em restaurante",
+      "action": "reformar",
+      "scene": "MARE_UNIDA_ETAPA_04",
+      "asset_id": "restaurante",
+      "requires_stages": [
+        3
+      ],
+      "cost_game_coins_draft": 75000,
+      "new_services": [
+        "restaurante",
+        "salão",
+        "terraço"
+      ],
+      "rooms_represented_delta": 0,
+      "runtime_status": "not integrated",
+      "unlock_rule_draft": {
+        "reputation_min": 31,
+        "positive_operating_profit_days": 3,
+        "working_capital_days": 3
+      },
+      "renovation": {
+        "remove_visual": [
+          "original_kiosk_shell",
+          "original_kiosk_roof"
+        ],
+        "retain": [
+          "founding_bar_equipment",
+          "kitchen_equipment",
+          "player_inventory",
+          "staff",
+          "recipes"
+        ],
+        "add": [
+          "restaurant_shell",
+          "restaurant_roof",
+          "dining_room"
+        ],
+        "relocate_terrace_m": [
+          2,
+          -6,
+          0
+        ],
+        "bar_transform_m": [
+          0,
+          0,
+          0
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "title": "Sanitários do restaurante",
+      "action": "ampliar",
+      "scene": "MARE_UNIDA_ETAPA_05",
+      "asset_id": "sanitarios",
+      "requires_stages": [
+        4
+      ],
+      "cost_game_coins_draft": 35000,
+      "new_services": [
+        "sanitários",
+        "limpeza"
+      ],
+      "rooms_represented_delta": 0,
+      "runtime_status": "not integrated",
+      "unlock_rule_draft": {
+        "reputation_min": 35,
+        "positive_operating_profit_days": 3,
+        "working_capital_days": 3
+      }
+    },
+    {
+      "id": 6,
+      "title": "Hotel simples com restaurante nos fundos",
+      "action": "reformar",
+      "scene": "MARE_UNIDA_ETAPA_06",
+      "asset_id": "hotel_core",
+      "requires_stages": [
+        5
+      ],
+      "cost_game_coins_draft": 240000,
+      "new_services": [
+        "recepção",
+        "hospedagem",
+        "restaurante nos fundos",
+        "governança"
+      ],
+      "rooms_represented_delta": 4,
+      "runtime_status": "not integrated",
+      "unlock_rule_draft": {
+        "reputation_min": 39,
+        "positive_operating_profit_days": 3,
+        "working_capital_days": 7
+      },
+      "renovation": {
+        "replace_visual": [
+          "restaurant_original_shell",
+          "restaurant_original_roof"
+        ],
+        "add": [
+          "two_floor_hotel_core",
+          "rear_restaurant"
+        ],
+        "retain": [
+          "founding_bar_equipment",
+          "kitchen_equipment",
+          "player_inventory",
+          "staff",
+          "recipes"
+        ],
+        "founding_bar_transform_m": [
+          0,
+          31,
+          0
+        ],
+        "kitchen_transform_m": [
+          0,
+          26,
+          0
+        ],
+        "restaurant_center_m": [
+          0,
+          15
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "title": "Ala esquerda de quartos",
+      "action": "ampliar",
+      "scene": "MARE_UNIDA_ETAPA_07",
+      "asset_id": "ala_esquerda",
+      "requires_stages": [
+        6
+      ],
+      "cost_game_coins_draft": 270000,
+      "new_services": [
+        "mais quartos",
+        "varandas"
+      ],
+      "rooms_represented_delta": 6,
+      "runtime_status": "not integrated",
+      "unlock_rule_draft": {
+        "reputation_min": 43,
+        "positive_operating_profit_days": 3,
+        "working_capital_days": 7
+      }
+    },
+    {
+      "id": 8,
+      "title": "Ala direita de quartos",
+      "action": "ampliar",
+      "scene": "MARE_UNIDA_ETAPA_08",
+      "asset_id": "ala_direita",
+      "requires_stages": [
+        7
+      ],
+      "cost_game_coins_draft": 270000,
+      "new_services": [
+        "mais quartos",
+        "varandas"
+      ],
+      "rooms_represented_delta": 6,
+      "runtime_status": "not integrated",
+      "unlock_rule_draft": {
+        "reputation_min": 47,
+        "positive_operating_profit_days": 3,
+        "working_capital_days": 7
+      }
+    },
+    {
+      "id": 9,
+      "title": "Cozinha e operação ampliadas",
+      "action": "ampliar",
+      "scene": "MARE_UNIDA_ETAPA_09",
+      "asset_id": "operacao",
+      "requires_stages": [
+        8
+      ],
+      "cost_game_coins_draft": 130000,
+      "new_services": [
+        "abastecimento",
+        "apoio de equipe",
+        "manutenção",
+        "segurança"
+      ],
+      "rooms_represented_delta": 0,
+      "runtime_status": "not integrated",
+      "unlock_rule_draft": {
+        "reputation_min": 51,
+        "positive_operating_profit_days": 3,
+        "working_capital_days": 7
+      }
+    },
+    {
+      "id": 10,
+      "title": "Pátio de piscina conectado",
+      "action": "ampliar",
+      "scene": "MARE_UNIDA_ETAPA_10",
+      "asset_id": "piscina",
+      "requires_stages": [
+        9
+      ],
+      "cost_game_coins_draft": 180000,
+      "new_services": [
+        "piscina",
+        "solário"
+      ],
+      "rooms_represented_delta": 0,
+      "runtime_status": "not integrated",
+      "unlock_rule_draft": {
+        "reputation_min": 55,
+        "positive_operating_profit_days": 3,
+        "working_capital_days": 7
+      }
+    },
+    {
+      "id": 11,
+      "title": "Lounge de praia ligado à ala",
+      "action": "ampliar",
+      "scene": "MARE_UNIDA_ETAPA_11",
+      "asset_id": "lounge",
+      "requires_stages": [
+        10
+      ],
+      "cost_game_coins_draft": 95000,
+      "new_services": [
+        "cabanas",
+        "toalhas",
+        "descanso"
+      ],
+      "rooms_represented_delta": 0,
+      "runtime_status": "not integrated",
+      "unlock_rule_draft": {
+        "reputation_min": 59,
+        "positive_operating_profit_days": 3,
+        "working_capital_days": 7
+      }
+    },
+    {
+      "id": 12,
+      "title": "Clube infantil integrado",
+      "action": "ampliar",
+      "scene": "MARE_UNIDA_ETAPA_12",
+      "asset_id": "kids",
+      "requires_stages": [
+        11
+      ],
+      "cost_game_coins_draft": 180000,
+      "new_services": [
+        "monitoria infantil"
+      ],
+      "rooms_represented_delta": 0,
+      "runtime_status": "not integrated",
+      "unlock_rule_draft": {
+        "reputation_min": 63,
+        "positive_operating_profit_days": 3,
+        "working_capital_days": 7
+      }
+    },
+    {
+      "id": 13,
+      "title": "Academia no piso superior",
+      "action": "ampliar_vertical",
+      "scene": "MARE_UNIDA_ETAPA_13",
+      "asset_id": "academia",
+      "requires_stages": [
+        12
+      ],
+      "cost_game_coins_draft": 190000,
+      "new_services": [
+        "fitness",
+        "yoga"
+      ],
+      "rooms_represented_delta": 0,
+      "runtime_status": "not integrated",
+      "unlock_rule_draft": {
+        "reputation_min": 67,
+        "positive_operating_profit_days": 3,
+        "working_capital_days": 7
+      }
+    },
+    {
+      "id": 14,
+      "title": "Spa anexado ao corpo do hotel",
+      "action": "ampliar",
+      "scene": "MARE_UNIDA_ETAPA_14",
+      "asset_id": "spa",
+      "requires_stages": [
+        13
+      ],
+      "cost_game_coins_draft": 240000,
+      "new_services": [
+        "massagens",
+        "tratamentos"
+      ],
+      "rooms_represented_delta": 0,
+      "runtime_status": "not integrated",
+      "unlock_rule_draft": {
+        "reputation_min": 71,
+        "positive_operating_profit_days": 3,
+        "working_capital_days": 7
+      }
+    },
+    {
+      "id": 15,
+      "title": "Gastronomia no piso superior dos fundos",
+      "action": "ampliar_vertical",
+      "scene": "MARE_UNIDA_ETAPA_15",
+      "asset_id": "gastronomia",
+      "requires_stages": [
+        14
+      ],
+      "cost_game_coins_draft": 230000,
+      "new_services": [
+        "gastronomia autoral"
+      ],
+      "rooms_represented_delta": 0,
+      "runtime_status": "not integrated",
+      "unlock_rule_draft": {
+        "reputation_min": 75,
+        "positive_operating_profit_days": 3,
+        "working_capital_days": 7
+      },
+      "renovation": {
+        "replace_visual": [
+          "rear_restaurant_pitched_roof"
+        ],
+        "add": [
+          "upper_dining_floor"
+        ],
+        "retain": [
+          "ground_restaurant",
+          "founding_bar_equipment"
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "title": "Suítes privativas sobre o spa",
+      "action": "ampliar_vertical",
+      "scene": "MARE_UNIDA_ETAPA_16",
+      "asset_id": "suites_privativas",
+      "requires_stages": [
+        15
+      ],
+      "cost_game_coins_draft": 280000,
+      "new_services": [
+        "suítes privativas",
+        "atendimento personalizado"
+      ],
+      "rooms_represented_delta": 3,
+      "runtime_status": "not integrated",
+      "unlock_rule_draft": {
+        "reputation_min": 79,
+        "positive_operating_profit_days": 3,
+        "working_capital_days": 7
+      }
+    },
+    {
+      "id": 17,
+      "title": "Salão de eventos nos fundos",
+      "action": "ampliar",
+      "scene": "MARE_UNIDA_ETAPA_17",
+      "asset_id": "eventos",
+      "requires_stages": [
+        16
+      ],
+      "cost_game_coins_draft": 330000,
+      "new_services": [
+        "casamentos",
+        "reuniões",
+        "celebrações"
+      ],
+      "rooms_represented_delta": 0,
+      "runtime_status": "not integrated",
+      "unlock_rule_draft": {
+        "reputation_min": 83,
+        "positive_operating_profit_days": 3,
+        "working_capital_days": 7
+      }
+    },
+    {
+      "id": 18,
+      "title": "Lavanderia e recursos ligados",
+      "action": "ampliar",
+      "scene": "MARE_UNIDA_ETAPA_18",
+      "asset_id": "recursos",
+      "requires_stages": [
+        17
+      ],
+      "cost_game_coins_draft": 240000,
+      "new_services": [
+        "lavanderia",
+        "solar",
+        "gestão de água e resíduos"
+      ],
+      "rooms_represented_delta": 0,
+      "runtime_status": "not integrated",
+      "unlock_rule_draft": {
+        "reputation_min": 87,
+        "positive_operating_profit_days": 3,
+        "working_capital_days": 7
+      }
+    },
+    {
+      "id": 19,
+      "title": "Novos pisos no núcleo e ala esquerda",
+      "action": "ampliar_vertical",
+      "scene": "MARE_UNIDA_ETAPA_19",
+      "asset_id": "pisos_premium",
+      "requires_stages": [
+        18
+      ],
+      "cost_game_coins_draft": 450000,
+      "new_services": [
+        "suítes premium"
+      ],
+      "rooms_represented_delta": 7,
+      "runtime_status": "not integrated",
+      "unlock_rule_draft": {
+        "reputation_min": 90,
+        "positive_operating_profit_days": 3,
+        "working_capital_days": 7
+      }
+    },
+    {
+      "id": 20,
+      "title": "Unificar o resort e serviço cinco estrelas",
+      "action": "acabamento",
+      "scene": "MARE_UNIDA_ETAPA_20",
+      "asset_id": "resort_final",
+      "requires_stages": [
+        19
+      ],
+      "cost_game_coins_draft": 650000,
+      "new_services": [
+        "ala direita premium",
+        "terraço de lazer",
+        "piscina de cobertura",
+        "chegada coberta",
+        "auditoria de qualidade",
+        "concierge",
+        "room service"
+      ],
+      "rooms_represented_delta": 3,
+      "runtime_status": "not integrated",
+      "unlock_rule_draft": {
+        "reputation_min": 90,
+        "positive_operating_profit_days": 3,
+        "working_capital_days": 7
+      },
+      "game_five_star_audit": {
+        "service_min": 95,
+        "hygiene_min": 95,
+        "comfort_min": 90,
+        "maintenance_min": 90,
+        "guest_satisfaction_min": 90,
+        "sustained_days": 7,
+        "all_previous_stages_required": true,
+        "status": "authorial game targets, not an official hotel classification"
+      }
+    }
+  ]
+}

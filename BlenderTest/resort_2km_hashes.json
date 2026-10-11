@@ -1,0 +1,42 @@
+[
+  {
+    "file": "Resort_Ipanema_2x2km.blend",
+    "sha256": "0C17F3C1F3DC4941460C00F13A66C76984CE5BB338B772A027802FB3050E5B41",
+    "bytes": 69547965
+  },
+  {
+    "file": "resort_2km_aerial.png",
+    "sha256": "8AFFD15A9ECAD54DBEC75C2497B5A04010D26CFD24CE60B490417350ABF4EA46",
+    "bytes": 2301719
+  },
+  {
+    "file": "resort_2km_district.png",
+    "sha256": "840A73D1DEA8F82BC5C8D326F9EFC776A09B4E198F953DBCA0D825A5388F8AB6",
+    "bytes": 2959649
+  },
+  {
+    "file": "resort_2km_walk.png",
+    "sha256": "55ACD34408278E91494BB16F53EB171D6F9F0125DBE1A98B70ED21416408BB24",
+    "bytes": 2110818
+  },
+  {
+    "file": "resort_2km_pool.png",
+    "sha256": "BC9303503B295AE0180F4DD1F947F0B6C7751FBC9D2472061FD83BFDBC12CE4B",
+    "bytes": 2133741
+  },
+  {
+    "file": "build_resort_2km.py",
+    "sha256": "6E7264E0C668C5AE247F4954587C7E8E661E52DD7887D152C1F4021858DC244F",
+    "bytes": 8585
+  },
+  {
+    "file": "RESORT_2KM_ENTREGA.md",
+    "sha256": "937362BA886D7EAAAD8386A573A3AE5D0CE0AE6FF496F21B30B441B870572DA2",
+    "bytes": 4306
+  },
+  {
+    "file": "resort_2km_validation.json",
+    "sha256": "7CA71E025F4A60EC2FB96CAD479E0A823019234F0450BB250437CEFC171557A6",
+    "bytes": 602
+  }
+]

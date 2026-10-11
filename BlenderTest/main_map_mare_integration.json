@@ -1,0 +1,114 @@
+{
+  "file": "D:\\ProjectResort_300m_CompactPass\\BlenderTest\\Resort_Main_Map_Mare_Integrated_v4.blend",
+  "map_m": [
+    2000,
+    1000
+  ],
+  "sectors": 40,
+  "replacement_sector": "03",
+  "reserved_local_plot": [
+    -95,
+    16,
+    -29,
+    64
+  ],
+  "resort_translation": [
+    -340,
+    -295,
+    0
+  ],
+  "building_scale": [
+    1,
+    1,
+    1
+  ],
+  "stats": {
+    "removed_objects": 185,
+    "removed_components": 16385,
+    "removed_faces": 88467
+  },
+  "stages": [
+    {
+      "stage": 1,
+      "scene": "RESORT_MAIN_MARE_01"
+    },
+    {
+      "stage": 2,
+      "scene": "RESORT_MAIN_MARE_02"
+    },
+    {
+      "stage": 3,
+      "scene": "RESORT_MAIN_MARE_03"
+    },
+    {
+      "stage": 4,
+      "scene": "RESORT_MAIN_MARE_04"
+    },
+    {
+      "stage": 5,
+      "scene": "RESORT_MAIN_MARE_05"
+    },
+    {
+      "stage": 6,
+      "scene": "RESORT_MAIN_MARE_06"
+    },
+    {
+      "stage": 7,
+      "scene": "RESORT_MAIN_MARE_07"
+    },
+    {
+      "stage": 8,
+      "scene": "RESORT_MAIN_MARE_08"
+    },
+    {
+      "stage": 9,
+      "scene": "RESORT_MAIN_MARE_09"
+    },
+    {
+      "stage": 10,
+      "scene": "RESORT_MAIN_MARE_10"
+    },
+    {
+      "stage": 11,
+      "scene": "RESORT_MAIN_MARE_11"
+    },
+    {
+      "stage": 12,
+      "scene": "RESORT_MAIN_MARE_12"
+    },
+    {
+      "stage": 13,
+      "scene": "RESORT_MAIN_MARE_13"
+    },
+    {
+      "stage": 14,
+      "scene": "RESORT_MAIN_MARE_14"
+    },
+    {
+      "stage": 15,
+      "scene": "RESORT_MAIN_MARE_15"
+    },
+    {
+      "stage": 16,
+      "scene": "RESORT_MAIN_MARE_16"
+    },
+    {
+      "stage": 17,
+      "scene": "RESORT_MAIN_MARE_17"
+    },
+    {
+      "stage": 18,
+      "scene": "RESORT_MAIN_MARE_18"
+    },
+    {
+      "stage": 19,
+      "scene": "RESORT_MAIN_MARE_19"
+    },
+    {
+      "stage": 20,
+      "scene": "RESORT_MAIN_MARE_20"
+    }
+  ],
+  "city_source_scene_preserved": true,
+  "note": "Resort assembly excludes the standalone sea/mainland/promenade to avoid overlap. Existing public waterfront retained."
+}

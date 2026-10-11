@@ -1,0 +1,107 @@
+{
+  "version": 5,
+  "scope": "antialiasing delta over integration v4",
+  "created_utc": "2026-10-10T14:52:31.816914+00:00",
+  "base_manifest": "mare_unity_hashes_v4.json",
+  "changed_unity_files": [
+    {
+      "path": "Assets/Scenes/ProjectResort_Main_2x1km_Mare.unity",
+      "bytes": 257311,
+      "sha256": "468261f847e310ac8bdff143f7b23fa628deb42315da184a302bab3eed2784bd"
+    },
+    {
+      "path": "ProjectSettings/GraphicsSettings.asset",
+      "bytes": 3007,
+      "sha256": "c8c9faf0a131f9e95548e5d302e5ff824612004219c1ac434d8ae75da0fe57db"
+    },
+    {
+      "path": "ProjectSettings/QualitySettings.asset",
+      "bytes": 10138,
+      "sha256": "00dd2c46c5fd2a25d1ec0b6222170b75feab6ca9f8f0c71a7ade88853a09264e"
+    },
+    {
+      "path": "Assets/R15/BlenderIntegrated/Rendering/Mare_URP_Antialiasing.asset",
+      "bytes": 4927,
+      "sha256": "f7e7e2172469d47591f19a4a0d3405d0766f1c8da5f51628e3208fdeaf0797b0"
+    },
+    {
+      "path": "Assets/R15/BlenderIntegrated/Rendering/Mare_URP_Antialiasing.asset.meta",
+      "bytes": 189,
+      "sha256": "5c71c548fdd9f706d072a80f62f26370a833f5b361571faa0453632e94602310"
+    },
+    {
+      "path": "Assets/R15/BlenderIntegrated/Rendering.meta",
+      "bytes": 172,
+      "sha256": "4249b9e88ebb186f42d591dd77e92e07a6e30f54afa62b4bd8054fa9f19720bc"
+    }
+  ],
+  "evidence_and_tools": [
+    {
+      "path": "UnityCaptures_AA_v5/after_aerial.png",
+      "bytes": 1971546,
+      "sha256": "e41b4c8c297c1a11e0be622b57063713bfb388d9499dbdc6daebf9e5b60ca8c5"
+    },
+    {
+      "path": "UnityCaptures_AA_v5/after_restaurant.png",
+      "bytes": 1054154,
+      "sha256": "267e7a7f85477fdbc4dc7bb48255f35b74ef19376774d628dd269acf93ec1bb0"
+    },
+    {
+      "path": "UnityCaptures_AA_v5/after_room.png",
+      "bytes": 1580592,
+      "sha256": "184c7ff6548fc3a5d7a0dca69f5b48c1593e04e412da7f7c8f35143cf397bf43"
+    },
+    {
+      "path": "UnityCaptures_AA_v5/after_walk.png",
+      "bytes": 1090857,
+      "sha256": "a7cbd83b31ae6622c8f1867b965ecbd0894f8abcca9d25510f0d62aa900e201d"
+    },
+    {
+      "path": "UnityCaptures_AA_v5/antialiasing_validation.json",
+      "bytes": 1773,
+      "sha256": "bcb680e913fbd79cd3ac63ca887f34405ca3a5428db520e5b370f7452ec17975"
+    },
+    {
+      "path": "UnityCaptures_AA_v5/before_aerial.png",
+      "bytes": 1382734,
+      "sha256": "3b155a97623d2cf10bec61bd3d47b40580f30cab72fd05b5c16da0cb9e1b10b0"
+    },
+    {
+      "path": "UnityCaptures_AA_v5/before_restaurant.png",
+      "bytes": 1016479,
+      "sha256": "41e115cc10d635f79bce36f027b564c85e0402c217229c52afda84e6d9c54dc5"
+    },
+    {
+      "path": "UnityCaptures_AA_v5/before_room.png",
+      "bytes": 1557219,
+      "sha256": "a5e3a2d7c47cae7466103bfa62fd1a464f9b6812c31c3096c4b7d94c631f21aa"
+    },
+    {
+      "path": "UnityCaptures_AA_v5/before_walk.png",
+      "bytes": 980186,
+      "sha256": "5b029645c6f9f78965808a08912fb723a956fe0c33231927db82c4c235a90af6"
+    },
+    {
+      "path": "tools/Antialiasing_v5/FixMareAntialiasing.cs",
+      "bytes": 5153,
+      "sha256": "0934f3fb24406d58f0a5a087ca5b7c7bd6b18eaaa66e4d1006c816b69b5d7a19"
+    },
+    {
+      "path": "tools/Antialiasing_v5/ImportMareUnity.cs",
+      "bytes": 18985,
+      "sha256": "c205924cc2ffdea76d5c44b501093d1acc4109e67efafbc434e4054ca6f1626b"
+    },
+    {
+      "path": "tools/Antialiasing_v5/package_antialiasing_v5.py",
+      "bytes": 1562,
+      "sha256": "8b3f4fb2df545dd4eea1f62588f4360899fae36573f8b85bfd12faa648373965"
+    },
+    {
+      "path": "ANTIALIASING_V5.md",
+      "bytes": 1827,
+      "sha256": "2fcb6905a25a5808add8e10e1608d2847ddc28100163780478059782c8ea7562"
+    }
+  ],
+  "missing_meta": [],
+  "fps_measured": false
+}

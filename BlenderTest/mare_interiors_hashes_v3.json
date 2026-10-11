@@ -1,0 +1,145 @@
+{
+  "revision": 3,
+  "created_utc": "2026-10-10T10:40:29.647282+00:00",
+  "files": [
+    {
+      "file": "Mare_Evolucao_Interiores_v3_1.blend",
+      "bytes": 273476417,
+      "sha256": "6117c1a706f2b7d41b88632782a15336824a2d50f80b34fb5c71cf5b2fa5a5f2"
+    },
+    {
+      "file": "mare_progression_interiors_v3.json",
+      "bytes": 24183,
+      "sha256": "bcb38e16e34c61776f780b3f04a87c1a7c5760070c93ed1d6007b3d9e9bcdcc6"
+    },
+    {
+      "file": "mare_interiors_manifest_v3.json",
+      "bytes": 63644,
+      "sha256": "9cfdaf9605e39f660ca5d9c4b89ccaa8ad9ff4cad4e19d3a9a4d0e3a6bdd65d0"
+    },
+    {
+      "file": "mare_interiors_validation_v3.json",
+      "bytes": 3154,
+      "sha256": "44f3a2048d3e09fadc5ac3a5456add83cd3d5aae9a6ed8ec318c296428f85083"
+    },
+    {
+      "file": "mare_interiors_render_evidence_v3.json",
+      "bytes": 2989,
+      "sha256": "70b18d8f4496604a6ffca2758a986813da39ce41a73e39c9af16258cb64b7d9b"
+    },
+    {
+      "file": "MARE_INTERIORES_V3.md",
+      "bytes": 5837,
+      "sha256": "01f1f61851c60ca60407838365ba854f228400a905a4dcf565ec4d8dd7462421"
+    },
+    {
+      "file": "interior_v3_lobby.png",
+      "bytes": 1536064,
+      "sha256": "f4ee8401843397090a615e2f48e03b25775f8af974c44e14ec9a87a64889aa8f",
+      "resolution": [
+        1600,
+        900
+      ]
+    },
+    {
+      "file": "interior_v3_quarto.png",
+      "bytes": 1875504,
+      "sha256": "93017dfed1e4c0b15ac59acefe00f8e997af5397f580ef3ae33ce8a6a807e15d",
+      "resolution": [
+        1600,
+        900
+      ]
+    },
+    {
+      "file": "interior_v3_restaurante.png",
+      "bytes": 1617754,
+      "sha256": "dc8aaa7d9819246f4dfd6399b892f962e6d8e59471a037f6c9ed2863116c4b17",
+      "resolution": [
+        1600,
+        900
+      ]
+    },
+    {
+      "file": "interior_v3_cozinha.png",
+      "bytes": 1669575,
+      "sha256": "5b366f431f35778076713a9ed0224070e2542bcea1dc5e2beaa07fea60aa8627",
+      "resolution": [
+        1600,
+        900
+      ]
+    },
+    {
+      "file": "interior_v3_spa.png",
+      "bytes": 1668819,
+      "sha256": "a08732ea4b9ac099dbb9dfcc1c863f5c5ed8bd5a091471ea02b3dbb79a1c2f43",
+      "resolution": [
+        1600,
+        900
+      ]
+    },
+    {
+      "file": "interior_v3_lavanderia.png",
+      "bytes": 1515231,
+      "sha256": "da4ea94f5a30abd45179c5742c7229231894cf185a76a4b29ec1e590b474ebd4",
+      "resolution": [
+        1600,
+        900
+      ]
+    },
+    {
+      "file": "build_mare_interiors_v3.py",
+      "bytes": 21656,
+      "sha256": "d2d9e42a9b18e566d0bc82d129740335860b5278d624b54bc12696f162df906e"
+    },
+    {
+      "file": "refine_mare_interiors_v3.py",
+      "bytes": 5421,
+      "sha256": "85748dc3b18233160e1ed4507f8606318adedc452a4b3084ab31052cda85e5f0"
+    },
+    {
+      "file": "finish_mare_interiors_v3.py",
+      "bytes": 4533,
+      "sha256": "43f2b4bee8b5173503a94cf5639ebee5d8c8af3b576d534d613cc643617632eb"
+    },
+    {
+      "file": "prepare_mare_headless_v3.py",
+      "bytes": 556,
+      "sha256": "46aa339cb6916dfacc7a063d038d7957e3996d8a4c2bdc67b20a3df06e1d5cba"
+    },
+    {
+      "file": "detail_mare_interiors_v3.py",
+      "bytes": 5709,
+      "sha256": "10ddaa835108204a4a850d555420e29c8d30a0b3a10956b8eac8f83f3d177fbe"
+    },
+    {
+      "file": "link_mare_upper_interiors_v3.py",
+      "bytes": 2396,
+      "sha256": "443547cb17b8cd64196c66df0ffab9555a5e17a8b53aa6fa649b52474876c571"
+    },
+    {
+      "file": "polish_mare_interiors_v3.py",
+      "bytes": 3486,
+      "sha256": "2752500d43c56d60cdac62cc98c3bda694061e4a080b365106272e7080f28741"
+    },
+    {
+      "file": "support_mare_spa_v3.py",
+      "bytes": 883,
+      "sha256": "0ecc2878a1023130de5d1f867a6e00c009b538063838ac992e0da1aa63db8a48"
+    },
+    {
+      "file": "inspect_mare_interiors_v3.py",
+      "bytes": 2475,
+      "sha256": "ee327df8fed8ea7b6577fbed30425b0b58823702e9abfe20ecfe1d9640ac88f1"
+    },
+    {
+      "file": "render_mare_interiors_v3.py",
+      "bytes": 2563,
+      "sha256": "1bcc97ea100f8d3fe224d750b4f80053d779af2e6ac9c98b9c9b9b840a9f8caa"
+    },
+    {
+      "file": "package_mare_interiors_v3.py",
+      "bytes": 2335,
+      "sha256": "49c759fe2b2b58cc0772d9411c8836fb57ecb639733173d506b3c846f1d370a8"
+    }
+  ]
+}

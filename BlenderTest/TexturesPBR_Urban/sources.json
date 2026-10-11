@@ -1,0 +1,130 @@
+[
+  {
+    "asset": "concrete_pavers_02",
+    "map": "Diffuse",
+    "file": "concrete_pavers_02_diff_4k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/concrete_pavers_02/concrete_pavers_02_diff_4k.jpg",
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/concrete_pavers_02"
+  },
+  {
+    "asset": "concrete_pavers_02",
+    "map": "nor_gl",
+    "file": "concrete_pavers_02_nor_gl_4k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/concrete_pavers_02/concrete_pavers_02_nor_gl_4k.jpg",
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/concrete_pavers_02"
+  },
+  {
+    "asset": "concrete_pavers_02",
+    "map": "Rough",
+    "file": "concrete_pavers_02_rough_4k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/concrete_pavers_02/concrete_pavers_02_rough_4k.jpg",
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/concrete_pavers_02"
+  },
+  {
+    "asset": "concrete_pavers_02",
+    "map": "Displacement",
+    "file": "concrete_pavers_02_disp_4k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/concrete_pavers_02/concrete_pavers_02_disp_4k.jpg",
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/concrete_pavers_02"
+  },
+  {
+    "asset": "pavement_03",
+    "map": "Diffuse",
+    "file": "pavement_03_diff_4k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/pavement_03/pavement_03_diff_4k.jpg",
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/pavement_03"
+  },
+  {
+    "asset": "pavement_03",
+    "map": "nor_gl",
+    "file": "pavement_03_nor_gl_4k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/pavement_03/pavement_03_nor_gl_4k.jpg",
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/pavement_03"
+  },
+  {
+    "asset": "pavement_03",
+    "map": "Rough",
+    "file": "pavement_03_rough_4k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/pavement_03/pavement_03_rough_4k.jpg",
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/pavement_03"
+  },
+  {
+    "asset": "pavement_03",
+    "map": "Displacement",
+    "file": "pavement_03_disp_4k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/pavement_03/pavement_03_disp_4k.jpg",
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/pavement_03"
+  },
+  {
+    "asset": "grey_plaster_02",
+    "map": "Diffuse",
+    "file": "grey_plaster_02_diff_4k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/grey_plaster_02/grey_plaster_02_diff_4k.jpg",
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/grey_plaster_02"
+  },
+  {
+    "asset": "grey_plaster_02",
+    "map": "nor_gl",
+    "file": "grey_plaster_02_nor_gl_4k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/grey_plaster_02/grey_plaster_02_nor_gl_4k.jpg",
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/grey_plaster_02"
+  },
+  {
+    "asset": "grey_plaster_02",
+    "map": "Rough",
+    "file": "grey_plaster_02_rough_4k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/grey_plaster_02/grey_plaster_02_rough_4k.jpg",
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/grey_plaster_02"
+  },
+  {
+    "asset": "grey_plaster_02",
+    "map": "Displacement",
+    "file": "grey_plaster_02_disp_4k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/grey_plaster_02/grey_plaster_02_disp_4k.jpg",
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/grey_plaster_02"
+  },
+  {
+    "asset": "concrete",
+    "map": "Diffuse",
+    "file": "concrete_diff_4k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/concrete/concrete_diff_4k.jpg",
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/concrete"
+  },
+  {
+    "asset": "concrete",
+    "map": "nor_gl",
+    "file": "concrete_nor_gl_4k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/concrete/concrete_nor_gl_4k.jpg",
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/concrete"
+  },
+  {
+    "asset": "concrete",
+    "map": "Rough",
+    "file": "concrete_rough_4k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/concrete/concrete_rough_4k.jpg",
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/concrete"
+  },
+  {
+    "asset": "concrete",
+    "map": "Displacement",
+    "file": "concrete_disp_4k.jpg",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/4k/concrete/concrete_disp_4k.jpg",
+    "license": "CC0",
+    "source": "https://polyhaven.com/a/concrete"
+  }
+]

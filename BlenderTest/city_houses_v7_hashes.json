@@ -1,0 +1,81 @@
+{
+  "version": 7,
+  "created": "2026-10-10",
+  "map_m": [
+    2000,
+    1000
+  ],
+  "source_blend": "BlenderTest/Resort_Main_Map_Mare_Houses_v7.blend",
+  "stats": {
+    "sectors": 40,
+    "inland_sectors": 30,
+    "coastal_sectors": 10,
+    "houses": 1132,
+    "shops": 478,
+    "shop_categories": 12,
+    "city_pools": 0,
+    "resort_stages": 20
+  },
+  "artifacts": [
+    {
+      "sha256": "91f316e76f9ab137b33a48c18486d880bb04eec938c36cda6eeddfe206d290d1",
+      "path": "BlenderTest\\Resort_Main_Map_Mare_Houses_v7.blend",
+      "size_bytes": 300703417
+    },
+    {
+      "sha256": "43427945268bed6850618798563b0a57575a9a51cc28f487e389eaa5bd95dc10",
+      "path": "UnityProject\\Assets\\Scenes\\ProjectResort_Mare_StandalonePreview_HousesV7.unity",
+      "size_bytes": 6569308
+    },
+    {
+      "sha256": "895080092bf5ad2df54cd125856d7569a47e4d3ae7026822dac3ba9010602835",
+      "path": "UnityProject\\Assets\\Scenes\\ProjectResort_Main_2x1km_HousesV7.unity",
+      "size_bytes": 6552083
+    },
+    {
+      "sha256": "af88b840e599661ac63fc10ae27ac77dd97cd46b44df8a7ce60eb0dcfacfc99e",
+      "path": "Builds\\Mare_Windows_v7\\ProjectResort_Mare_v7.exe",
+      "size_bytes": 667136
+    },
+    {
+      "sha256": "7288480a131375aa10798ab44d294d42503f2cac28b553f04658586ee7f29617",
+      "path": "Builds\\Mare_Windows_v7\\build_report.json",
+      "size_bytes": 4274
+    },
+    {
+      "sha256": "a7136d3d02536d0477bd8724245ad01272496ddb287a172d132c348212994acd",
+      "path": "BlenderTest\\tools\\revise_city_houses_v7.py",
+      "size_bytes": 17871
+    },
+    {
+      "sha256": "a9622e9b5ae061c811ba358d0b510461f4c67d57cf5e1a0d806138648b155c03",
+      "path": "BlenderTest\\tools\\audit_houses_v7.py",
+      "size_bytes": 2546
+    },
+    {
+      "sha256": "747ff9d273e87156643d56d7bf829e96ccab08d4ace35926677894bb383d228c",
+      "path": "BlenderTest\\tools\\export_city_houses_v7_unity.py",
+      "size_bytes": 6103
+    },
+    {
+      "sha256": "2e4339a817355317416a08aa2dcc982a6a387b79e136795c89bdf7519549da22",
+      "path": "UnityProject\\Assets\\Editor\\ImportCityHousesV7.cs",
+      "size_bytes": 17045
+    },
+    {
+      "sha256": "c15d7673e964f8ef300aa4afa098af4dd565275c5a56845f6d789b3df5a20f75",
+      "path": "BlenderTest\\BlenderCaptures_Houses_v7\\blender_aerial.png",
+      "size_bytes": 2888983
+    },
+    {
+      "sha256": "96114382bcfe40cc2a02e36d67b2f8b2e0b8f2672ba76dc51c18962952280438",
+      "path": "BlenderTest\\BlenderCaptures_Houses_v7\\blender_neighbourhood.png",
+      "size_bytes": 1976990
+    },
+    {
+      "sha256": "9778749c4f39b4310e783ba975656d83ae4a70c2162a984c00dcbc531938bb25",
+      "path": "BlenderTest\\BlenderCaptures_Houses_v7\\blender_waterfront_rear.png",
+      "size_bytes": 2360104
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "sector": "lobby",
+    "camera": "INTERIOR_CAMERA_LOBBY",
+    "included_collections": [
+      "UNIDA_06_HOTEL_SIMPLES",
+      "INTERIOR_06_LOBBY",
+      "INTERIOR_06_PUBLIC_WASHROOMS",
+      "INTERIOR_06_ADMINISTRATION"
+    ],
+    "image": "D:/ProjectResort_300m_CompactPass/BlenderTest/interior_v3_lobby.png",
+    "resolution": [
+      1600,
+      900
+    ],
+    "engine": "Cycles",
+    "device": "GPU",
+    "scope": "isolated sector inspection of real saved assets, not a Unity gameplay capture"
+  },
+  {
+    "sector": "quarto",
+    "camera": "INTERIOR_CAMERA_ROOM",
+    "included_collections": [
+      "UNIDA_06_HOTEL_SIMPLES",
+      "INTERIOR_06_QUARTOS_HOTEL"
+    ],
+    "image": "D:/ProjectResort_300m_CompactPass/BlenderTest/interior_v3_quarto.png",
+    "resolution": [
+      1600,
+      900
+    ],
+    "engine": "Cycles",
+    "device": "GPU",
+    "scope": "isolated sector inspection of real saved assets, not a Unity gameplay capture"
+  },
+  {
+    "sector": "restaurante",
+    "camera": "INTERIOR_CAMERA_RESTAURANT",
+    "included_collections": [
+      "UNIDA_06_RESTAURANTE_NOS_FUNDOS",
+      "INTERIOR_06_REAR_RESTAURANT_INTERIOR",
+      "UNIDA_RESTAURANT_REAR_ROOF"
+    ],
+    "image": "D:/ProjectResort_300m_CompactPass/BlenderTest/interior_v3_restaurante.png",
+    "resolution": [
+      1600,
+      900
+    ],
+    "engine": "Cycles",
+    "device": "GPU",
+    "scope": "isolated sector inspection of real saved assets, not a Unity gameplay capture"
+  },
+  {
+    "sector": "cozinha",
+    "camera": "INTERIOR_CAMERA_KITCHEN",
+    "included_collections": [
+      "UNIDA_06_RESTAURANTE_NOS_FUNDOS",
+      "INTERIOR_06_REAR_RESTAURANT_INTERIOR",
+      "UNIDA_RESTAURANT_REAR_ROOF"
+    ],
+    "image": "D:/ProjectResort_300m_CompactPass/BlenderTest/interior_v3_cozinha.png",
+    "resolution": [
+      1600,
+      900
+    ],
+    "engine": "Cycles",
+    "device": "GPU",
+    "scope": "isolated sector inspection of real saved assets, not a Unity gameplay capture"
+  },
+  {
+    "sector": "spa",
+    "camera": "INTERIOR_CAMERA_SPA",
+    "included_collections": [
+      "UNIDA_14_SPA_ANEXADO",
+      "INTERIOR_14_SPA_INTERIOR"
+    ],
+    "image": "D:/ProjectResort_300m_CompactPass/BlenderTest/interior_v3_spa.png",
+    "resolution": [
+      1600,
+      900
+    ],
+    "engine": "Cycles",
+    "device": "GPU",
+    "scope": "isolated sector inspection of real saved assets, not a Unity gameplay capture"
+  },
+  {
+    "sector": "lavanderia",
+    "camera": "INTERIOR_CAMERA_LAUNDRY",
+    "included_collections": [
+      "UNIDA_18_LAVANDERIA_E_RECURSOS",
+      "INTERIOR_18_SERVICE_INTERIOR"
+    ],
+    "image": "D:/ProjectResort_300m_CompactPass/BlenderTest/interior_v3_lavanderia.png",
+    "resolution": [
+      1600,
+      900
+    ],
+    "engine": "Cycles",
+    "device": "GPU",
+    "scope": "isolated sector inspection of real saved assets, not a Unity gameplay capture"
+  }
+]

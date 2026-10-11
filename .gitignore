@@ -19,3 +19,5 @@ Thumbs.db
 
 .work/
 BuildCache/
+# Python test cache
+**/__pycache__/

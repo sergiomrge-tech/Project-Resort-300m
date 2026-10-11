@@ -1,0 +1,43 @@
+{
+  "file": "D:\\ProjectResort_300m_CompactPass\\BlenderTest\\Resort_Rio_Cristo_Montanhas_Vegetacao_v2.blend",
+  "engine": "CYCLES",
+  "city_dimensions_m": [
+    2000.0,
+    1000.0,
+    1.600000023841858
+  ],
+  "city_sector_count": 40,
+  "city_scales": [
+    [
+      1.0,
+      1.0,
+      1.0
+    ]
+  ],
+  "cristo_dimensions_m": [
+    29.705425262451172,
+    7.077997207641602,
+    38.0
+  ],
+  "cristo_vertices": 30553,
+  "cristo_triangles": 55600,
+  "cristo_author": "Parlin Sitorus",
+  "cristo_license": "Creative Commons Attribution 4.0 \u2014 verified Sketchfab model API",
+  "cristo_source": "https://sketchfab.com/3d-models/christ-the-redeemer-cristo-redentor-157dbdb9d8654651a5e5c9af7b412398",
+  "forest_instances": 6482,
+  "mountains": [
+    "CORCOVADO_TERRAIN",
+    "PEDRA_DA_GAVEA_TERRAIN",
+    "DOIS_IRMAOS_WEST_TERRAIN",
+    "DOIS_IRMAOS_EAST_TERRAIN",
+    "TIJUCA_NORTH_EAST_TERRAIN",
+    "FOREST_FOOTHILLS_TERRAIN"
+  ],
+  "packed_images": 17,
+  "file_images": 17,
+  "sidewalk_alignment": "{'sector_variants': 3, 'rounded_sidewalk_corners_per_variant': 4, 'curb_paths': 6}",
+  "limitations": [
+    "Geography and mountain surfaces are artistic approximations, not surveyed GIS terrain.",
+    "No Unity integration, physics, LOD budget or FPS validation in this Blender pass."
+  ]
+}

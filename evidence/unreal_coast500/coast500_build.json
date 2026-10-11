@@ -1,0 +1,49 @@
+{
+  "map": "/Game/Resort/Maps/Resort_HalfWest",
+  "bounds_m": {
+    "x": [
+      -1000,
+      0
+    ],
+    "y": [
+      -500,
+      0
+    ]
+  },
+  "removed_depth_m": 500,
+  "meshes": [
+    {
+      "asset": "/Game/Resort/Coast500/City_01_03_Coast500_Final",
+      "triangles": 3008,
+      "unmatched_materials": []
+    },
+    {
+      "asset": "/Game/Resort/Coast500/City_02_03_Coast500",
+      "triangles": 3100,
+      "unmatched_materials": []
+    },
+    {
+      "asset": "/Game/Resort/Coast500/City_03_03_Coast500",
+      "triangles": 3098,
+      "unmatched_materials": []
+    },
+    {
+      "asset": "/Game/Resort/Coast500/City_04_03_Coast500",
+      "triangles": 3116,
+      "unmatched_materials": []
+    },
+    {
+      "asset": "/Game/Resort/Coast500/City_05_03_Coast500",
+      "triangles": 3128,
+      "unmatched_materials": []
+    },
+    {
+      "asset": "/Game/Resort/Coast500/HalfWest_BoundarySurfaces_Coast500",
+      "triangles": 14026,
+      "unmatched_materials": []
+    }
+  ],
+  "status": "saved",
+  "static_mesh_actors": 16,
+  "world": "/Game/Resort/Maps/Resort_HalfWest.Resort_HalfWest"
+}

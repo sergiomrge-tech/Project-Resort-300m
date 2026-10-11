@@ -1,0 +1,62 @@
+[
+  {
+    "file": "Resort_Ipanema_2x1km_Comercio_Ruas.blend",
+    "sha256": "BF1D6210DBAAE3EDCC4880B46D3F292AAFA2288FAB2DE7C15E33F43B4E868D5B",
+    "bytes": 70563799
+  },
+  {
+    "file": "resort_2x1_street_coast.png",
+    "sha256": "67D4E00B8C4477F0AA292ED1F0C983ABB635531834E50A4B94018EAB77B6A924",
+    "bytes": 2405482
+  },
+  {
+    "file": "resort_2x1_street_grid.png",
+    "sha256": "F9D64B0B0942C69972B27AD38A630F6F2A11AA060AAE3DF2EE1538E16CBA51AA",
+    "bytes": 2037055
+  },
+  {
+    "file": "resort_2x1_retail_walk.png",
+    "sha256": "C5363D05BDD54C92D71040A6320F8332FFB6812318CF096BFA79E428E9996A53",
+    "bytes": 2202700
+  },
+  {
+    "file": "resort_2x1_retail_cafe.png",
+    "sha256": "820DBF5288DE68E9AF80F35354AA678358B4BC03316520EC94609D7286098DD3",
+    "bytes": 1919945
+  },
+  {
+    "file": "resort_2x1_retail_shops.png",
+    "sha256": "83B0FF1CC5A66B35D34E57AC83D38F27E97E98B9B29E701C6F62B6D4BE5B5AE4",
+    "bytes": 2257645
+  },
+  {
+    "file": "build_resort_2x1km_commerce.py",
+    "sha256": "E7645BFAE8E4B9E1DBE9232C0074BE8359CFECA1CF793427FD219E478CA88F39",
+    "bytes": 14575
+  },
+  {
+    "file": "connect_streets_2x1km.py",
+    "sha256": "C625AE426B15A75D9B187D741E05B2A7786E87A4629795DF13E555B5B6711B8D",
+    "bytes": 8898
+  },
+  {
+    "file": "clear_street_corridors.py",
+    "sha256": "721F081DECB427D0A9337C0FA653AAB3D190B83E130BD71679EAD34024A47C86",
+    "bytes": 2977
+  },
+  {
+    "file": "round_sidewalk_corners.py",
+    "sha256": "C50027DA38A6630EE1A44EA7C55F4538C6AD24FF649F82E5436BE05A360DDAFE",
+    "bytes": 2645
+  },
+  {
+    "file": "retail_roads_validation.json",
+    "sha256": "0BA6AF91453B3B9FC5DE2ACB77161327CF1200129B267C04A3B21DFAE7B2D521",
+    "bytes": 686
+  },
+  {
+    "file": "RESORT_2X1_COMERCIO_RUAS_ENTREGA.md",
+    "sha256": "82D61AF4BE7DBB28AA739035BD069B10762C8A8874044D49AE52AA2255A11F5C",
+    "bytes": 4326
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "file": "Resort_Ipanema_2x1km_Comercio_Ruas_Corrigido.blend",
+    "sha256": "DF8D101699007294CE6943FCEAE5BC63870DEDE3DB853CCA66BD0909BCF98C0F",
+    "bytes": 97178481
+  },
+  {
+    "file": "fix_floating_assets.py",
+    "sha256": "76C1138125E97D323E52FFD51CAE1F030C7BDB06E39F163AC702DFB18A2C0BAF",
+    "bytes": 9078
+  },
+  {
+    "file": "finish_grounding_details.py",
+    "sha256": "E0F5E36971D2E260017B38C730067F42D9D10CAA6670AEEA901A94377E791616",
+    "bytes": 3686
+  },
+  {
+    "file": "inspect_grounded_resort.py",
+    "sha256": "C01D1B9E1A5BE0B0DAFED7C04B76DF82ECEAFB188A2408B03FFA0B83CD85B48C",
+    "bytes": 1644
+  },
+  {
+    "file": "GROUNDING_CORRECTIONS.md",
+    "sha256": "11D217CFC2692A67A5078D7D8806B7D6349EFD6A1C24414B77DCFAE039EEBC0F",
+    "bytes": 3003
+  },
+  {
+    "file": "grounding_validation.json",
+    "sha256": "03E375BC2602AEF2E868EA011D4609C718661E6EF012446BCED77E02F7AE371B",
+    "bytes": 79312
+  },
+  {
+    "file": "resort_2x1_corrected_grid.png",
+    "sha256": "46C29D9901E8B0BD3B217A6822362C077C8322E637C7CAD731C59BF9D608AF7E",
+    "bytes": 1986214
+  },
+  {
+    "file": "resort_2x1_corrected_coast.png",
+    "sha256": "49F88A4366EA158E5E53F24E162CA5FAC9DB4D5A0ADD0B81F27D823339B1DE9E",
+    "bytes": 2386000
+  },
+  {
+    "file": "resort_2x1_corrected_furniture.png",
+    "sha256": "E125EE2332740FC5C8C6EDC6383B89FA06241547630C5A42F68B9917844C3744",
+    "bytes": 1919680
+  }
+]
