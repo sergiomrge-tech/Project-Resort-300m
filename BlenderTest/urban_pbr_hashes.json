@@ -1,0 +1,132 @@
+[
+  {
+    "file": "Resort_Rio_Urban_Textures_v3.blend",
+    "bytes": 288642147,
+    "sha256": "E0C87B8F944A897D1C8426063DDB8589A1852A1F26BDE68B75FCD0C984724AA4"
+  },
+  {
+    "file": "urban_pbr_walk.png",
+    "bytes": 1944477,
+    "sha256": "313DE45CEF06EB561EB0940F66C9720C148F43FEDCDE42FA8B148D43AF68522E"
+  },
+  {
+    "file": "urban_pbr_facade.png",
+    "bytes": 2188607,
+    "sha256": "43EAD8EE83E6518C7A0A6E2FEB0110CEB375C70C8C4DE3BC8F47E5EBFDF595A0"
+  },
+  {
+    "file": "urban_pbr_street.png",
+    "bytes": 2202175,
+    "sha256": "6755087BFBA49180BEB600D0D26E07544908A7150AE981FC4794F32AA20D6DE9"
+  },
+  {
+    "file": "urban_pbr_validation.json",
+    "bytes": 3307,
+    "sha256": "10A20D8965BE2ECEF264C692C11F248C8152639F361DEFE47681A786E0F0CAE2"
+  },
+  {
+    "file": "URBAN_PBR_DELIVERY.md",
+    "bytes": 2520,
+    "sha256": "DCB028206B07E0897F470063008CBEE2EB23A5D315F31A7AA6819E932C0AC554"
+  },
+  {
+    "file": "urban_pbr_finish.py",
+    "bytes": 7502,
+    "sha256": "74E512026236C98FA04EEF29ACCA5F3B354F2788FA54C52B78B7FE2938394B7D"
+  },
+  {
+    "file": "urban_lot_surface_fix.py",
+    "bytes": 957,
+    "sha256": "07B4F95C5AF2EA3FA71E2841873CD491FF608EA003BB23BC20BA84661C9E2279"
+  },
+  {
+    "file": "inspect_urban_pbr.py",
+    "bytes": 1088,
+    "sha256": "C49857473E9016799D34348817E34A32FF8A459BA07093106687EF157EDEF840"
+  },
+  {
+    "file": "TexturesPBR_Urban\\sources.json",
+    "bytes": 4773,
+    "sha256": "8435363DE941DC90BDA6DF625A8360784C45BF5B616E3C0A2CF0F90E703B3CB1"
+  },
+  {
+    "file": "TexturesPBR_Urban\\concrete_diff_4k.jpg",
+    "bytes": 8083454,
+    "sha256": "674B2BC714B77D294847E8F0078C9891549AEB44B5DFDA1DFC2403E0746939AA"
+  },
+  {
+    "file": "TexturesPBR_Urban\\concrete_disp_4k.jpg",
+    "bytes": 1701558,
+    "sha256": "47277F4A348CEB704BD809E9BD7D1375280B47A0864D0644B33B536459661651"
+  },
+  {
+    "file": "TexturesPBR_Urban\\concrete_nor_gl_4k.jpg",
+    "bytes": 2459710,
+    "sha256": "CB911AEEB25CD74E1B1ACC8E797035DE0E2CDB8F846CD612FBEDDAA761B0AFBB"
+  },
+  {
+    "file": "TexturesPBR_Urban\\concrete_pavers_02_diff_4k.jpg",
+    "bytes": 12813565,
+    "sha256": "C6894144870A5B8938279FA9D6EA4A24570E548E8F6F10FB30559A6A8FFEB7B3"
+  },
+  {
+    "file": "TexturesPBR_Urban\\concrete_pavers_02_disp_4k.jpg",
+    "bytes": 3332602,
+    "sha256": "232C7DBAB1145F71EC5EB1BDE8AFD71EE05D9174AC589383E2515AB6233C360F"
+  },
+  {
+    "file": "TexturesPBR_Urban\\concrete_pavers_02_nor_gl_4k.jpg",
+    "bytes": 13358441,
+    "sha256": "D5E32871FA039BD83B2C1F27AFE4C7466D8B468AD4173A5C25A2CF03018D4A61"
+  },
+  {
+    "file": "TexturesPBR_Urban\\concrete_pavers_02_rough_4k.jpg",
+    "bytes": 7004542,
+    "sha256": "090FA49A8A6DC80034C6BB15B248CC747B56594EF7E2B746FD9ECDB38335112D"
+  },
+  {
+    "file": "TexturesPBR_Urban\\concrete_rough_4k.jpg",
+    "bytes": 3721551,
+    "sha256": "ADCD21371B1BEE4A99E97DD54A626C6B7DD0F3E739C92BD5D445E62C43FB6303"
+  },
+  {
+    "file": "TexturesPBR_Urban\\grey_plaster_02_diff_4k.jpg",
+    "bytes": 11696391,
+    "sha256": "4148F19EB07A679066844B8F3AA5814ACB609F19FAE59A6B371531DD010A4595"
+  },
+  {
+    "file": "TexturesPBR_Urban\\grey_plaster_02_disp_4k.jpg",
+    "bytes": 2034310,
+    "sha256": "3C86B17191F69DE84FCF31969FD68BD09B9B99E8EE584621D2C8A0504D2D8B92"
+  },
+  {
+    "file": "TexturesPBR_Urban\\grey_plaster_02_nor_gl_4k.jpg",
+    "bytes": 6490265,
+    "sha256": "B40EE2524F0E3E8B1E0EC20436CF30C51F41AE96801F895B1780F771FB7A864C"
+  },
+  {
+    "file": "TexturesPBR_Urban\\grey_plaster_02_rough_4k.jpg",
+    "bytes": 10018137,
+    "sha256": "C0C8862E6B61CE80DA2511A3B680B389B111606AE8D40D1856A9E66BEA8EAB7D"
+  },
+  {
+    "file": "TexturesPBR_Urban\\pavement_03_diff_4k.jpg",
+    "bytes": 19981402,
+    "sha256": "26C4984BA4341A2A2E47D8E57D7983E85A8A32AB84C1DC6D283AFD0E4E9911D5"
+  },
+  {
+    "file": "TexturesPBR_Urban\\pavement_03_disp_4k.jpg",
+    "bytes": 6301378,
+    "sha256": "5E8CCBFE182599F56B526654C80F633AFF6A0A87A8488751E408BDF762AD41A3"
+  },
+  {
+    "file": "TexturesPBR_Urban\\pavement_03_nor_gl_4k.jpg",
+    "bytes": 20417439,
+    "sha256": "77935EEEA42E861B41FD7F56603DE8540074FED4A2F7FF6366485166189A5338"
+  },
+  {
+    "file": "TexturesPBR_Urban\\pavement_03_rough_4k.jpg",
+    "bytes": 9901156,
+    "sha256": "002E5AFE96D8FF12CDFCD111545E4844E46BE4F3CBEBFFE6844B36ED76AC9545"
+  }
+]

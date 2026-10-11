@@ -1,0 +1,982 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-10",
+  "name": "MARÉ — do quiosque ao resort",
+  "units": "meters",
+  "stage_count": 20,
+  "currency": "fictional game coins",
+  "balance_status": "draft; no playtesting performed",
+  "parcel_bounds_m": {
+    "x": [
+      -120,
+      120
+    ],
+    "y": [
+      -30,
+      210
+    ]
+  },
+  "public_promenade_purchase_policy": "permanent shared public route, separate from purchased plots",
+  "founding_kiosk_policy": "retained at all stages",
+  "sources": [
+    {
+      "url": "https://www.fourseasons.com/jimbaranbay/services-and-amenities/",
+      "supports": [
+        "spa",
+        "piscinas",
+        "beach club",
+        "kids club",
+        "fitness",
+        "yoga",
+        "concierge",
+        "eventos",
+        "atividades de praia"
+      ]
+    },
+    {
+      "url": "https://www.marriott.com/en-us/hotels/dxbpj-marriott-resort-palm-jumeirah-dubai/overview/",
+      "supports": [
+        "varandas",
+        "suítes",
+        "room service 24h",
+        "restaurantes",
+        "academia",
+        "spa",
+        "kids club"
+      ]
+    },
+    {
+      "url": "https://www.fourseasons.com/hualalai/services-and-amenities/sustainability/",
+      "supports": [
+        "redução de descartáveis",
+        "produção local",
+        "gestão ambiental"
+      ]
+    },
+    {
+      "url": "https://stories.forbestravelguide.com/what-makes-a-forbes-travel-guide-five-star",
+      "supports": [
+        "qualidade de serviço e instalações; edifícios sozinhos não definem cinco estrelas"
+      ]
+    },
+    {
+      "url": "https://www.fourseasons.com/orlando/accommodations/accessibility-overview/",
+      "supports": [
+        "acessibilidade de quartos e áreas comuns"
+      ]
+    }
+  ],
+  "stages": [
+    {
+      "id": 1,
+      "module_id": "mare_01",
+      "title": "Quiosque original",
+      "collection": "MARE_01_QUIOSQUE_ORIGINAL",
+      "scene": "MARE_ETAPA_01",
+      "requires_stages": [],
+      "cost_game_coins_draft": 12000,
+      "plots": [
+        {
+          "id": "P01_1",
+          "center_m": [
+            0,
+            -19
+          ],
+          "size_m": [
+            12,
+            18
+          ],
+          "area_m2": 216,
+          "purchase_stage": 1
+        }
+      ],
+      "new_staff_roles": [
+        "barista",
+        "atendimento"
+      ],
+      "unlocked_services": [
+        "café",
+        "coco",
+        "sucos",
+        "lanches"
+      ],
+      "rooms_represented_delta": 0,
+      "seats_represented_delta": 4,
+      "unlock_rule_draft": {
+        "reputation_min": 0,
+        "positive_operating_profit_days": 0,
+        "working_capital_days": 3
+      },
+      "art_status": "Blender geometry created; founding kiosk detailed, later modules need individual art polish",
+      "runtime_status": "data only; purchases, guests, staff, saves and service simulation not integrated"
+    },
+    {
+      "id": 2,
+      "module_id": "mare_02",
+      "title": "Deck e mesas",
+      "collection": "MARE_02_DECK_MESAS",
+      "scene": "MARE_ETAPA_02",
+      "requires_stages": [
+        1
+      ],
+      "cost_game_coins_draft": 18000,
+      "plots": [
+        {
+          "id": "P02_1",
+          "center_m": [
+            -11,
+            -19
+          ],
+          "size_m": [
+            10,
+            9
+          ],
+          "area_m2": 90,
+          "purchase_stage": 2
+        }
+      ],
+      "new_staff_roles": [
+        "garçom"
+      ],
+      "unlocked_services": [
+        "serviço nas mesas"
+      ],
+      "rooms_represented_delta": 0,
+      "seats_represented_delta": 8,
+      "unlock_rule_draft": {
+        "reputation_min": 23,
+        "positive_operating_profit_days": 3,
+        "working_capital_days": 3
+      },
+      "art_status": "Blender geometry created; founding kiosk detailed, later modules need individual art polish",
+      "runtime_status": "data only; purchases, guests, staff, saves and service simulation not integrated"
+    },
+    {
+      "id": 3,
+      "module_id": "mare_03",
+      "title": "Preparo e estoque",
+      "collection": "MARE_03_PREPARO_ESTOQUE",
+      "scene": "MARE_ETAPA_03",
+      "requires_stages": [
+        2
+      ],
+      "cost_game_coins_draft": 28000,
+      "plots": [
+        {
+          "id": "P03_1",
+          "center_m": [
+            0,
+            -4
+          ],
+          "size_m": [
+            6,
+            6
+          ],
+          "area_m2": 36,
+          "purchase_stage": 3
+        }
+      ],
+      "new_staff_roles": [
+        "cozinheiro"
+      ],
+      "unlocked_services": [
+        "preparo quente",
+        "estoque refrigerado"
+      ],
+      "rooms_represented_delta": 0,
+      "seats_represented_delta": 0,
+      "unlock_rule_draft": {
+        "reputation_min": 27,
+        "positive_operating_profit_days": 3,
+        "working_capital_days": 3
+      },
+      "art_status": "Blender geometry created; founding kiosk detailed, later modules need individual art polish",
+      "runtime_status": "data only; purchases, guests, staff, saves and service simulation not integrated"
+    },
+    {
+      "id": 4,
+      "module_id": "mare_04",
+      "title": "Sanitários",
+      "collection": "MARE_04_SANITARIOS",
+      "scene": "MARE_ETAPA_04",
+      "requires_stages": [
+        3
+      ],
+      "cost_game_coins_draft": 35000,
+      "plots": [
+        {
+          "id": "P04_1",
+          "center_m": [
+            15,
+            -4
+          ],
+          "size_m": [
+            7,
+            6
+          ],
+          "area_m2": 42,
+          "purchase_stage": 4
+        }
+      ],
+      "new_staff_roles": [
+        "limpeza"
+      ],
+      "unlocked_services": [
+        "sanitários",
+        "lavabos",
+        "limpeza programada"
+      ],
+      "rooms_represented_delta": 0,
+      "seats_represented_delta": 0,
+      "unlock_rule_draft": {
+        "reputation_min": 31,
+        "positive_operating_profit_days": 3,
+        "working_capital_days": 3
+      },
+      "art_status": "Blender geometry created; founding kiosk detailed, later modules need individual art polish",
+      "runtime_status": "data only; purchases, guests, staff, saves and service simulation not integrated"
+    },
+    {
+      "id": 5,
+      "module_id": "mare_05",
+      "title": "Lounge com pérgola",
+      "collection": "MARE_05_LOUNGE_PERGOLA",
+      "scene": "MARE_ETAPA_05",
+      "requires_stages": [
+        4
+      ],
+      "cost_game_coins_draft": 42000,
+      "plots": [
+        {
+          "id": "P05_1",
+          "center_m": [
+            14,
+            -19
+          ],
+          "size_m": [
+            10,
+            9
+          ],
+          "area_m2": 90,
+          "purchase_stage": 5
+        }
+      ],
+      "new_staff_roles": [
+        "garçom"
+      ],
+      "unlocked_services": [
+        "descanso à sombra",
+        "lounge"
+      ],
+      "rooms_represented_delta": 0,
+      "seats_represented_delta": 8,
+      "unlock_rule_draft": {
+        "reputation_min": 35,
+        "positive_operating_profit_days": 3,
+        "working_capital_days": 3
+      },
+      "art_status": "Blender geometry created; founding kiosk detailed, later modules need individual art polish",
+      "runtime_status": "data only; purchases, guests, staff, saves and service simulation not integrated"
+    },
+    {
+      "id": 6,
+      "module_id": "mare_06",
+      "title": "Beach club",
+      "collection": "MARE_06_BEACH_CLUB",
+      "scene": "MARE_ETAPA_06",
+      "requires_stages": [
+        5
+      ],
+      "cost_game_coins_draft": 60000,
+      "plots": [
+        {
+          "id": "P06_1",
+          "center_m": [
+            -38,
+            -19
+          ],
+          "size_m": [
+            16,
+            10
+          ],
+          "area_m2": 160,
+          "purchase_stage": 6
+        }
+      ],
+      "new_staff_roles": [
+        "apoio de praia"
+      ],
+      "unlocked_services": [
+        "cabanas",
+        "espreguiçadeiras",
+        "toalhas"
+      ],
+      "rooms_represented_delta": 0,
+      "seats_represented_delta": 4,
+      "unlock_rule_draft": {
+        "reputation_min": 39,
+        "positive_operating_profit_days": 3,
+        "working_capital_days": 3
+      },
+      "art_status": "Blender geometry created; founding kiosk detailed, later modules need individual art polish",
+      "runtime_status": "data only; purchases, guests, staff, saves and service simulation not integrated"
+    },
+    {
+      "id": 7,
+      "module_id": "mare_07",
+      "title": "Restaurante",
+      "collection": "MARE_07_RESTAURANTE",
+      "scene": "MARE_ETAPA_07",
+      "requires_stages": [
+        6
+      ],
+      "cost_game_coins_draft": 110000,
+      "plots": [
+        {
+          "id": "P07_1",
+          "center_m": [
+            0,
+            20
+          ],
+          "size_m": [
+            20,
+            16
+          ],
+          "area_m2": 320,
+          "purchase_stage": 7
+        }
+      ],
+      "new_staff_roles": [
+        "chef",
+        "cozinheiro",
+        "garçom"
+      ],
+      "unlocked_services": [
+        "restaurante",
+        "café da manhã"
+      ],
+      "rooms_represented_delta": 0,
+      "seats_represented_delta": 12,
+      "unlock_rule_draft": {
+        "reputation_min": 43,
+        "positive_operating_profit_days": 3,
+        "working_capital_days": 3
+      },
+      "art_status": "Blender geometry created; founding kiosk detailed, later modules need individual art polish",
+      "runtime_status": "data only; purchases, guests, staff, saves and service simulation not integrated"
+    },
+    {
+      "id": 8,
+      "module_id": "mare_08",
+      "title": "Operação e equipe",
+      "collection": "MARE_08_OPERACAO",
+      "scene": "MARE_ETAPA_08",
+      "requires_stages": [
+        7
+      ],
+      "cost_game_coins_draft": 120000,
+      "plots": [
+        {
+          "id": "P08_1",
+          "center_m": [
+            70,
+            132
+          ],
+          "size_m": [
+            18,
+            14
+          ],
+          "area_m2": 252,
+          "purchase_stage": 8
+        }
+      ],
+      "new_staff_roles": [
+        "manutenção",
+        "gerente",
+        "governança"
+      ],
+      "unlocked_services": [
+        "carga e descarga",
+        "abastecimento",
+        "segurança",
+        "manutenção",
+        "apoio de equipe"
+      ],
+      "rooms_represented_delta": 0,
+      "seats_represented_delta": 0,
+      "unlock_rule_draft": {
+        "reputation_min": 47,
+        "positive_operating_profit_days": 3,
+        "working_capital_days": 7
+      },
+      "art_status": "Blender geometry created; founding kiosk detailed, later modules need individual art polish",
+      "runtime_status": "data only; purchases, guests, staff, saves and service simulation not integrated"
+    },
+    {
+      "id": 9,
+      "module_id": "mare_09",
+      "title": "Recepção e jardins",
+      "collection": "MARE_09_RECEPCAO",
+      "scene": "MARE_ETAPA_09",
+      "requires_stages": [
+        8
+      ],
+      "cost_game_coins_draft": 150000,
+      "plots": [
+        {
+          "id": "P09_1",
+          "center_m": [
+            0,
+            60
+          ],
+          "size_m": [
+            18,
+            14
+          ],
+          "area_m2": 252,
+          "purchase_stage": 9
+        }
+      ],
+      "new_staff_roles": [
+        "recepcionista",
+        "concierge"
+      ],
+      "unlocked_services": [
+        "recepção",
+        "reservas",
+        "concierge",
+        "jardins e caminhos"
+      ],
+      "rooms_represented_delta": 0,
+      "seats_represented_delta": 6,
+      "unlock_rule_draft": {
+        "reputation_min": 51,
+        "positive_operating_profit_days": 3,
+        "working_capital_days": 7
+      },
+      "art_status": "Blender geometry created; founding kiosk detailed, later modules need individual art polish",
+      "runtime_status": "data only; purchases, guests, staff, saves and service simulation not integrated"
+    },
+    {
+      "id": 10,
+      "module_id": "mare_10",
+      "title": "Primeiros bangalôs",
+      "collection": "MARE_10_BANGALOS",
+      "scene": "MARE_ETAPA_10",
+      "requires_stages": [
+        9
+      ],
+      "cost_game_coins_draft": 210000,
+      "plots": [
+        {
+          "id": "P10_1",
+          "center_m": [
+            -52.5,
+            62
+          ],
+          "size_m": [
+            30,
+            24
+          ],
+          "area_m2": 720,
+          "purchase_stage": 10
+        }
+      ],
+      "new_staff_roles": [
+        "camareira"
+      ],
+      "unlocked_services": [
+        "hospedagem",
+        "enxoval",
+        "arrumação"
+      ],
+      "rooms_represented_delta": 4,
+      "seats_represented_delta": 0,
+      "unlock_rule_draft": {
+        "reputation_min": 55,
+        "positive_operating_profit_days": 3,
+        "working_capital_days": 7
+      },
+      "art_status": "Blender geometry created; founding kiosk detailed, later modules need individual art polish",
+      "runtime_status": "data only; purchases, guests, staff, saves and service simulation not integrated"
+    },
+    {
+      "id": 11,
+      "module_id": "mare_11",
+      "title": "Piscina e deck",
+      "collection": "MARE_11_PISCINA",
+      "scene": "MARE_ETAPA_11",
+      "requires_stages": [
+        10
+      ],
+      "cost_game_coins_draft": 230000,
+      "plots": [
+        {
+          "id": "P11_1",
+          "center_m": [
+            -27,
+            25
+          ],
+          "size_m": [
+            23,
+            20
+          ],
+          "area_m2": 460,
+          "purchase_stage": 11
+        }
+      ],
+      "new_staff_roles": [
+        "apoio de piscina"
+      ],
+      "unlocked_services": [
+        "piscina",
+        "solário"
+      ],
+      "rooms_represented_delta": 0,
+      "seats_represented_delta": 6,
+      "unlock_rule_draft": {
+        "reputation_min": 59,
+        "positive_operating_profit_days": 3,
+        "working_capital_days": 7
+      },
+      "art_status": "Blender geometry created; founding kiosk detailed, later modules need individual art polish",
+      "runtime_status": "data only; purchases, guests, staff, saves and service simulation not integrated"
+    },
+    {
+      "id": 12,
+      "module_id": "mare_12",
+      "title": "Ala de suítes",
+      "collection": "MARE_12_ALA_HOSPEDAGEM",
+      "scene": "MARE_ETAPA_12",
+      "requires_stages": [
+        11
+      ],
+      "cost_game_coins_draft": 390000,
+      "plots": [
+        {
+          "id": "P12_1",
+          "center_m": [
+            -55,
+            100
+          ],
+          "size_m": [
+            30,
+            18
+          ],
+          "area_m2": 540,
+          "purchase_stage": 12
+        }
+      ],
+      "new_staff_roles": [
+        "camareira",
+        "manutenção"
+      ],
+      "unlocked_services": [
+        "suítes com varanda"
+      ],
+      "rooms_represented_delta": 6,
+      "seats_represented_delta": 0,
+      "unlock_rule_draft": {
+        "reputation_min": 63,
+        "positive_operating_profit_days": 3,
+        "working_capital_days": 7
+      },
+      "art_status": "Blender geometry created; founding kiosk detailed, later modules need individual art polish",
+      "runtime_status": "data only; purchases, guests, staff, saves and service simulation not integrated"
+    },
+    {
+      "id": 13,
+      "module_id": "mare_13",
+      "title": "Clube infantil",
+      "collection": "MARE_13_KIDS_CLUB",
+      "scene": "MARE_ETAPA_13",
+      "requires_stages": [
+        12
+      ],
+      "cost_game_coins_draft": 180000,
+      "plots": [
+        {
+          "id": "P13_1",
+          "center_m": [
+            45,
+            42
+          ],
+          "size_m": [
+            18,
+            16
+          ],
+          "area_m2": 288,
+          "purchase_stage": 13
+        }
+      ],
+      "new_staff_roles": [
+        "monitor infantil"
+      ],
+      "unlocked_services": [
+        "atividades infantis",
+        "espaço familiar"
+      ],
+      "rooms_represented_delta": 0,
+      "seats_represented_delta": 0,
+      "unlock_rule_draft": {
+        "reputation_min": 67,
+        "positive_operating_profit_days": 3,
+        "working_capital_days": 7
+      },
+      "art_status": "Blender geometry created; founding kiosk detailed, later modules need individual art polish",
+      "runtime_status": "data only; purchases, guests, staff, saves and service simulation not integrated"
+    },
+    {
+      "id": 14,
+      "module_id": "mare_14",
+      "title": "Academia e yoga",
+      "collection": "MARE_14_ACADEMIA_YOGA",
+      "scene": "MARE_ETAPA_14",
+      "requires_stages": [
+        13
+      ],
+      "cost_game_coins_draft": 190000,
+      "plots": [
+        {
+          "id": "P14_1",
+          "center_m": [
+            55,
+            76
+          ],
+          "size_m": [
+            18,
+            16
+          ],
+          "area_m2": 288,
+          "purchase_stage": 14
+        }
+      ],
+      "new_staff_roles": [
+        "instrutor"
+      ],
+      "unlocked_services": [
+        "academia",
+        "yoga",
+        "bem-estar"
+      ],
+      "rooms_represented_delta": 0,
+      "seats_represented_delta": 0,
+      "unlock_rule_draft": {
+        "reputation_min": 71,
+        "positive_operating_profit_days": 3,
+        "working_capital_days": 7
+      },
+      "art_status": "Blender geometry created; founding kiosk detailed, later modules need individual art polish",
+      "runtime_status": "data only; purchases, guests, staff, saves and service simulation not integrated"
+    },
+    {
+      "id": 15,
+      "module_id": "mare_15",
+      "title": "Spa",
+      "collection": "MARE_15_SPA",
+      "scene": "MARE_ETAPA_15",
+      "requires_stages": [
+        14
+      ],
+      "cost_game_coins_draft": 290000,
+      "plots": [
+        {
+          "id": "P15_1",
+          "center_m": [
+            -40,
+            140
+          ],
+          "size_m": [
+            25,
+            20
+          ],
+          "area_m2": 500,
+          "purchase_stage": 15
+        }
+      ],
+      "new_staff_roles": [
+        "terapeuta",
+        "recepção spa"
+      ],
+      "unlocked_services": [
+        "massagem",
+        "tratamentos",
+        "relaxamento"
+      ],
+      "rooms_represented_delta": 0,
+      "seats_represented_delta": 0,
+      "unlock_rule_draft": {
+        "reputation_min": 75,
+        "positive_operating_profit_days": 3,
+        "working_capital_days": 7
+      },
+      "art_status": "Blender geometry created; founding kiosk detailed, later modules need individual art polish",
+      "runtime_status": "data only; purchases, guests, staff, saves and service simulation not integrated"
+    },
+    {
+      "id": 16,
+      "module_id": "mare_16",
+      "title": "Gastronomia autoral",
+      "collection": "MARE_16_GASTRONOMIA",
+      "scene": "MARE_ETAPA_16",
+      "requires_stages": [
+        15
+      ],
+      "cost_game_coins_draft": 360000,
+      "plots": [
+        {
+          "id": "P16_1",
+          "center_m": [
+            40,
+            108
+          ],
+          "size_m": [
+            28,
+            20
+          ],
+          "area_m2": 560,
+          "purchase_stage": 16
+        }
+      ],
+      "new_staff_roles": [
+        "chef especialista",
+        "sommelier"
+      ],
+      "unlocked_services": [
+        "restaurante especial",
+        "menu degustação"
+      ],
+      "rooms_represented_delta": 0,
+      "seats_represented_delta": 12,
+      "unlock_rule_draft": {
+        "reputation_min": 79,
+        "positive_operating_profit_days": 3,
+        "working_capital_days": 7
+      },
+      "art_status": "Blender geometry created; founding kiosk detailed, later modules need individual art polish",
+      "runtime_status": "data only; purchases, guests, staff, saves and service simulation not integrated"
+    },
+    {
+      "id": 17,
+      "module_id": "mare_17",
+      "title": "Villas premium",
+      "collection": "MARE_17_VILLAS",
+      "scene": "MARE_ETAPA_17",
+      "requires_stages": [
+        16
+      ],
+      "cost_game_coins_draft": 550000,
+      "plots": [
+        {
+          "id": "P17_1",
+          "center_m": [
+            -73,
+            179
+          ],
+          "size_m": [
+            28,
+            20
+          ],
+          "area_m2": 560,
+          "purchase_stage": 17
+        },
+        {
+          "id": "P17_2",
+          "center_m": [
+            73,
+            179
+          ],
+          "size_m": [
+            28,
+            20
+          ],
+          "area_m2": 560,
+          "purchase_stage": 17
+        }
+      ],
+      "new_staff_roles": [
+        "mordomo",
+        "camareira"
+      ],
+      "unlocked_services": [
+        "villas",
+        "piscinas privativas",
+        "serviço personalizado"
+      ],
+      "rooms_represented_delta": 4,
+      "seats_represented_delta": 4,
+      "unlock_rule_draft": {
+        "reputation_min": 83,
+        "positive_operating_profit_days": 3,
+        "working_capital_days": 7
+      },
+      "art_status": "Blender geometry created; founding kiosk detailed, later modules need individual art polish",
+      "runtime_status": "data only; purchases, guests, staff, saves and service simulation not integrated"
+    },
+    {
+      "id": 18,
+      "module_id": "mare_18",
+      "title": "Eventos e celebrações",
+      "collection": "MARE_18_EVENTOS",
+      "scene": "MARE_ETAPA_18",
+      "requires_stages": [
+        17
+      ],
+      "cost_game_coins_draft": 410000,
+      "plots": [
+        {
+          "id": "P18_1",
+          "center_m": [
+            0,
+            148
+          ],
+          "size_m": [
+            32,
+            26
+          ],
+          "area_m2": 832,
+          "purchase_stage": 18
+        }
+      ],
+      "new_staff_roles": [
+        "coordenador de eventos"
+      ],
+      "unlocked_services": [
+        "casamentos",
+        "eventos",
+        "reuniões"
+      ],
+      "rooms_represented_delta": 0,
+      "seats_represented_delta": 6,
+      "unlock_rule_draft": {
+        "reputation_min": 87,
+        "positive_operating_profit_days": 3,
+        "working_capital_days": 7
+      },
+      "art_status": "Blender geometry created; founding kiosk detailed, later modules need individual art polish",
+      "runtime_status": "data only; purchases, guests, staff, saves and service simulation not integrated"
+    },
+    {
+      "id": 19,
+      "module_id": "mare_19",
+      "title": "Lavanderia e recursos",
+      "collection": "MARE_19_SUSTENTABILIDADE",
+      "scene": "MARE_ETAPA_19",
+      "requires_stages": [
+        18
+      ],
+      "cost_game_coins_draft": 280000,
+      "plots": [
+        {
+          "id": "P19_1",
+          "center_m": [
+            95,
+            132
+          ],
+          "size_m": [
+            20,
+            16
+          ],
+          "area_m2": 320,
+          "purchase_stage": 19
+        }
+      ],
+      "new_staff_roles": [
+        "lavanderia",
+        "técnico de recursos"
+      ],
+      "unlocked_services": [
+        "lavanderia ampliada",
+        "solar",
+        "gestão de água",
+        "resíduos"
+      ],
+      "rooms_represented_delta": 0,
+      "seats_represented_delta": 0,
+      "unlock_rule_draft": {
+        "reputation_min": 90,
+        "positive_operating_profit_days": 3,
+        "working_capital_days": 7
+      },
+      "art_status": "Blender geometry created; founding kiosk detailed, later modules need individual art polish",
+      "runtime_status": "data only; purchases, guests, staff, saves and service simulation not integrated"
+    },
+    {
+      "id": 20,
+      "module_id": "mare_20",
+      "title": "Resort cinco estrelas",
+      "collection": "MARE_20_RESORT_CINCO_ESTRELAS",
+      "scene": "MARE_ETAPA_20",
+      "requires_stages": [
+        19
+      ],
+      "cost_game_coins_draft": 950000,
+      "plots": [
+        {
+          "id": "P20_1",
+          "center_m": [
+            0,
+            94
+          ],
+          "size_m": [
+            30,
+            22
+          ],
+          "area_m2": 660,
+          "purchase_stage": 20
+        }
+      ],
+      "new_staff_roles": [
+        "concierge premium",
+        "serviço de quarto",
+        "gerência de qualidade"
+      ],
+      "unlocked_services": [
+        "suítes premium",
+        "terraço",
+        "atendimento 24h",
+        "room service",
+        "auditoria de qualidade"
+      ],
+      "rooms_represented_delta": 12,
+      "seats_represented_delta": 3,
+      "unlock_rule_draft": {
+        "reputation_min": 90,
+        "positive_operating_profit_days": 3,
+        "working_capital_days": 7
+      },
+      "art_status": "Blender geometry created; founding kiosk detailed, later modules need individual art polish",
+      "runtime_status": "data only; purchases, guests, staff, saves and service simulation not integrated",
+      "five_star_game_audit": {
+        "requires_stages": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "hygiene_min": 95,
+        "service_min": 95,
+        "comfort_min": 90,
+        "maintenance_min": 90,
+        "guest_satisfaction_min": 90,
+        "sustained_days": 7,
+        "note": "Original game targets, not official real-world hotel classification criteria"
+      }
+    }
+  ]
+}

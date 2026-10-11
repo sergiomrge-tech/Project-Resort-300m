@@ -1,0 +1,96 @@
+{
+  "file": "D:\\ProjectResort_300m_CompactPass\\BlenderTest\\Resort_Main_Map_Mare_Houses_v7.blend",
+  "map_dimensions_m": [
+    2000.0,
+    1000.0,
+    1.600000023841858
+  ],
+  "sectors": 40,
+  "city_pool_objects": [],
+  "inland_legacy_building_objects": [],
+  "front_row_buildings": [
+    {
+      "district": "V7_COAST_BUILDINGS_HOUSES_0",
+      "object": "RETAIL_Resort_Aurora_UPPER_STRUCTURE",
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "height": 20.350000381469727
+    },
+    {
+      "district": "V7_COAST_BUILDINGS_HOUSES_0",
+      "object": "RETAIL_Hotel_Atlantico_UPPER_STRUCTURE",
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "height": 24.350000381469727
+    },
+    {
+      "district": "V7_COAST_BUILDINGS_HOUSES_0",
+      "object": "RETAIL_Casa_Coral_UPPER_STRUCTURE",
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "height": 19.350000381469727
+    },
+    {
+      "district": "V7_COAST_BUILDINGS_HOUSES_0",
+      "object": "RETAIL_Residencial_Sal_UPPER_STRUCTURE",
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "height": 25.350000381469727
+    },
+    {
+      "district": "V7_COAST_BUILDINGS_HOUSES_0",
+      "object": "RETAIL_Galeria_Mar_UPPER_STRUCTURE",
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "height": 15.350000381469727
+    },
+    {
+      "district": "V7_COAST_BUILDINGS_HOUSES_MARE_LOT_3",
+      "object": "RETAIL_Casa_Coral_UPPER_STRUCTURE",
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "height": 19.350000381469727
+    },
+    {
+      "district": "V7_COAST_BUILDINGS_HOUSES_MARE_LOT_3",
+      "object": "RETAIL_Residencial_Sal_UPPER_STRUCTURE",
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "height": 25.350000381469727
+    },
+    {
+      "district": "V7_COAST_BUILDINGS_HOUSES_MARE_LOT_3",
+      "object": "RETAIL_Galeria_Mar_UPPER_STRUCTURE",
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "height": 15.350000381469727
+    }
+  ],
+  "missing_images": [],
+  "stages": 20,
+  "runtime_verified": false
+}

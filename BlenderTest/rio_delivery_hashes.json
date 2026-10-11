@@ -1,0 +1,87 @@
+[
+  {
+    "file": "align_sidewalk_curves.py",
+    "sha256": "BC4912C11F1455A46A5D1AF548667DA3DEE90C7066C238C9FA71D157948557A2",
+    "bytes": 4814
+  },
+  {
+    "file": "resort_rio_landscape.py",
+    "sha256": "2F3D6CFA5FC3501C7469A06DAB01CF1207FE4817161E0C330D328E2790AC9366",
+    "bytes": 9610
+  },
+  {
+    "file": "sculpt_cristo_redentor.py",
+    "sha256": "9F96F213B861114843778A0F0CF947674ADCBFB2636C9D33A6DD97B49B8383B3",
+    "bytes": 11018
+  },
+  {
+    "file": "refine_rio_landscape_cristo.py",
+    "sha256": "8297C84C2EE85079CDDE46A763E638A5BD57BBF2B93F6B6E47410C83B19366F5",
+    "bytes": 4678
+  },
+  {
+    "file": "replace_cristo_with_artist_mesh.py",
+    "sha256": "DCE6DD30A3ABF1D7BC0712D714F3170FCE13AEC307BBAF95C1FD95B53C488CD9",
+    "bytes": 1978
+  },
+  {
+    "file": "finish_rio_environment.py",
+    "sha256": "CCEB3EB614681B2BDC13341551F334DADF39F01A6CD308E8895C95298CBAD3BF",
+    "bytes": 4238
+  },
+  {
+    "file": "seal_rio_context.py",
+    "sha256": "8FBA98761687299C80F1FCD644D324D7E377495CB3827F0D51C29A5A3C5869BC",
+    "bytes": 2372
+  },
+  {
+    "file": "inspect_rio_delivery.py",
+    "sha256": "63E9B8BB207127C0CE75EED233B919EE9C92B8CB2486DDC27C3EE349133F590A",
+    "bytes": 1541
+  },
+  {
+    "file": "RIO_ART_DELIVERY.md",
+    "sha256": "D7C12E1894E3EAECBED88F222FA364EB50D7A4E500294E1FB59DC68D3528743B",
+    "bytes": 4335
+  },
+  {
+    "file": "Resort_Rio_Cristo_Montanhas_Vegetacao_v2.blend",
+    "sha256": "9F434FD967376FE884603C8BA64C45CFB09A0A751A1285C2980C5E5A532DE1C2",
+    "bytes": 149176367
+  },
+  {
+    "file": "rio_delivery_validation.json",
+    "sha256": "BCC221D7220746B63BEC1916A40B9E3A2503A3EC816B4ECA5CF170E6AE8C32B8",
+    "bytes": 1336
+  },
+  {
+    "file": "rio_cristo_artist_mesh.png",
+    "sha256": "0C30CC1496C64436D243FC078A5327A943DC18F6D87DE85796B518F08E0F034C",
+    "bytes": 2118119
+  },
+  {
+    "file": "rio_cristo_face_final.png",
+    "sha256": "D472113D48D5616A4341F74E7FCCB0E1CECC74660D9557E3238C93667147F5FC",
+    "bytes": 1571219
+  },
+  {
+    "file": "rio_city_mountains_final.png",
+    "sha256": "EACCA74D78540A176632152C643BACCC01FD1EBD1D31A1B589F2B993B9B06451",
+    "bytes": 2429193
+  },
+  {
+    "file": "rio_vegetation_street_final.png",
+    "sha256": "12193A4E663B79698DA533C3894659E68617265EC38A5B125780E2820C778434",
+    "bytes": 2410937
+  },
+  {
+    "file": "AssetsExternal\\christ_the_redeemer_parlin_sitorus.glb",
+    "sha256": "739D6BE330CF36DCC7D6A442DCF2BA51E1369912B2B8779606A0638782BAE68A",
+    "bytes": 1647060
+  },
+  {
+    "file": "AssetsExternal\\cristo_source_license.json",
+    "sha256": "288D3A09A5752A78EFAD2A62B24022BA1890B461011FBD9A3A07B6466818D4A0",
+    "bytes": 349
+  }
+]

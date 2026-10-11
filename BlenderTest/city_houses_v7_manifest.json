@@ -1,0 +1,979 @@
+{
+  "file": "D:\\ProjectResort_300m_CompactPass\\BlenderTest\\Resort_Main_Map_Mare_Houses_v7.blend",
+  "map_m": [
+    2000,
+    1000
+  ],
+  "all_20_stages_updated": true,
+  "resort_preserved": true,
+  "front_row_building_scale_preserved": true,
+  "city_pools_removed": true,
+  "resort_pools_preserved": true,
+  "stats": {
+    "inland_sectors": 30,
+    "coastal_sectors": 10,
+    "houses": 1132,
+    "shops": 478,
+    "removed_pool_objects": 23,
+    "removed_legacy_building_objects": 599,
+    "variants": 20
+  },
+  "shop_categories": [
+    "PADARIA DO BAIRRO",
+    "MERCADO DA VILA",
+    "HORTIFRUTI BRISA",
+    "CAFÉ DO JARDIM",
+    "FARMÁCIA SOL",
+    "BARBEARIA MARÉ",
+    "LAVANDERIA AZUL",
+    "OFICINA DE BICICLETAS",
+    "PAPELARIA COLORIDA",
+    "ARTESANATO LOCAL",
+    "SORVETERIA TROPICAL",
+    "PET SHOP AMIGOS"
+  ],
+  "districts": [
+    {
+      "name": "V7_COAST_BUILDINGS_HOUSES_0",
+      "lots": 18,
+      "shops": 6
+    },
+    {
+      "name": "V7_HOUSES_DISTRICT_1",
+      "lots": 32,
+      "shops": 14
+    },
+    {
+      "name": "V7_HOUSES_DISTRICT_2",
+      "lots": 32,
+      "shops": 14
+    },
+    {
+      "name": "V7_COAST_BUILDINGS_HOUSES_MARE_LOT_3",
+      "lots": 10,
+      "shops": 4
+    }
+  ],
+  "lots": [
+    {
+      "district": "V7_COAST_BUILDINGS_HOUSES_0",
+      "name": "V7_LOT_00_CAFÉ DO JARDIM",
+      "position": [
+        -81,
+        19
+      ],
+      "shop": true,
+      "floors": 1
+    },
+    {
+      "district": "V7_COAST_BUILDINGS_HOUSES_0",
+      "name": "V7_LOT_01_CASA",
+      "position": [
+        -55,
+        19
+      ],
+      "shop": false,
+      "floors": 2
+    },
+    {
+      "district": "V7_COAST_BUILDINGS_HOUSES_0",
+      "name": "V7_LOT_02_CASA",
+      "position": [
+        -29,
+        19
+      ],
+      "shop": false,
+      "floors": 2
+    },
+    {
+      "district": "V7_COAST_BUILDINGS_HOUSES_0",
+      "name": "V7_LOT_03_LAVANDERIA AZUL",
+      "position": [
+        -3,
+        19
+      ],
+      "shop": true,
+      "floors": 2
+    },
+    {
+      "district": "V7_COAST_BUILDINGS_HOUSES_0",
+      "name": "V7_LOT_04_CASA",
+      "position": [
+        -81,
+        48
+      ],
+      "shop": false,
+      "floors": 2
+    },
+    {
+      "district": "V7_COAST_BUILDINGS_HOUSES_0",
+      "name": "V7_LOT_05_CASA",
+      "position": [
+        -55,
+        48
+      ],
+      "shop": false,
+      "floors": 2
+    },
+    {
+      "district": "V7_COAST_BUILDINGS_HOUSES_0",
+      "name": "V7_LOT_06_ARTESANATO LOCAL",
+      "position": [
+        -29,
+        48
+      ],
+      "shop": true,
+      "floors": 1
+    },
+    {
+      "district": "V7_COAST_BUILDINGS_HOUSES_0",
+      "name": "V7_LOT_07_CASA",
+      "position": [
+        -3,
+        48
+      ],
+      "shop": false,
+      "floors": 2
+    },
+    {
+      "district": "V7_COAST_BUILDINGS_HOUSES_0",
+      "name": "V7_LOT_08_CASA",
+      "position": [
+        -81,
+        83
+      ],
+      "shop": false,
+      "floors": 1
+    },
+    {
+      "district": "V7_COAST_BUILDINGS_HOUSES_0",
+      "name": "V7_LOT_09_PADARIA DO BAIRRO",
+      "position": [
+        -55,
+        83
+      ],
+      "shop": true,
+      "floors": 1
+    },
+    {
+      "district": "V7_COAST_BUILDINGS_HOUSES_0",
+      "name": "V7_LOT_10_CASA",
+      "position": [
+        -29,
+        83
+      ],
+      "shop": false,
+      "floors": 2
+    },
+    {
+      "district": "V7_COAST_BUILDINGS_HOUSES_0",
+      "name": "V7_LOT_11_CASA",
+      "position": [
+        -3,
+        83
+      ],
+      "shop": false,
+      "floors": 1
+    },
+    {
+      "district": "V7_COAST_BUILDINGS_HOUSES_0",
+      "name": "V7_LOT_12_CAFÉ DO JARDIM",
+      "position": [
+        43,
+        52
+      ],
+      "shop": true,
+      "floors": 1
+    },
+    {
+      "district": "V7_COAST_BUILDINGS_HOUSES_0",
+      "name": "V7_LOT_13_CASA",
+      "position": [
+        64,
+        52
+      ],
+      "shop": false,
+      "floors": 2
+    },
+    {
+      "district": "V7_COAST_BUILDINGS_HOUSES_0",
+      "name": "V7_LOT_14_CASA",
+      "position": [
+        85,
+        52
+      ],
+      "shop": false,
+      "floors": 1
+    },
+    {
+      "district": "V7_COAST_BUILDINGS_HOUSES_0",
+      "name": "V7_LOT_15_LAVANDERIA AZUL",
+      "position": [
+        43,
+        81
+      ],
+      "shop": true,
+      "floors": 2
+    },
+    {
+      "district": "V7_COAST_BUILDINGS_HOUSES_0",
+      "name": "V7_LOT_16_CASA",
+      "position": [
+        64,
+        81
+      ],
+      "shop": false,
+      "floors": 1
+    },
+    {
+      "district": "V7_COAST_BUILDINGS_HOUSES_0",
+      "name": "V7_LOT_17_CASA",
+      "position": [
+        85,
+        81
+      ],
+      "shop": false,
+      "floors": 2
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_1",
+      "name": "V7_LOT_00_LAVANDERIA AZUL",
+      "position": [
+        -81,
+        -16
+      ],
+      "shop": true,
+      "floors": 2
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_1",
+      "name": "V7_LOT_01_CASA.001",
+      "position": [
+        -55,
+        -16
+      ],
+      "shop": false,
+      "floors": 2
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_1",
+      "name": "V7_LOT_02_CASA.001",
+      "position": [
+        -29,
+        -16
+      ],
+      "shop": false,
+      "floors": 1
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_1",
+      "name": "V7_LOT_03_ARTESANATO LOCAL",
+      "position": [
+        -3,
+        -16
+      ],
+      "shop": true,
+      "floors": 1
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_1",
+      "name": "V7_LOT_04_CASA.001",
+      "position": [
+        -81,
+        6
+      ],
+      "shop": false,
+      "floors": 2
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_1",
+      "name": "V7_LOT_05_CASA.001",
+      "position": [
+        -55,
+        6
+      ],
+      "shop": false,
+      "floors": 1
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_1",
+      "name": "V7_LOT_06_PADARIA DO BAIRRO",
+      "position": [
+        -29,
+        6
+      ],
+      "shop": true,
+      "floors": 1
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_1",
+      "name": "V7_LOT_07_MERCADO DA VILA",
+      "position": [
+        -3,
+        6
+      ],
+      "shop": true,
+      "floors": 2
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_1",
+      "name": "V7_LOT_08_CASA.001",
+      "position": [
+        -81,
+        37
+      ],
+      "shop": false,
+      "floors": 2
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_1",
+      "name": "V7_LOT_09_CAFÉ DO JARDIM",
+      "position": [
+        -55,
+        37
+      ],
+      "shop": true,
+      "floors": 1
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_1",
+      "name": "V7_LOT_10_CASA.001",
+      "position": [
+        -29,
+        37
+      ],
+      "shop": false,
+      "floors": 1
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_1",
+      "name": "V7_LOT_11_CASA.001",
+      "position": [
+        -3,
+        37
+      ],
+      "shop": false,
+      "floors": 2
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_1",
+      "name": "V7_LOT_12_LAVANDERIA AZUL",
+      "position": [
+        -81,
+        54
+      ],
+      "shop": true,
+      "floors": 2
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_1",
+      "name": "V7_LOT_13_CASA.001",
+      "position": [
+        -55,
+        54
+      ],
+      "shop": false,
+      "floors": 1
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_1",
+      "name": "V7_LOT_14_PAPELARIA COLORIDA",
+      "position": [
+        -29,
+        54
+      ],
+      "shop": true,
+      "floors": 1
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_1",
+      "name": "V7_LOT_15_ARTESANATO LOCAL",
+      "position": [
+        -3,
+        54
+      ],
+      "shop": true,
+      "floors": 1
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_1",
+      "name": "V7_LOT_16_CASA.001",
+      "position": [
+        -81,
+        84
+      ],
+      "shop": false,
+      "floors": 2
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_1",
+      "name": "V7_LOT_17_CASA.001",
+      "position": [
+        -55,
+        84
+      ],
+      "shop": false,
+      "floors": 2
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_1",
+      "name": "V7_LOT_18_PADARIA DO BAIRRO",
+      "position": [
+        -29,
+        84
+      ],
+      "shop": true,
+      "floors": 1
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_1",
+      "name": "V7_LOT_19_CASA",
+      "position": [
+        -3,
+        84
+      ],
+      "shop": false,
+      "floors": 2
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_1",
+      "name": "V7_LOT_20_CASA",
+      "position": [
+        43,
+        -16
+      ],
+      "shop": false,
+      "floors": 2
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_1",
+      "name": "V7_LOT_21_CAFÉ DO JARDIM",
+      "position": [
+        64,
+        -16
+      ],
+      "shop": true,
+      "floors": 1
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_1",
+      "name": "V7_LOT_22_CASA",
+      "position": [
+        85,
+        -16
+      ],
+      "shop": false,
+      "floors": 2
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_1",
+      "name": "V7_LOT_23_CASA",
+      "position": [
+        43,
+        8
+      ],
+      "shop": false,
+      "floors": 1
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_1",
+      "name": "V7_LOT_24_LAVANDERIA AZUL",
+      "position": [
+        64,
+        8
+      ],
+      "shop": true,
+      "floors": 2
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_1",
+      "name": "V7_LOT_25_CASA",
+      "position": [
+        85,
+        8
+      ],
+      "shop": false,
+      "floors": 2
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_1",
+      "name": "V7_LOT_26_CASA",
+      "position": [
+        43,
+        52
+      ],
+      "shop": false,
+      "floors": 1
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_1",
+      "name": "V7_LOT_27_ARTESANATO LOCAL",
+      "position": [
+        64,
+        52
+      ],
+      "shop": true,
+      "floors": 1
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_1",
+      "name": "V7_LOT_28_SORVETERIA TROPICAL",
+      "position": [
+        85,
+        52
+      ],
+      "shop": true,
+      "floors": 2
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_1",
+      "name": "V7_LOT_29_CASA",
+      "position": [
+        43,
+        81
+      ],
+      "shop": false,
+      "floors": 1
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_1",
+      "name": "V7_LOT_30_PADARIA DO BAIRRO",
+      "position": [
+        64,
+        81
+      ],
+      "shop": true,
+      "floors": 1
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_1",
+      "name": "V7_LOT_31_CASA",
+      "position": [
+        85,
+        81
+      ],
+      "shop": false,
+      "floors": 1
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_2",
+      "name": "V7_LOT_00_ARTESANATO LOCAL",
+      "position": [
+        -81,
+        -16
+      ],
+      "shop": true,
+      "floors": 1
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_2",
+      "name": "V7_LOT_01_CASA.002",
+      "position": [
+        -55,
+        -16
+      ],
+      "shop": false,
+      "floors": 1
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_2",
+      "name": "V7_LOT_02_CASA.002",
+      "position": [
+        -29,
+        -16
+      ],
+      "shop": false,
+      "floors": 2
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_2",
+      "name": "V7_LOT_03_PADARIA DO BAIRRO",
+      "position": [
+        -3,
+        -16
+      ],
+      "shop": true,
+      "floors": 1
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_2",
+      "name": "V7_LOT_04_CASA.002",
+      "position": [
+        -81,
+        6
+      ],
+      "shop": false,
+      "floors": 1
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_2",
+      "name": "V7_LOT_05_CASA.002",
+      "position": [
+        -55,
+        6
+      ],
+      "shop": false,
+      "floors": 2
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_2",
+      "name": "V7_LOT_06_CAFÉ DO JARDIM",
+      "position": [
+        -29,
+        6
+      ],
+      "shop": true,
+      "floors": 1
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_2",
+      "name": "V7_LOT_07_FARMÁCIA SOL",
+      "position": [
+        -3,
+        6
+      ],
+      "shop": true,
+      "floors": 2
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_2",
+      "name": "V7_LOT_08_CASA.002",
+      "position": [
+        -81,
+        37
+      ],
+      "shop": false,
+      "floors": 2
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_2",
+      "name": "V7_LOT_09_LAVANDERIA AZUL",
+      "position": [
+        -55,
+        37
+      ],
+      "shop": true,
+      "floors": 2
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_2",
+      "name": "V7_LOT_10_CASA.002",
+      "position": [
+        -29,
+        37
+      ],
+      "shop": false,
+      "floors": 2
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_2",
+      "name": "V7_LOT_11_CASA.002",
+      "position": [
+        -3,
+        37
+      ],
+      "shop": false,
+      "floors": 2
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_2",
+      "name": "V7_LOT_12_ARTESANATO LOCAL",
+      "position": [
+        -81,
+        54
+      ],
+      "shop": true,
+      "floors": 1
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_2",
+      "name": "V7_LOT_13_CASA.002",
+      "position": [
+        -55,
+        54
+      ],
+      "shop": false,
+      "floors": 2
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_2",
+      "name": "V7_LOT_14_PET SHOP AMIGOS",
+      "position": [
+        -29,
+        54
+      ],
+      "shop": true,
+      "floors": 1
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_2",
+      "name": "V7_LOT_15_PADARIA DO BAIRRO",
+      "position": [
+        -3,
+        54
+      ],
+      "shop": true,
+      "floors": 1
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_2",
+      "name": "V7_LOT_16_CASA.002",
+      "position": [
+        -81,
+        84
+      ],
+      "shop": false,
+      "floors": 2
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_2",
+      "name": "V7_LOT_17_CASA.002",
+      "position": [
+        -55,
+        84
+      ],
+      "shop": false,
+      "floors": 1
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_2",
+      "name": "V7_LOT_18_CAFÉ DO JARDIM",
+      "position": [
+        -29,
+        84
+      ],
+      "shop": true,
+      "floors": 1
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_2",
+      "name": "V7_LOT_19_CASA.001",
+      "position": [
+        -3,
+        84
+      ],
+      "shop": false,
+      "floors": 2
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_2",
+      "name": "V7_LOT_20_CASA.001",
+      "position": [
+        43,
+        -16
+      ],
+      "shop": false,
+      "floors": 1
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_2",
+      "name": "V7_LOT_21_LAVANDERIA AZUL",
+      "position": [
+        64,
+        -16
+      ],
+      "shop": true,
+      "floors": 2
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_2",
+      "name": "V7_LOT_22_CASA.001",
+      "position": [
+        85,
+        -16
+      ],
+      "shop": false,
+      "floors": 1
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_2",
+      "name": "V7_LOT_23_CASA.001",
+      "position": [
+        43,
+        8
+      ],
+      "shop": false,
+      "floors": 2
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_2",
+      "name": "V7_LOT_24_ARTESANATO LOCAL",
+      "position": [
+        64,
+        8
+      ],
+      "shop": true,
+      "floors": 1
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_2",
+      "name": "V7_LOT_25_CASA.001",
+      "position": [
+        85,
+        8
+      ],
+      "shop": false,
+      "floors": 1
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_2",
+      "name": "V7_LOT_26_CASA.001",
+      "position": [
+        43,
+        52
+      ],
+      "shop": false,
+      "floors": 2
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_2",
+      "name": "V7_LOT_27_PADARIA DO BAIRRO",
+      "position": [
+        64,
+        52
+      ],
+      "shop": true,
+      "floors": 1
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_2",
+      "name": "V7_LOT_28_MERCADO DA VILA",
+      "position": [
+        85,
+        52
+      ],
+      "shop": true,
+      "floors": 2
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_2",
+      "name": "V7_LOT_29_CASA.001",
+      "position": [
+        43,
+        81
+      ],
+      "shop": false,
+      "floors": 2
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_2",
+      "name": "V7_LOT_30_CAFÉ DO JARDIM",
+      "position": [
+        64,
+        81
+      ],
+      "shop": true,
+      "floors": 1
+    },
+    {
+      "district": "V7_HOUSES_DISTRICT_2",
+      "name": "V7_LOT_31_CASA.001",
+      "position": [
+        85,
+        81
+      ],
+      "shop": false,
+      "floors": 2
+    },
+    {
+      "district": "V7_COAST_BUILDINGS_HOUSES_MARE_LOT_3",
+      "name": "V7_LOT_00_PADARIA DO BAIRRO",
+      "position": [
+        -81,
+        83
+      ],
+      "shop": true,
+      "floors": 1
+    },
+    {
+      "district": "V7_COAST_BUILDINGS_HOUSES_MARE_LOT_3",
+      "name": "V7_LOT_01_CASA.003",
+      "position": [
+        -55,
+        83
+      ],
+      "shop": false,
+      "floors": 2
+    },
+    {
+      "district": "V7_COAST_BUILDINGS_HOUSES_MARE_LOT_3",
+      "name": "V7_LOT_02_CASA.003",
+      "position": [
+        -29,
+        83
+      ],
+      "shop": false,
+      "floors": 2
+    },
+    {
+      "district": "V7_COAST_BUILDINGS_HOUSES_MARE_LOT_3",
+      "name": "V7_LOT_03_CAFÉ DO JARDIM",
+      "position": [
+        -3,
+        83
+      ],
+      "shop": true,
+      "floors": 1
+    },
+    {
+      "district": "V7_COAST_BUILDINGS_HOUSES_MARE_LOT_3",
+      "name": "V7_LOT_04_CASA.003",
+      "position": [
+        43,
+        52
+      ],
+      "shop": false,
+      "floors": 2
+    },
+    {
+      "district": "V7_COAST_BUILDINGS_HOUSES_MARE_LOT_3",
+      "name": "V7_LOT_05_CASA.003",
+      "position": [
+        64,
+        52
+      ],
+      "shop": false,
+      "floors": 1
+    },
+    {
+      "district": "V7_COAST_BUILDINGS_HOUSES_MARE_LOT_3",
+      "name": "V7_LOT_06_LAVANDERIA AZUL",
+      "position": [
+        85,
+        52
+      ],
+      "shop": true,
+      "floors": 2
+    },
+    {
+      "district": "V7_COAST_BUILDINGS_HOUSES_MARE_LOT_3",
+      "name": "V7_LOT_07_CASA.001",
+      "position": [
+        43,
+        81
+      ],
+      "shop": false,
+      "floors": 2
+    },
+    {
+      "district": "V7_COAST_BUILDINGS_HOUSES_MARE_LOT_3",
+      "name": "V7_LOT_08_CASA.003",
+      "position": [
+        64,
+        81
+      ],
+      "shop": false,
+      "floors": 1
+    },
+    {
+      "district": "V7_COAST_BUILDINGS_HOUSES_MARE_LOT_3",
+      "name": "V7_LOT_09_ARTESANATO LOCAL",
+      "position": [
+        85,
+        81
+      ],
+      "shop": true,
+      "floors": 1
+    }
+  ]
+}

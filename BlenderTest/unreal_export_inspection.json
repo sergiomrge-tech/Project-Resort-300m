@@ -1,0 +1,1616 @@
+{
+  "scenes": [
+    {
+      "name": "IPANEMA_RESORT_NEW_200m",
+      "camera": "IP_Aerial",
+      "world": "PolyHaven sunflowers_puresky",
+      "roots": [
+        "IPANEMA_NEW_MAP_200x200"
+      ]
+    },
+    {
+      "name": "MARE_ETAPA_01",
+      "camera": "MARE_CAMERA_BALCAO",
+      "world": "MARE_World_01",
+      "roots": [
+        "MARE_ORLA_PERMANENTE",
+        "MARE_01_QUIOSQUE_ORIGINAL"
+      ]
+    },
+    {
+      "name": "MARE_ETAPA_02",
+      "camera": "MARE_CAMERA_QUIOSQUE",
+      "world": "MARE_World_02",
+      "roots": [
+        "MARE_ORLA_PERMANENTE",
+        "MARE_01_QUIOSQUE_ORIGINAL",
+        "MARE_02_DECK_MESAS"
+      ]
+    },
+    {
+      "name": "MARE_ETAPA_03",
+      "camera": "MARE_CAMERA_QUIOSQUE",
+      "world": "MARE_World_03",
+      "roots": [
+        "MARE_ORLA_PERMANENTE",
+        "MARE_01_QUIOSQUE_ORIGINAL",
+        "MARE_02_DECK_MESAS",
+        "MARE_03_PREPARO_ESTOQUE"
+      ]
+    },
+    {
+      "name": "MARE_ETAPA_04",
+      "camera": "MARE_CAMERA_QUIOSQUE",
+      "world": "MARE_World_04",
+      "roots": [
+        "MARE_ORLA_PERMANENTE",
+        "MARE_01_QUIOSQUE_ORIGINAL",
+        "MARE_02_DECK_MESAS",
+        "MARE_03_PREPARO_ESTOQUE",
+        "MARE_04_SANITARIOS"
+      ]
+    },
+    {
+      "name": "MARE_ETAPA_05",
+      "camera": "MARE_CAMERA_QUIOSQUE",
+      "world": "MARE_World_05",
+      "roots": [
+        "MARE_ORLA_PERMANENTE",
+        "MARE_01_QUIOSQUE_ORIGINAL",
+        "MARE_02_DECK_MESAS",
+        "MARE_03_PREPARO_ESTOQUE",
+        "MARE_04_SANITARIOS",
+        "MARE_05_LOUNGE_PERGOLA"
+      ]
+    },
+    {
+      "name": "MARE_ETAPA_06",
+      "camera": "MARE_CAMERA_QUIOSQUE",
+      "world": "MARE_World_06",
+      "roots": [
+        "MARE_ORLA_PERMANENTE",
+        "MARE_01_QUIOSQUE_ORIGINAL",
+        "MARE_02_DECK_MESAS",
+        "MARE_03_PREPARO_ESTOQUE",
+        "MARE_04_SANITARIOS",
+        "MARE_05_LOUNGE_PERGOLA",
+        "MARE_06_BEACH_CLUB"
+      ]
+    },
+    {
+      "name": "MARE_ETAPA_07",
+      "camera": "MARE_CAMERA_ORLA",
+      "world": "MARE_World_07",
+      "roots": [
+        "MARE_ORLA_PERMANENTE",
+        "MARE_01_QUIOSQUE_ORIGINAL",
+        "MARE_02_DECK_MESAS",
+        "MARE_03_PREPARO_ESTOQUE",
+        "MARE_04_SANITARIOS",
+        "MARE_05_LOUNGE_PERGOLA",
+        "MARE_06_BEACH_CLUB",
+        "MARE_07_RESTAURANTE"
+      ]
+    },
+    {
+      "name": "MARE_ETAPA_08",
+      "camera": "MARE_CAMERA_ORLA",
+      "world": "MARE_World_08",
+      "roots": [
+        "MARE_ORLA_PERMANENTE",
+        "MARE_01_QUIOSQUE_ORIGINAL",
+        "MARE_02_DECK_MESAS",
+        "MARE_03_PREPARO_ESTOQUE",
+        "MARE_04_SANITARIOS",
+        "MARE_05_LOUNGE_PERGOLA",
+        "MARE_06_BEACH_CLUB",
+        "MARE_07_RESTAURANTE",
+        "MARE_08_OPERACAO"
+      ]
+    },
+    {
+      "name": "MARE_ETAPA_09",
+      "camera": "MARE_CAMERA_ORLA",
+      "world": "MARE_World_09",
+      "roots": [
+        "MARE_ORLA_PERMANENTE",
+        "MARE_01_QUIOSQUE_ORIGINAL",
+        "MARE_02_DECK_MESAS",
+        "MARE_03_PREPARO_ESTOQUE",
+        "MARE_04_SANITARIOS",
+        "MARE_05_LOUNGE_PERGOLA",
+        "MARE_06_BEACH_CLUB",
+        "MARE_07_RESTAURANTE",
+        "MARE_08_OPERACAO",
+        "MARE_09_RECEPCAO"
+      ]
+    },
+    {
+      "name": "MARE_ETAPA_10",
+      "camera": "MARE_CAMERA_RESORT",
+      "world": "MARE_World_10",
+      "roots": [
+        "MARE_ORLA_PERMANENTE",
+        "MARE_01_QUIOSQUE_ORIGINAL",
+        "MARE_02_DECK_MESAS",
+        "MARE_03_PREPARO_ESTOQUE",
+        "MARE_04_SANITARIOS",
+        "MARE_05_LOUNGE_PERGOLA",
+        "MARE_06_BEACH_CLUB",
+        "MARE_07_RESTAURANTE",
+        "MARE_08_OPERACAO",
+        "MARE_09_RECEPCAO",
+        "MARE_10_BANGALOS"
+      ]
+    },
+    {
+      "name": "MARE_ETAPA_11",
+      "camera": "MARE_CAMERA_RESORT",
+      "world": "MARE_World_11",
+      "roots": [
+        "MARE_ORLA_PERMANENTE",
+        "MARE_01_QUIOSQUE_ORIGINAL",
+        "MARE_02_DECK_MESAS",
+        "MARE_03_PREPARO_ESTOQUE",
+        "MARE_04_SANITARIOS",
+        "MARE_05_LOUNGE_PERGOLA",
+        "MARE_06_BEACH_CLUB",
+        "MARE_07_RESTAURANTE",
+        "MARE_08_OPERACAO",
+        "MARE_09_RECEPCAO",
+        "MARE_10_BANGALOS",
+        "MARE_11_PISCINA"
+      ]
+    },
+    {
+      "name": "MARE_ETAPA_12",
+      "camera": "MARE_CAMERA_RESORT",
+      "world": "MARE_World_12",
+      "roots": [
+        "MARE_ORLA_PERMANENTE",
+        "MARE_01_QUIOSQUE_ORIGINAL",
+        "MARE_02_DECK_MESAS",
+        "MARE_03_PREPARO_ESTOQUE",
+        "MARE_04_SANITARIOS",
+        "MARE_05_LOUNGE_PERGOLA",
+        "MARE_06_BEACH_CLUB",
+        "MARE_07_RESTAURANTE",
+        "MARE_08_OPERACAO",
+        "MARE_09_RECEPCAO",
+        "MARE_10_BANGALOS",
+        "MARE_11_PISCINA",
+        "MARE_12_ALA_HOSPEDAGEM"
+      ]
+    },
+    {
+      "name": "MARE_ETAPA_13",
+      "camera": "MARE_CAMERA_RESORT",
+      "world": "MARE_World_13",
+      "roots": [
+        "MARE_ORLA_PERMANENTE",
+        "MARE_01_QUIOSQUE_ORIGINAL",
+        "MARE_02_DECK_MESAS",
+        "MARE_03_PREPARO_ESTOQUE",
+        "MARE_04_SANITARIOS",
+        "MARE_05_LOUNGE_PERGOLA",
+        "MARE_06_BEACH_CLUB",
+        "MARE_07_RESTAURANTE",
+        "MARE_08_OPERACAO",
+        "MARE_09_RECEPCAO",
+        "MARE_10_BANGALOS",
+        "MARE_11_PISCINA",
+        "MARE_12_ALA_HOSPEDAGEM",
+        "MARE_13_KIDS_CLUB"
+      ]
+    },
+    {
+      "name": "MARE_ETAPA_14",
+      "camera": "MARE_CAMERA_RESORT",
+      "world": "MARE_World_14",
+      "roots": [
+        "MARE_ORLA_PERMANENTE",
+        "MARE_01_QUIOSQUE_ORIGINAL",
+        "MARE_02_DECK_MESAS",
+        "MARE_03_PREPARO_ESTOQUE",
+        "MARE_04_SANITARIOS",
+        "MARE_05_LOUNGE_PERGOLA",
+        "MARE_06_BEACH_CLUB",
+        "MARE_07_RESTAURANTE",
+        "MARE_08_OPERACAO",
+        "MARE_09_RECEPCAO",
+        "MARE_10_BANGALOS",
+        "MARE_11_PISCINA",
+        "MARE_12_ALA_HOSPEDAGEM",
+        "MARE_13_KIDS_CLUB",
+        "MARE_14_ACADEMIA_YOGA"
+      ]
+    },
+    {
+      "name": "MARE_ETAPA_15",
+      "camera": "MARE_CAMERA_RESORT",
+      "world": "MARE_World_15",
+      "roots": [
+        "MARE_ORLA_PERMANENTE",
+        "MARE_01_QUIOSQUE_ORIGINAL",
+        "MARE_02_DECK_MESAS",
+        "MARE_03_PREPARO_ESTOQUE",
+        "MARE_04_SANITARIOS",
+        "MARE_05_LOUNGE_PERGOLA",
+        "MARE_06_BEACH_CLUB",
+        "MARE_07_RESTAURANTE",
+        "MARE_08_OPERACAO",
+        "MARE_09_RECEPCAO",
+        "MARE_10_BANGALOS",
+        "MARE_11_PISCINA",
+        "MARE_12_ALA_HOSPEDAGEM",
+        "MARE_13_KIDS_CLUB",
+        "MARE_14_ACADEMIA_YOGA",
+        "MARE_15_SPA"
+      ]
+    },
+    {
+      "name": "MARE_ETAPA_16",
+      "camera": "MARE_CAMERA_RESORT",
+      "world": "MARE_World_16",
+      "roots": [
+        "MARE_ORLA_PERMANENTE",
+        "MARE_01_QUIOSQUE_ORIGINAL",
+        "MARE_02_DECK_MESAS",
+        "MARE_03_PREPARO_ESTOQUE",
+        "MARE_04_SANITARIOS",
+        "MARE_05_LOUNGE_PERGOLA",
+        "MARE_06_BEACH_CLUB",
+        "MARE_07_RESTAURANTE",
+        "MARE_08_OPERACAO",
+        "MARE_09_RECEPCAO",
+        "MARE_10_BANGALOS",
+        "MARE_11_PISCINA",
+        "MARE_12_ALA_HOSPEDAGEM",
+        "MARE_13_KIDS_CLUB",
+        "MARE_14_ACADEMIA_YOGA",
+        "MARE_15_SPA",
+        "MARE_16_GASTRONOMIA"
+      ]
+    },
+    {
+      "name": "MARE_ETAPA_17",
+      "camera": "MARE_CAMERA_RESORT",
+      "world": "MARE_World_17",
+      "roots": [
+        "MARE_ORLA_PERMANENTE",
+        "MARE_01_QUIOSQUE_ORIGINAL",
+        "MARE_02_DECK_MESAS",
+        "MARE_03_PREPARO_ESTOQUE",
+        "MARE_04_SANITARIOS",
+        "MARE_05_LOUNGE_PERGOLA",
+        "MARE_06_BEACH_CLUB",
+        "MARE_07_RESTAURANTE",
+        "MARE_08_OPERACAO",
+        "MARE_09_RECEPCAO",
+        "MARE_10_BANGALOS",
+        "MARE_11_PISCINA",
+        "MARE_12_ALA_HOSPEDAGEM",
+        "MARE_13_KIDS_CLUB",
+        "MARE_14_ACADEMIA_YOGA",
+        "MARE_15_SPA",
+        "MARE_16_GASTRONOMIA",
+        "MARE_17_VILLAS"
+      ]
+    },
+    {
+      "name": "MARE_ETAPA_18",
+      "camera": "MARE_CAMERA_RESORT",
+      "world": "MARE_World_18",
+      "roots": [
+        "MARE_ORLA_PERMANENTE",
+        "MARE_01_QUIOSQUE_ORIGINAL",
+        "MARE_02_DECK_MESAS",
+        "MARE_03_PREPARO_ESTOQUE",
+        "MARE_04_SANITARIOS",
+        "MARE_05_LOUNGE_PERGOLA",
+        "MARE_06_BEACH_CLUB",
+        "MARE_07_RESTAURANTE",
+        "MARE_08_OPERACAO",
+        "MARE_09_RECEPCAO",
+        "MARE_10_BANGALOS",
+        "MARE_11_PISCINA",
+        "MARE_12_ALA_HOSPEDAGEM",
+        "MARE_13_KIDS_CLUB",
+        "MARE_14_ACADEMIA_YOGA",
+        "MARE_15_SPA",
+        "MARE_16_GASTRONOMIA",
+        "MARE_17_VILLAS",
+        "MARE_18_EVENTOS"
+      ]
+    },
+    {
+      "name": "MARE_ETAPA_19",
+      "camera": "MARE_CAMERA_RESORT",
+      "world": "MARE_World_19",
+      "roots": [
+        "MARE_ORLA_PERMANENTE",
+        "MARE_01_QUIOSQUE_ORIGINAL",
+        "MARE_02_DECK_MESAS",
+        "MARE_03_PREPARO_ESTOQUE",
+        "MARE_04_SANITARIOS",
+        "MARE_05_LOUNGE_PERGOLA",
+        "MARE_06_BEACH_CLUB",
+        "MARE_07_RESTAURANTE",
+        "MARE_08_OPERACAO",
+        "MARE_09_RECEPCAO",
+        "MARE_10_BANGALOS",
+        "MARE_11_PISCINA",
+        "MARE_12_ALA_HOSPEDAGEM",
+        "MARE_13_KIDS_CLUB",
+        "MARE_14_ACADEMIA_YOGA",
+        "MARE_15_SPA",
+        "MARE_16_GASTRONOMIA",
+        "MARE_17_VILLAS",
+        "MARE_18_EVENTOS",
+        "MARE_19_SUSTENTABILIDADE"
+      ]
+    },
+    {
+      "name": "MARE_ETAPA_20",
+      "camera": "MARE_CAMERA_RESORT",
+      "world": "MARE_World_20",
+      "roots": [
+        "MARE_ORLA_PERMANENTE",
+        "MARE_01_QUIOSQUE_ORIGINAL",
+        "MARE_02_DECK_MESAS",
+        "MARE_03_PREPARO_ESTOQUE",
+        "MARE_04_SANITARIOS",
+        "MARE_05_LOUNGE_PERGOLA",
+        "MARE_06_BEACH_CLUB",
+        "MARE_07_RESTAURANTE",
+        "MARE_08_OPERACAO",
+        "MARE_09_RECEPCAO",
+        "MARE_10_BANGALOS",
+        "MARE_11_PISCINA",
+        "MARE_12_ALA_HOSPEDAGEM",
+        "MARE_13_KIDS_CLUB",
+        "MARE_14_ACADEMIA_YOGA",
+        "MARE_15_SPA",
+        "MARE_16_GASTRONOMIA",
+        "MARE_17_VILLAS",
+        "MARE_18_EVENTOS",
+        "MARE_19_SUSTENTABILIDADE",
+        "MARE_20_RESORT_CINCO_ESTRELAS"
+      ]
+    },
+    {
+      "name": "MARE_UNIDA_ETAPA_01",
+      "camera": "UNIDA_Camera_Kiosk",
+      "world": "MARE_World_01",
+      "roots": [
+        "UNIDA_ORLA_CONTINUA",
+        "MARE_01_QUIOSQUE_ORIGINAL"
+      ]
+    },
+    {
+      "name": "MARE_UNIDA_ETAPA_02",
+      "camera": "UNIDA_Camera_Kiosk",
+      "world": "MARE_World_01",
+      "roots": [
+        "UNIDA_ORLA_CONTINUA",
+        "MARE_01_QUIOSQUE_ORIGINAL",
+        "UNIDA_02_DECK_QUIOSQUE"
+      ]
+    },
+    {
+      "name": "MARE_UNIDA_ETAPA_03",
+      "camera": "UNIDA_Camera_Kiosk",
+      "world": "MARE_World_01",
+      "roots": [
+        "UNIDA_ORLA_CONTINUA",
+        "MARE_01_QUIOSQUE_ORIGINAL",
+        "UNIDA_02_DECK_QUIOSQUE",
+        "UNIDA_03_PREPARO_QUIOSQUE"
+      ]
+    },
+    {
+      "name": "MARE_UNIDA_ETAPA_04",
+      "camera": "UNIDA_Camera_Restaurant",
+      "world": "MARE_World_01",
+      "roots": [
+        "UNIDA_ORLA_CONTINUA",
+        "UNIDA_04_RESTAURANTE_TRANSFORMADO",
+        "UNIDA_04_BAR_NO_RESTAURANTE",
+        "UNIDA_02_DECK_RESTAURANTE",
+        "UNIDA_03_PREPARO_RESTAURANTE",
+        "UNIDA_RESTAURANT_ORIGINAL_ROOF",
+        "INTERIOR_04_RESTAURANT_INTERIOR"
+      ]
+    },
+    {
+      "name": "MARE_UNIDA_ETAPA_05",
+      "camera": "UNIDA_Camera_Restaurant",
+      "world": "MARE_World_01",
+      "roots": [
+        "UNIDA_ORLA_CONTINUA",
+        "UNIDA_04_RESTAURANTE_TRANSFORMADO",
+        "UNIDA_04_BAR_NO_RESTAURANTE",
+        "UNIDA_02_DECK_RESTAURANTE",
+        "UNIDA_03_PREPARO_RESTAURANTE",
+        "UNIDA_05_SANITARIOS_RESTAURANTE",
+        "UNIDA_RESTAURANT_ORIGINAL_ROOF",
+        "INTERIOR_04_RESTAURANT_INTERIOR"
+      ]
+    },
+    {
+      "name": "MARE_UNIDA_ETAPA_06",
+      "camera": "INTERIOR_CAMERA_KITCHEN",
+      "world": "MARE_World_01",
+      "roots": [
+        "UNIDA_ORLA_CONTINUA",
+        "UNIDA_06_HOTEL_SIMPLES",
+        "UNIDA_06_RESTAURANTE_NOS_FUNDOS",
+        "UNIDA_05_SANITARIOS_INTEGRADOS",
+        "UNIDA_RESTAURANT_REAR_ROOF",
+        "UNIDA_STAIR_EXIT_LOW",
+        "INTERIOR_06_QUARTOS_HOTEL",
+        "INTERIOR_06_LOBBY",
+        "INTERIOR_06_REAR_RESTAURANT_INTERIOR",
+        "INTERIOR_06_PUBLIC_WASHROOMS",
+        "INTERIOR_06_ADMINISTRATION",
+        "INTERIOR_06_REAR_GUARD"
+      ]
+    },
+    {
+      "name": "MARE_UNIDA_ETAPA_07",
+      "camera": "UNIDA_Camera_Hotel",
+      "world": "MARE_World_01",
+      "roots": [
+        "UNIDA_ORLA_CONTINUA",
+        "UNIDA_06_HOTEL_SIMPLES",
+        "UNIDA_06_RESTAURANTE_NOS_FUNDOS",
+        "UNIDA_05_SANITARIOS_INTEGRADOS",
+        "UNIDA_07_ALA_ESQUERDA",
+        "UNIDA_RESTAURANT_REAR_ROOF",
+        "UNIDA_STAIR_EXIT_LOW",
+        "INTERIOR_06_QUARTOS_HOTEL",
+        "INTERIOR_07_QUARTOS_J",
+        "INTERIOR_06_LOBBY",
+        "INTERIOR_06_REAR_RESTAURANT_INTERIOR",
+        "INTERIOR_06_PUBLIC_WASHROOMS",
+        "INTERIOR_06_ADMINISTRATION",
+        "INTERIOR_06_REAR_GUARD"
+      ]
+    },
+    {
+      "name": "MARE_UNIDA_ETAPA_08",
+      "camera": "UNIDA_Camera_Hotel",
+      "world": "MARE_World_01",
+      "roots": [
+        "UNIDA_ORLA_CONTINUA",
+        "UNIDA_06_HOTEL_SIMPLES",
+        "UNIDA_06_RESTAURANTE_NOS_FUNDOS",
+        "UNIDA_05_SANITARIOS_INTEGRADOS",
+        "UNIDA_07_ALA_ESQUERDA",
+        "UNIDA_08_ALA_DIREITA",
+        "UNIDA_RESTAURANT_REAR_ROOF",
+        "UNIDA_STAIR_EXIT_LOW",
+        "INTERIOR_06_QUARTOS_HOTEL",
+        "INTERIOR_07_QUARTOS_J",
+        "INTERIOR_08_QUARTOS_O",
+        "INTERIOR_06_LOBBY",
+        "INTERIOR_06_REAR_RESTAURANT_INTERIOR",
+        "INTERIOR_06_PUBLIC_WASHROOMS",
+        "INTERIOR_06_ADMINISTRATION",
+        "INTERIOR_06_REAR_GUARD"
+      ]
+    },
+    {
+      "name": "MARE_UNIDA_ETAPA_09",
+      "camera": "UNIDA_Camera_Hotel",
+      "world": "MARE_World_01",
+      "roots": [
+        "UNIDA_ORLA_CONTINUA",
+        "UNIDA_06_HOTEL_SIMPLES",
+        "UNIDA_06_RESTAURANTE_NOS_FUNDOS",
+        "UNIDA_05_SANITARIOS_INTEGRADOS",
+        "UNIDA_07_ALA_ESQUERDA",
+        "UNIDA_08_ALA_DIREITA",
+        "UNIDA_09_COZINHA_E_OPERACAO",
+        "UNIDA_RESTAURANT_REAR_ROOF",
+        "UNIDA_STAIR_EXIT_LOW",
+        "INTERIOR_06_QUARTOS_HOTEL",
+        "INTERIOR_07_QUARTOS_J",
+        "INTERIOR_08_QUARTOS_O",
+        "INTERIOR_06_LOBBY",
+        "INTERIOR_06_REAR_RESTAURANT_INTERIOR",
+        "INTERIOR_09_OPERATIONS",
+        "INTERIOR_06_PUBLIC_WASHROOMS",
+        "INTERIOR_06_ADMINISTRATION",
+        "INTERIOR_06_REAR_GUARD"
+      ]
+    },
+    {
+      "name": "MARE_UNIDA_ETAPA_10",
+      "camera": "UNIDA_Camera_Unified_Resort",
+      "world": "MARE_World_01",
+      "roots": [
+        "UNIDA_ORLA_CONTINUA",
+        "UNIDA_06_HOTEL_SIMPLES",
+        "UNIDA_06_RESTAURANTE_NOS_FUNDOS",
+        "UNIDA_05_SANITARIOS_INTEGRADOS",
+        "UNIDA_07_ALA_ESQUERDA",
+        "UNIDA_08_ALA_DIREITA",
+        "UNIDA_09_COZINHA_E_OPERACAO",
+        "UNIDA_10_PISCINA_PATIO",
+        "UNIDA_RESTAURANT_REAR_ROOF",
+        "UNIDA_STAIR_EXIT_LOW",
+        "INTERIOR_06_QUARTOS_HOTEL",
+        "INTERIOR_07_QUARTOS_J",
+        "INTERIOR_08_QUARTOS_O",
+        "INTERIOR_06_LOBBY",
+        "INTERIOR_06_REAR_RESTAURANT_INTERIOR",
+        "INTERIOR_09_OPERATIONS",
+        "INTERIOR_06_PUBLIC_WASHROOMS",
+        "INTERIOR_06_ADMINISTRATION",
+        "INTERIOR_06_REAR_GUARD"
+      ]
+    },
+    {
+      "name": "MARE_UNIDA_ETAPA_11",
+      "camera": "UNIDA_Camera_Unified_Resort",
+      "world": "MARE_World_01",
+      "roots": [
+        "UNIDA_ORLA_CONTINUA",
+        "UNIDA_06_HOTEL_SIMPLES",
+        "UNIDA_06_RESTAURANTE_NOS_FUNDOS",
+        "UNIDA_05_SANITARIOS_INTEGRADOS",
+        "UNIDA_07_ALA_ESQUERDA",
+        "UNIDA_08_ALA_DIREITA",
+        "UNIDA_09_COZINHA_E_OPERACAO",
+        "UNIDA_10_PISCINA_PATIO",
+        "UNIDA_11_LOUNGE_ORLA",
+        "UNIDA_RESTAURANT_REAR_ROOF",
+        "UNIDA_STAIR_EXIT_LOW",
+        "INTERIOR_06_QUARTOS_HOTEL",
+        "INTERIOR_07_QUARTOS_J",
+        "INTERIOR_08_QUARTOS_O",
+        "INTERIOR_06_LOBBY",
+        "INTERIOR_06_REAR_RESTAURANT_INTERIOR",
+        "INTERIOR_09_OPERATIONS",
+        "INTERIOR_06_PUBLIC_WASHROOMS",
+        "INTERIOR_06_ADMINISTRATION",
+        "INTERIOR_06_REAR_GUARD"
+      ]
+    },
+    {
+      "name": "MARE_UNIDA_ETAPA_12",
+      "camera": "UNIDA_Camera_Unified_Resort",
+      "world": "MARE_World_01",
+      "roots": [
+        "UNIDA_ORLA_CONTINUA",
+        "UNIDA_06_HOTEL_SIMPLES",
+        "UNIDA_06_RESTAURANTE_NOS_FUNDOS",
+        "UNIDA_05_SANITARIOS_INTEGRADOS",
+        "UNIDA_07_ALA_ESQUERDA",
+        "UNIDA_08_ALA_DIREITA",
+        "UNIDA_09_COZINHA_E_OPERACAO",
+        "UNIDA_10_PISCINA_PATIO",
+        "UNIDA_11_LOUNGE_ORLA",
+        "UNIDA_12_FAMILIA",
+        "UNIDA_RESTAURANT_REAR_ROOF",
+        "UNIDA_STAIR_EXIT_LOW",
+        "INTERIOR_06_QUARTOS_HOTEL",
+        "INTERIOR_07_QUARTOS_J",
+        "INTERIOR_08_QUARTOS_O",
+        "INTERIOR_06_LOBBY",
+        "INTERIOR_06_REAR_RESTAURANT_INTERIOR",
+        "INTERIOR_09_OPERATIONS",
+        "INTERIOR_06_PUBLIC_WASHROOMS",
+        "INTERIOR_12_KIDS_INTERIOR",
+        "INTERIOR_06_ADMINISTRATION",
+        "INTERIOR_06_REAR_GUARD"
+      ]
+    },
+    {
+      "name": "MARE_UNIDA_ETAPA_13",
+      "camera": "UNIDA_Camera_Unified_Resort",
+      "world": "MARE_World_01",
+      "roots": [
+        "UNIDA_ORLA_CONTINUA",
+        "UNIDA_06_HOTEL_SIMPLES",
+        "UNIDA_06_RESTAURANTE_NOS_FUNDOS",
+        "UNIDA_05_SANITARIOS_INTEGRADOS",
+        "UNIDA_07_ALA_ESQUERDA",
+        "UNIDA_08_ALA_DIREITA",
+        "UNIDA_09_COZINHA_E_OPERACAO",
+        "UNIDA_10_PISCINA_PATIO",
+        "UNIDA_11_LOUNGE_ORLA",
+        "UNIDA_12_FAMILIA",
+        "UNIDA_13_FITNESS_PISO_SUPERIOR",
+        "UNIDA_RESTAURANT_REAR_ROOF",
+        "UNIDA_STAIR_EXIT_LOW",
+        "INTERIOR_06_QUARTOS_HOTEL",
+        "INTERIOR_07_QUARTOS_J",
+        "INTERIOR_08_QUARTOS_O",
+        "INTERIOR_06_LOBBY",
+        "INTERIOR_06_REAR_RESTAURANT_INTERIOR",
+        "INTERIOR_09_OPERATIONS",
+        "INTERIOR_06_PUBLIC_WASHROOMS",
+        "INTERIOR_12_KIDS_INTERIOR",
+        "INTERIOR_13_FITNESS_INTERIOR",
+        "INTERIOR_06_ADMINISTRATION",
+        "INTERIOR_06_REAR_GUARD"
+      ]
+    },
+    {
+      "name": "MARE_UNIDA_ETAPA_14",
+      "camera": "UNIDA_Camera_Unified_Resort",
+      "world": "MARE_World_01",
+      "roots": [
+        "UNIDA_ORLA_CONTINUA",
+        "UNIDA_06_HOTEL_SIMPLES",
+        "UNIDA_06_RESTAURANTE_NOS_FUNDOS",
+        "UNIDA_05_SANITARIOS_INTEGRADOS",
+        "UNIDA_07_ALA_ESQUERDA",
+        "UNIDA_08_ALA_DIREITA",
+        "UNIDA_09_COZINHA_E_OPERACAO",
+        "UNIDA_10_PISCINA_PATIO",
+        "UNIDA_11_LOUNGE_ORLA",
+        "UNIDA_12_FAMILIA",
+        "UNIDA_13_FITNESS_PISO_SUPERIOR",
+        "UNIDA_14_SPA_ANEXADO",
+        "UNIDA_RESTAURANT_REAR_ROOF",
+        "UNIDA_STAIR_EXIT_LOW",
+        "INTERIOR_06_QUARTOS_HOTEL",
+        "INTERIOR_07_QUARTOS_J",
+        "INTERIOR_08_QUARTOS_O",
+        "INTERIOR_06_LOBBY",
+        "INTERIOR_06_REAR_RESTAURANT_INTERIOR",
+        "INTERIOR_09_OPERATIONS",
+        "INTERIOR_06_PUBLIC_WASHROOMS",
+        "INTERIOR_12_KIDS_INTERIOR",
+        "INTERIOR_13_FITNESS_INTERIOR",
+        "INTERIOR_14_SPA_INTERIOR",
+        "INTERIOR_06_ADMINISTRATION",
+        "INTERIOR_06_REAR_GUARD"
+      ]
+    },
+    {
+      "name": "MARE_UNIDA_ETAPA_15",
+      "camera": "UNIDA_Camera_Unified_Resort",
+      "world": "MARE_World_01",
+      "roots": [
+        "UNIDA_ORLA_CONTINUA",
+        "UNIDA_06_HOTEL_SIMPLES",
+        "UNIDA_06_RESTAURANTE_NOS_FUNDOS",
+        "UNIDA_05_SANITARIOS_INTEGRADOS",
+        "UNIDA_07_ALA_ESQUERDA",
+        "UNIDA_08_ALA_DIREITA",
+        "UNIDA_09_COZINHA_E_OPERACAO",
+        "UNIDA_10_PISCINA_PATIO",
+        "UNIDA_11_LOUNGE_ORLA",
+        "UNIDA_12_FAMILIA",
+        "UNIDA_13_FITNESS_PISO_SUPERIOR",
+        "UNIDA_14_SPA_ANEXADO",
+        "UNIDA_15_GASTRONOMIA_PISO_SUPERIOR",
+        "UNIDA_STAIR_EXIT_LOW",
+        "INTERIOR_06_QUARTOS_HOTEL",
+        "INTERIOR_07_QUARTOS_J",
+        "INTERIOR_08_QUARTOS_O",
+        "INTERIOR_06_LOBBY",
+        "INTERIOR_06_REAR_RESTAURANT_INTERIOR",
+        "INTERIOR_09_OPERATIONS",
+        "INTERIOR_06_PUBLIC_WASHROOMS",
+        "INTERIOR_12_KIDS_INTERIOR",
+        "INTERIOR_13_FITNESS_INTERIOR",
+        "INTERIOR_14_SPA_INTERIOR",
+        "INTERIOR_15_FINE_DINING_INTERIOR",
+        "INTERIOR_06_ADMINISTRATION"
+      ]
+    },
+    {
+      "name": "MARE_UNIDA_ETAPA_16",
+      "camera": "UNIDA_Camera_Unified_Resort",
+      "world": "MARE_World_01",
+      "roots": [
+        "UNIDA_ORLA_CONTINUA",
+        "UNIDA_06_HOTEL_SIMPLES",
+        "UNIDA_06_RESTAURANTE_NOS_FUNDOS",
+        "UNIDA_05_SANITARIOS_INTEGRADOS",
+        "UNIDA_07_ALA_ESQUERDA",
+        "UNIDA_08_ALA_DIREITA",
+        "UNIDA_09_COZINHA_E_OPERACAO",
+        "UNIDA_10_PISCINA_PATIO",
+        "UNIDA_11_LOUNGE_ORLA",
+        "UNIDA_12_FAMILIA",
+        "UNIDA_13_FITNESS_PISO_SUPERIOR",
+        "UNIDA_14_SPA_ANEXADO",
+        "UNIDA_15_GASTRONOMIA_PISO_SUPERIOR",
+        "UNIDA_16_SUITES_PRIVATIVAS",
+        "UNIDA_STAIR_EXIT_LOW",
+        "INTERIOR_06_QUARTOS_HOTEL",
+        "INTERIOR_07_QUARTOS_J",
+        "INTERIOR_08_QUARTOS_O",
+        "INTERIOR_16_QUARTOS_SPA",
+        "INTERIOR_06_LOBBY",
+        "INTERIOR_06_REAR_RESTAURANT_INTERIOR",
+        "INTERIOR_09_OPERATIONS",
+        "INTERIOR_06_PUBLIC_WASHROOMS",
+        "INTERIOR_12_KIDS_INTERIOR",
+        "INTERIOR_13_FITNESS_INTERIOR",
+        "INTERIOR_14_SPA_INTERIOR",
+        "INTERIOR_15_FINE_DINING_INTERIOR",
+        "INTERIOR_06_ADMINISTRATION"
+      ]
+    },
+    {
+      "name": "MARE_UNIDA_ETAPA_17",
+      "camera": "UNIDA_Camera_Unified_Resort",
+      "world": "MARE_World_01",
+      "roots": [
+        "UNIDA_ORLA_CONTINUA",
+        "UNIDA_06_HOTEL_SIMPLES",
+        "UNIDA_06_RESTAURANTE_NOS_FUNDOS",
+        "UNIDA_05_SANITARIOS_INTEGRADOS",
+        "UNIDA_07_ALA_ESQUERDA",
+        "UNIDA_08_ALA_DIREITA",
+        "UNIDA_09_COZINHA_E_OPERACAO",
+        "UNIDA_10_PISCINA_PATIO",
+        "UNIDA_11_LOUNGE_ORLA",
+        "UNIDA_12_FAMILIA",
+        "UNIDA_13_FITNESS_PISO_SUPERIOR",
+        "UNIDA_14_SPA_ANEXADO",
+        "UNIDA_15_GASTRONOMIA_PISO_SUPERIOR",
+        "UNIDA_16_SUITES_PRIVATIVAS",
+        "UNIDA_17_EVENTOS_INTEGRADOS",
+        "UNIDA_STAIR_EXIT_LOW",
+        "INTERIOR_06_QUARTOS_HOTEL",
+        "INTERIOR_07_QUARTOS_J",
+        "INTERIOR_08_QUARTOS_O",
+        "INTERIOR_16_QUARTOS_SPA",
+        "INTERIOR_06_LOBBY",
+        "INTERIOR_06_REAR_RESTAURANT_INTERIOR",
+        "INTERIOR_09_OPERATIONS",
+        "INTERIOR_06_PUBLIC_WASHROOMS",
+        "INTERIOR_12_KIDS_INTERIOR",
+        "INTERIOR_13_FITNESS_INTERIOR",
+        "INTERIOR_14_SPA_INTERIOR",
+        "INTERIOR_15_FINE_DINING_INTERIOR",
+        "INTERIOR_17_EVENT_INTERIOR",
+        "INTERIOR_06_ADMINISTRATION"
+      ]
+    },
+    {
+      "name": "MARE_UNIDA_ETAPA_18",
+      "camera": "UNIDA_Camera_Unified_Resort",
+      "world": "MARE_World_01",
+      "roots": [
+        "UNIDA_ORLA_CONTINUA",
+        "UNIDA_06_HOTEL_SIMPLES",
+        "UNIDA_06_RESTAURANTE_NOS_FUNDOS",
+        "UNIDA_05_SANITARIOS_INTEGRADOS",
+        "UNIDA_07_ALA_ESQUERDA",
+        "UNIDA_08_ALA_DIREITA",
+        "UNIDA_09_COZINHA_E_OPERACAO",
+        "UNIDA_10_PISCINA_PATIO",
+        "UNIDA_11_LOUNGE_ORLA",
+        "UNIDA_12_FAMILIA",
+        "UNIDA_13_FITNESS_PISO_SUPERIOR",
+        "UNIDA_14_SPA_ANEXADO",
+        "UNIDA_15_GASTRONOMIA_PISO_SUPERIOR",
+        "UNIDA_16_SUITES_PRIVATIVAS",
+        "UNIDA_17_EVENTOS_INTEGRADOS",
+        "UNIDA_18_LAVANDERIA_E_RECURSOS",
+        "UNIDA_STAIR_EXIT_LOW",
+        "INTERIOR_06_QUARTOS_HOTEL",
+        "INTERIOR_07_QUARTOS_J",
+        "INTERIOR_08_QUARTOS_O",
+        "INTERIOR_16_QUARTOS_SPA",
+        "INTERIOR_06_LOBBY",
+        "INTERIOR_06_REAR_RESTAURANT_INTERIOR",
+        "INTERIOR_09_OPERATIONS",
+        "INTERIOR_06_PUBLIC_WASHROOMS",
+        "INTERIOR_12_KIDS_INTERIOR",
+        "INTERIOR_13_FITNESS_INTERIOR",
+        "INTERIOR_14_SPA_INTERIOR",
+        "INTERIOR_15_FINE_DINING_INTERIOR",
+        "INTERIOR_17_EVENT_INTERIOR",
+        "INTERIOR_18_SERVICE_INTERIOR",
+        "INTERIOR_06_ADMINISTRATION"
+      ]
+    },
+    {
+      "name": "MARE_UNIDA_ETAPA_19",
+      "camera": "UNIDA_Camera_Unified_Resort",
+      "world": "MARE_World_01",
+      "roots": [
+        "UNIDA_ORLA_CONTINUA",
+        "UNIDA_06_HOTEL_SIMPLES",
+        "UNIDA_06_RESTAURANTE_NOS_FUNDOS",
+        "UNIDA_05_SANITARIOS_INTEGRADOS",
+        "UNIDA_07_ALA_ESQUERDA",
+        "UNIDA_08_ALA_DIREITA",
+        "UNIDA_09_COZINHA_E_OPERACAO",
+        "UNIDA_10_PISCINA_PATIO",
+        "UNIDA_11_LOUNGE_ORLA",
+        "UNIDA_12_FAMILIA",
+        "UNIDA_13_FITNESS_PISO_SUPERIOR",
+        "UNIDA_14_SPA_ANEXADO",
+        "UNIDA_15_GASTRONOMIA_PISO_SUPERIOR",
+        "UNIDA_16_SUITES_PRIVATIVAS",
+        "UNIDA_17_EVENTOS_INTEGRADOS",
+        "UNIDA_18_LAVANDERIA_E_RECURSOS",
+        "UNIDA_19_AMPLIACAO_VERTICAL",
+        "UNIDA_STAIR_EXIT_ROOFTOP",
+        "INTERIOR_06_QUARTOS_HOTEL",
+        "INTERIOR_07_QUARTOS_J",
+        "INTERIOR_08_QUARTOS_O",
+        "INTERIOR_19_QUARTOS_PJ",
+        "INTERIOR_19_QUARTOS_CENTRO",
+        "INTERIOR_16_QUARTOS_SPA",
+        "INTERIOR_06_LOBBY",
+        "INTERIOR_06_REAR_RESTAURANT_INTERIOR",
+        "INTERIOR_09_OPERATIONS",
+        "INTERIOR_06_PUBLIC_WASHROOMS",
+        "INTERIOR_12_KIDS_INTERIOR",
+        "INTERIOR_13_FITNESS_INTERIOR",
+        "INTERIOR_14_SPA_INTERIOR",
+        "INTERIOR_15_FINE_DINING_INTERIOR",
+        "INTERIOR_17_EVENT_INTERIOR",
+        "INTERIOR_18_SERVICE_INTERIOR",
+        "INTERIOR_06_ADMINISTRATION"
+      ]
+    },
+    {
+      "name": "MARE_UNIDA_ETAPA_20",
+      "camera": "UNIDA_Camera_Unified_Resort",
+      "world": "MARE_World_01",
+      "roots": [
+        "UNIDA_ORLA_CONTINUA",
+        "UNIDA_06_HOTEL_SIMPLES",
+        "UNIDA_06_RESTAURANTE_NOS_FUNDOS",
+        "UNIDA_05_SANITARIOS_INTEGRADOS",
+        "UNIDA_07_ALA_ESQUERDA",
+        "UNIDA_08_ALA_DIREITA",
+        "UNIDA_09_COZINHA_E_OPERACAO",
+        "UNIDA_10_PISCINA_PATIO",
+        "UNIDA_11_LOUNGE_ORLA",
+        "UNIDA_12_FAMILIA",
+        "UNIDA_13_FITNESS_PISO_SUPERIOR",
+        "UNIDA_14_SPA_ANEXADO",
+        "UNIDA_15_GASTRONOMIA_PISO_SUPERIOR",
+        "UNIDA_16_SUITES_PRIVATIVAS",
+        "UNIDA_17_EVENTOS_INTEGRADOS",
+        "UNIDA_18_LAVANDERIA_E_RECURSOS",
+        "UNIDA_19_AMPLIACAO_VERTICAL",
+        "UNIDA_20_RESORT_UNICO",
+        "UNIDA_STAIR_EXIT_ROOFTOP",
+        "INTERIOR_06_QUARTOS_HOTEL",
+        "INTERIOR_07_QUARTOS_J",
+        "INTERIOR_08_QUARTOS_O",
+        "INTERIOR_19_QUARTOS_PJ",
+        "INTERIOR_20_QUARTOS_PO",
+        "INTERIOR_19_QUARTOS_CENTRO",
+        "INTERIOR_16_QUARTOS_SPA",
+        "INTERIOR_06_LOBBY",
+        "INTERIOR_06_REAR_RESTAURANT_INTERIOR",
+        "INTERIOR_09_OPERATIONS",
+        "INTERIOR_06_PUBLIC_WASHROOMS",
+        "INTERIOR_12_KIDS_INTERIOR",
+        "INTERIOR_13_FITNESS_INTERIOR",
+        "INTERIOR_14_SPA_INTERIOR",
+        "INTERIOR_15_FINE_DINING_INTERIOR",
+        "INTERIOR_17_EVENT_INTERIOR",
+        "INTERIOR_18_SERVICE_INTERIOR",
+        "INTERIOR_20_ROOFTOP_SERVICE",
+        "INTERIOR_06_ADMINISTRATION"
+      ]
+    },
+    {
+      "name": "RESORT_2x1KM_COMERCIO",
+      "camera": "URBAN_FACADE_TEXTURE_DETAIL",
+      "world": "PolyHaven sunflowers_puresky.002",
+      "roots": [
+        "MAP_2000x1000_COMERCIO"
+      ]
+    },
+    {
+      "name": "RESORT_IPANEMA_2x2KM",
+      "camera": "CITY_DISTRICT",
+      "world": "PolyHaven sunflowers_puresky.001",
+      "roots": [
+        "MAP_2000x2000_METERS"
+      ]
+    },
+    {
+      "name": "RESORT_MAIN_MARE_01",
+      "camera": null,
+      "world": "PolyHaven sunflowers_puresky.002",
+      "roots": [
+        "MAIN_CITY_WITH_MARE_LOT"
+      ]
+    },
+    {
+      "name": "RESORT_MAIN_MARE_02",
+      "camera": null,
+      "world": "PolyHaven sunflowers_puresky.002",
+      "roots": [
+        "MAIN_CITY_WITH_MARE_LOT"
+      ]
+    },
+    {
+      "name": "RESORT_MAIN_MARE_03",
+      "camera": null,
+      "world": "PolyHaven sunflowers_puresky.002",
+      "roots": [
+        "MAIN_CITY_WITH_MARE_LOT"
+      ]
+    },
+    {
+      "name": "RESORT_MAIN_MARE_04",
+      "camera": null,
+      "world": "PolyHaven sunflowers_puresky.002",
+      "roots": [
+        "MAIN_CITY_WITH_MARE_LOT"
+      ]
+    },
+    {
+      "name": "RESORT_MAIN_MARE_05",
+      "camera": null,
+      "world": "PolyHaven sunflowers_puresky.002",
+      "roots": [
+        "MAIN_CITY_WITH_MARE_LOT"
+      ]
+    },
+    {
+      "name": "RESORT_MAIN_MARE_06",
+      "camera": null,
+      "world": "PolyHaven sunflowers_puresky.002",
+      "roots": [
+        "MAIN_CITY_WITH_MARE_LOT"
+      ]
+    },
+    {
+      "name": "RESORT_MAIN_MARE_07",
+      "camera": null,
+      "world": "PolyHaven sunflowers_puresky.002",
+      "roots": [
+        "MAIN_CITY_WITH_MARE_LOT"
+      ]
+    },
+    {
+      "name": "RESORT_MAIN_MARE_08",
+      "camera": null,
+      "world": "PolyHaven sunflowers_puresky.002",
+      "roots": [
+        "MAIN_CITY_WITH_MARE_LOT"
+      ]
+    },
+    {
+      "name": "RESORT_MAIN_MARE_09",
+      "camera": null,
+      "world": "PolyHaven sunflowers_puresky.002",
+      "roots": [
+        "MAIN_CITY_WITH_MARE_LOT"
+      ]
+    },
+    {
+      "name": "RESORT_MAIN_MARE_10",
+      "camera": null,
+      "world": "PolyHaven sunflowers_puresky.002",
+      "roots": [
+        "MAIN_CITY_WITH_MARE_LOT"
+      ]
+    },
+    {
+      "name": "RESORT_MAIN_MARE_11",
+      "camera": null,
+      "world": "PolyHaven sunflowers_puresky.002",
+      "roots": [
+        "MAIN_CITY_WITH_MARE_LOT"
+      ]
+    },
+    {
+      "name": "RESORT_MAIN_MARE_12",
+      "camera": null,
+      "world": "PolyHaven sunflowers_puresky.002",
+      "roots": [
+        "MAIN_CITY_WITH_MARE_LOT"
+      ]
+    },
+    {
+      "name": "RESORT_MAIN_MARE_13",
+      "camera": null,
+      "world": "PolyHaven sunflowers_puresky.002",
+      "roots": [
+        "MAIN_CITY_WITH_MARE_LOT"
+      ]
+    },
+    {
+      "name": "RESORT_MAIN_MARE_14",
+      "camera": null,
+      "world": "PolyHaven sunflowers_puresky.002",
+      "roots": [
+        "MAIN_CITY_WITH_MARE_LOT"
+      ]
+    },
+    {
+      "name": "RESORT_MAIN_MARE_15",
+      "camera": null,
+      "world": "PolyHaven sunflowers_puresky.002",
+      "roots": [
+        "MAIN_CITY_WITH_MARE_LOT"
+      ]
+    },
+    {
+      "name": "RESORT_MAIN_MARE_16",
+      "camera": null,
+      "world": "PolyHaven sunflowers_puresky.002",
+      "roots": [
+        "MAIN_CITY_WITH_MARE_LOT"
+      ]
+    },
+    {
+      "name": "RESORT_MAIN_MARE_17",
+      "camera": null,
+      "world": "PolyHaven sunflowers_puresky.002",
+      "roots": [
+        "MAIN_CITY_WITH_MARE_LOT"
+      ]
+    },
+    {
+      "name": "RESORT_MAIN_MARE_18",
+      "camera": null,
+      "world": "PolyHaven sunflowers_puresky.002",
+      "roots": [
+        "MAIN_CITY_WITH_MARE_LOT"
+      ]
+    },
+    {
+      "name": "RESORT_MAIN_MARE_19",
+      "camera": null,
+      "world": "PolyHaven sunflowers_puresky.002",
+      "roots": [
+        "MAIN_CITY_WITH_MARE_LOT"
+      ]
+    },
+    {
+      "name": "RESORT_MAIN_MARE_20",
+      "camera": "V7_CITY_AERIAL",
+      "world": "PolyHaven sunflowers_puresky.002",
+      "roots": [
+        "MAIN_CITY_WITH_MARE_LOT"
+      ]
+    },
+    {
+      "name": "RESORT_Test_200x200m",
+      "camera": "CAM-Overview",
+      "world": "WLD-CoastalSky",
+      "roots": [
+        "COL-Resort-200x200"
+      ]
+    },
+    {
+      "name": "Scene",
+      "camera": "Camera",
+      "world": "World",
+      "roots": [
+        "Collection"
+      ]
+    }
+  ],
+  "collections": [
+    {
+      "name": "MAIN_CITY_WITH_MARE_LOT",
+      "objects": 63,
+      "children": [
+        "STREETS_CURVES_CROSSINGS_SIGNAGE",
+        "GROUNDED_WORLD_SUPPORTS",
+        "RIO_MOUNTAINS_AND_FOREST",
+        "CRISTO_REDENTOR_DETAILED",
+        "CRISTO_REDEEMER_PARLIN_SITORUS_CC_BY"
+      ],
+      "instances": 40
+    },
+    {
+      "name": "MAIN_MARE_STAGE_01",
+      "objects": 0,
+      "children": [
+        "MARE_01_QUIOSQUE_ORIGINAL"
+      ],
+      "instances": 0
+    },
+    {
+      "name": "MAIN_MARE_STAGE_02",
+      "objects": 0,
+      "children": [
+        "MARE_01_QUIOSQUE_ORIGINAL",
+        "UNIDA_02_DECK_QUIOSQUE"
+      ],
+      "instances": 0
+    },
+    {
+      "name": "MAIN_MARE_STAGE_03",
+      "objects": 0,
+      "children": [
+        "MARE_01_QUIOSQUE_ORIGINAL",
+        "UNIDA_02_DECK_QUIOSQUE",
+        "UNIDA_03_PREPARO_QUIOSQUE"
+      ],
+      "instances": 0
+    },
+    {
+      "name": "MAIN_MARE_STAGE_04",
+      "objects": 0,
+      "children": [
+        "UNIDA_04_RESTAURANTE_TRANSFORMADO",
+        "UNIDA_04_BAR_NO_RESTAURANTE",
+        "UNIDA_02_DECK_RESTAURANTE",
+        "UNIDA_03_PREPARO_RESTAURANTE",
+        "UNIDA_RESTAURANT_ORIGINAL_ROOF",
+        "INTERIOR_04_RESTAURANT_INTERIOR"
+      ],
+      "instances": 0
+    },
+    {
+      "name": "MAIN_MARE_STAGE_05",
+      "objects": 0,
+      "children": [
+        "UNIDA_04_RESTAURANTE_TRANSFORMADO",
+        "UNIDA_04_BAR_NO_RESTAURANTE",
+        "UNIDA_02_DECK_RESTAURANTE",
+        "UNIDA_03_PREPARO_RESTAURANTE",
+        "UNIDA_05_SANITARIOS_RESTAURANTE",
+        "UNIDA_RESTAURANT_ORIGINAL_ROOF",
+        "INTERIOR_04_RESTAURANT_INTERIOR"
+      ],
+      "instances": 0
+    },
+    {
+      "name": "MAIN_MARE_STAGE_06",
+      "objects": 0,
+      "children": [
+        "UNIDA_06_HOTEL_SIMPLES",
+        "UNIDA_06_RESTAURANTE_NOS_FUNDOS",
+        "UNIDA_05_SANITARIOS_INTEGRADOS",
+        "UNIDA_RESTAURANT_REAR_ROOF",
+        "UNIDA_STAIR_EXIT_LOW",
+        "INTERIOR_06_QUARTOS_HOTEL",
+        "INTERIOR_06_LOBBY",
+        "INTERIOR_06_REAR_RESTAURANT_INTERIOR",
+        "INTERIOR_06_PUBLIC_WASHROOMS",
+        "INTERIOR_06_ADMINISTRATION",
+        "INTERIOR_06_REAR_GUARD"
+      ],
+      "instances": 0
+    },
+    {
+      "name": "MAIN_MARE_STAGE_07",
+      "objects": 0,
+      "children": [
+        "UNIDA_06_HOTEL_SIMPLES",
+        "UNIDA_06_RESTAURANTE_NOS_FUNDOS",
+        "UNIDA_05_SANITARIOS_INTEGRADOS",
+        "UNIDA_07_ALA_ESQUERDA",
+        "UNIDA_RESTAURANT_REAR_ROOF",
+        "UNIDA_STAIR_EXIT_LOW",
+        "INTERIOR_06_QUARTOS_HOTEL",
+        "INTERIOR_07_QUARTOS_J",
+        "INTERIOR_06_LOBBY",
+        "INTERIOR_06_REAR_RESTAURANT_INTERIOR",
+        "INTERIOR_06_PUBLIC_WASHROOMS",
+        "INTERIOR_06_ADMINISTRATION",
+        "INTERIOR_06_REAR_GUARD"
+      ],
+      "instances": 0
+    },
+    {
+      "name": "MAIN_MARE_STAGE_08",
+      "objects": 0,
+      "children": [
+        "UNIDA_06_HOTEL_SIMPLES",
+        "UNIDA_06_RESTAURANTE_NOS_FUNDOS",
+        "UNIDA_05_SANITARIOS_INTEGRADOS",
+        "UNIDA_07_ALA_ESQUERDA",
+        "UNIDA_08_ALA_DIREITA",
+        "UNIDA_RESTAURANT_REAR_ROOF",
+        "UNIDA_STAIR_EXIT_LOW",
+        "INTERIOR_06_QUARTOS_HOTEL",
+        "INTERIOR_07_QUARTOS_J",
+        "INTERIOR_08_QUARTOS_O",
+        "INTERIOR_06_LOBBY",
+        "INTERIOR_06_REAR_RESTAURANT_INTERIOR",
+        "INTERIOR_06_PUBLIC_WASHROOMS",
+        "INTERIOR_06_ADMINISTRATION",
+        "INTERIOR_06_REAR_GUARD"
+      ],
+      "instances": 0
+    },
+    {
+      "name": "MAIN_MARE_STAGE_09",
+      "objects": 0,
+      "children": [
+        "UNIDA_06_HOTEL_SIMPLES",
+        "UNIDA_06_RESTAURANTE_NOS_FUNDOS",
+        "UNIDA_05_SANITARIOS_INTEGRADOS",
+        "UNIDA_07_ALA_ESQUERDA",
+        "UNIDA_08_ALA_DIREITA",
+        "UNIDA_09_COZINHA_E_OPERACAO",
+        "UNIDA_RESTAURANT_REAR_ROOF",
+        "UNIDA_STAIR_EXIT_LOW",
+        "INTERIOR_06_QUARTOS_HOTEL",
+        "INTERIOR_07_QUARTOS_J",
+        "INTERIOR_08_QUARTOS_O",
+        "INTERIOR_06_LOBBY",
+        "INTERIOR_06_REAR_RESTAURANT_INTERIOR",
+        "INTERIOR_09_OPERATIONS",
+        "INTERIOR_06_PUBLIC_WASHROOMS",
+        "INTERIOR_06_ADMINISTRATION",
+        "INTERIOR_06_REAR_GUARD"
+      ],
+      "instances": 0
+    },
+    {
+      "name": "MAIN_MARE_STAGE_10",
+      "objects": 0,
+      "children": [
+        "UNIDA_06_HOTEL_SIMPLES",
+        "UNIDA_06_RESTAURANTE_NOS_FUNDOS",
+        "UNIDA_05_SANITARIOS_INTEGRADOS",
+        "UNIDA_07_ALA_ESQUERDA",
+        "UNIDA_08_ALA_DIREITA",
+        "UNIDA_09_COZINHA_E_OPERACAO",
+        "UNIDA_10_PISCINA_PATIO",
+        "UNIDA_RESTAURANT_REAR_ROOF",
+        "UNIDA_STAIR_EXIT_LOW",
+        "INTERIOR_06_QUARTOS_HOTEL",
+        "INTERIOR_07_QUARTOS_J",
+        "INTERIOR_08_QUARTOS_O",
+        "INTERIOR_06_LOBBY",
+        "INTERIOR_06_REAR_RESTAURANT_INTERIOR",
+        "INTERIOR_09_OPERATIONS",
+        "INTERIOR_06_PUBLIC_WASHROOMS",
+        "INTERIOR_06_ADMINISTRATION",
+        "INTERIOR_06_REAR_GUARD"
+      ],
+      "instances": 0
+    },
+    {
+      "name": "MAIN_MARE_STAGE_11",
+      "objects": 0,
+      "children": [
+        "UNIDA_06_HOTEL_SIMPLES",
+        "UNIDA_06_RESTAURANTE_NOS_FUNDOS",
+        "UNIDA_05_SANITARIOS_INTEGRADOS",
+        "UNIDA_07_ALA_ESQUERDA",
+        "UNIDA_08_ALA_DIREITA",
+        "UNIDA_09_COZINHA_E_OPERACAO",
+        "UNIDA_10_PISCINA_PATIO",
+        "UNIDA_11_LOUNGE_ORLA",
+        "UNIDA_RESTAURANT_REAR_ROOF",
+        "UNIDA_STAIR_EXIT_LOW",
+        "INTERIOR_06_QUARTOS_HOTEL",
+        "INTERIOR_07_QUARTOS_J",
+        "INTERIOR_08_QUARTOS_O",
+        "INTERIOR_06_LOBBY",
+        "INTERIOR_06_REAR_RESTAURANT_INTERIOR",
+        "INTERIOR_09_OPERATIONS",
+        "INTERIOR_06_PUBLIC_WASHROOMS",
+        "INTERIOR_06_ADMINISTRATION",
+        "INTERIOR_06_REAR_GUARD"
+      ],
+      "instances": 0
+    },
+    {
+      "name": "MAIN_MARE_STAGE_12",
+      "objects": 0,
+      "children": [
+        "UNIDA_06_HOTEL_SIMPLES",
+        "UNIDA_06_RESTAURANTE_NOS_FUNDOS",
+        "UNIDA_05_SANITARIOS_INTEGRADOS",
+        "UNIDA_07_ALA_ESQUERDA",
+        "UNIDA_08_ALA_DIREITA",
+        "UNIDA_09_COZINHA_E_OPERACAO",
+        "UNIDA_10_PISCINA_PATIO",
+        "UNIDA_11_LOUNGE_ORLA",
+        "UNIDA_12_FAMILIA",
+        "UNIDA_RESTAURANT_REAR_ROOF",
+        "UNIDA_STAIR_EXIT_LOW",
+        "INTERIOR_06_QUARTOS_HOTEL",
+        "INTERIOR_07_QUARTOS_J",
+        "INTERIOR_08_QUARTOS_O",
+        "INTERIOR_06_LOBBY",
+        "INTERIOR_06_REAR_RESTAURANT_INTERIOR",
+        "INTERIOR_09_OPERATIONS",
+        "INTERIOR_06_PUBLIC_WASHROOMS",
+        "INTERIOR_12_KIDS_INTERIOR",
+        "INTERIOR_06_ADMINISTRATION",
+        "INTERIOR_06_REAR_GUARD"
+      ],
+      "instances": 0
+    },
+    {
+      "name": "MAIN_MARE_STAGE_13",
+      "objects": 0,
+      "children": [
+        "UNIDA_06_HOTEL_SIMPLES",
+        "UNIDA_06_RESTAURANTE_NOS_FUNDOS",
+        "UNIDA_05_SANITARIOS_INTEGRADOS",
+        "UNIDA_07_ALA_ESQUERDA",
+        "UNIDA_08_ALA_DIREITA",
+        "UNIDA_09_COZINHA_E_OPERACAO",
+        "UNIDA_10_PISCINA_PATIO",
+        "UNIDA_11_LOUNGE_ORLA",
+        "UNIDA_12_FAMILIA",
+        "UNIDA_13_FITNESS_PISO_SUPERIOR",
+        "UNIDA_RESTAURANT_REAR_ROOF",
+        "UNIDA_STAIR_EXIT_LOW",
+        "INTERIOR_06_QUARTOS_HOTEL",
+        "INTERIOR_07_QUARTOS_J",
+        "INTERIOR_08_QUARTOS_O",
+        "INTERIOR_06_LOBBY",
+        "INTERIOR_06_REAR_RESTAURANT_INTERIOR",
+        "INTERIOR_09_OPERATIONS",
+        "INTERIOR_06_PUBLIC_WASHROOMS",
+        "INTERIOR_12_KIDS_INTERIOR",
+        "INTERIOR_13_FITNESS_INTERIOR",
+        "INTERIOR_06_ADMINISTRATION",
+        "INTERIOR_06_REAR_GUARD"
+      ],
+      "instances": 0
+    },
+    {
+      "name": "MAIN_MARE_STAGE_14",
+      "objects": 0,
+      "children": [
+        "UNIDA_06_HOTEL_SIMPLES",
+        "UNIDA_06_RESTAURANTE_NOS_FUNDOS",
+        "UNIDA_05_SANITARIOS_INTEGRADOS",
+        "UNIDA_07_ALA_ESQUERDA",
+        "UNIDA_08_ALA_DIREITA",
+        "UNIDA_09_COZINHA_E_OPERACAO",
+        "UNIDA_10_PISCINA_PATIO",
+        "UNIDA_11_LOUNGE_ORLA",
+        "UNIDA_12_FAMILIA",
+        "UNIDA_13_FITNESS_PISO_SUPERIOR",
+        "UNIDA_14_SPA_ANEXADO",
+        "UNIDA_RESTAURANT_REAR_ROOF",
+        "UNIDA_STAIR_EXIT_LOW",
+        "INTERIOR_06_QUARTOS_HOTEL",
+        "INTERIOR_07_QUARTOS_J",
+        "INTERIOR_08_QUARTOS_O",
+        "INTERIOR_06_LOBBY",
+        "INTERIOR_06_REAR_RESTAURANT_INTERIOR",
+        "INTERIOR_09_OPERATIONS",
+        "INTERIOR_06_PUBLIC_WASHROOMS",
+        "INTERIOR_12_KIDS_INTERIOR",
+        "INTERIOR_13_FITNESS_INTERIOR",
+        "INTERIOR_14_SPA_INTERIOR",
+        "INTERIOR_06_ADMINISTRATION",
+        "INTERIOR_06_REAR_GUARD"
+      ],
+      "instances": 0
+    },
+    {
+      "name": "MAIN_MARE_STAGE_15",
+      "objects": 0,
+      "children": [
+        "UNIDA_06_HOTEL_SIMPLES",
+        "UNIDA_06_RESTAURANTE_NOS_FUNDOS",
+        "UNIDA_05_SANITARIOS_INTEGRADOS",
+        "UNIDA_07_ALA_ESQUERDA",
+        "UNIDA_08_ALA_DIREITA",
+        "UNIDA_09_COZINHA_E_OPERACAO",
+        "UNIDA_10_PISCINA_PATIO",
+        "UNIDA_11_LOUNGE_ORLA",
+        "UNIDA_12_FAMILIA",
+        "UNIDA_13_FITNESS_PISO_SUPERIOR",
+        "UNIDA_14_SPA_ANEXADO",
+        "UNIDA_15_GASTRONOMIA_PISO_SUPERIOR",
+        "UNIDA_STAIR_EXIT_LOW",
+        "INTERIOR_06_QUARTOS_HOTEL",
+        "INTERIOR_07_QUARTOS_J",
+        "INTERIOR_08_QUARTOS_O",
+        "INTERIOR_06_LOBBY",
+        "INTERIOR_06_REAR_RESTAURANT_INTERIOR",
+        "INTERIOR_09_OPERATIONS",
+        "INTERIOR_06_PUBLIC_WASHROOMS",
+        "INTERIOR_12_KIDS_INTERIOR",
+        "INTERIOR_13_FITNESS_INTERIOR",
+        "INTERIOR_14_SPA_INTERIOR",
+        "INTERIOR_15_FINE_DINING_INTERIOR",
+        "INTERIOR_06_ADMINISTRATION"
+      ],
+      "instances": 0
+    },
+    {
+      "name": "MAIN_MARE_STAGE_16",
+      "objects": 0,
+      "children": [
+        "UNIDA_06_HOTEL_SIMPLES",
+        "UNIDA_06_RESTAURANTE_NOS_FUNDOS",
+        "UNIDA_05_SANITARIOS_INTEGRADOS",
+        "UNIDA_07_ALA_ESQUERDA",
+        "UNIDA_08_ALA_DIREITA",
+        "UNIDA_09_COZINHA_E_OPERACAO",
+        "UNIDA_10_PISCINA_PATIO",
+        "UNIDA_11_LOUNGE_ORLA",
+        "UNIDA_12_FAMILIA",
+        "UNIDA_13_FITNESS_PISO_SUPERIOR",
+        "UNIDA_14_SPA_ANEXADO",
+        "UNIDA_15_GASTRONOMIA_PISO_SUPERIOR",
+        "UNIDA_16_SUITES_PRIVATIVAS",
+        "UNIDA_STAIR_EXIT_LOW",
+        "INTERIOR_06_QUARTOS_HOTEL",
+        "INTERIOR_07_QUARTOS_J",
+        "INTERIOR_08_QUARTOS_O",
+        "INTERIOR_16_QUARTOS_SPA",
+        "INTERIOR_06_LOBBY",
+        "INTERIOR_06_REAR_RESTAURANT_INTERIOR",
+        "INTERIOR_09_OPERATIONS",
+        "INTERIOR_06_PUBLIC_WASHROOMS",
+        "INTERIOR_12_KIDS_INTERIOR",
+        "INTERIOR_13_FITNESS_INTERIOR",
+        "INTERIOR_14_SPA_INTERIOR",
+        "INTERIOR_15_FINE_DINING_INTERIOR",
+        "INTERIOR_06_ADMINISTRATION"
+      ],
+      "instances": 0
+    },
+    {
+      "name": "MAIN_MARE_STAGE_17",
+      "objects": 0,
+      "children": [
+        "UNIDA_06_HOTEL_SIMPLES",
+        "UNIDA_06_RESTAURANTE_NOS_FUNDOS",
+        "UNIDA_05_SANITARIOS_INTEGRADOS",
+        "UNIDA_07_ALA_ESQUERDA",
+        "UNIDA_08_ALA_DIREITA",
+        "UNIDA_09_COZINHA_E_OPERACAO",
+        "UNIDA_10_PISCINA_PATIO",
+        "UNIDA_11_LOUNGE_ORLA",
+        "UNIDA_12_FAMILIA",
+        "UNIDA_13_FITNESS_PISO_SUPERIOR",
+        "UNIDA_14_SPA_ANEXADO",
+        "UNIDA_15_GASTRONOMIA_PISO_SUPERIOR",
+        "UNIDA_16_SUITES_PRIVATIVAS",
+        "UNIDA_17_EVENTOS_INTEGRADOS",
+        "UNIDA_STAIR_EXIT_LOW",
+        "INTERIOR_06_QUARTOS_HOTEL",
+        "INTERIOR_07_QUARTOS_J",
+        "INTERIOR_08_QUARTOS_O",
+        "INTERIOR_16_QUARTOS_SPA",
+        "INTERIOR_06_LOBBY",
+        "INTERIOR_06_REAR_RESTAURANT_INTERIOR",
+        "INTERIOR_09_OPERATIONS",
+        "INTERIOR_06_PUBLIC_WASHROOMS",
+        "INTERIOR_12_KIDS_INTERIOR",
+        "INTERIOR_13_FITNESS_INTERIOR",
+        "INTERIOR_14_SPA_INTERIOR",
+        "INTERIOR_15_FINE_DINING_INTERIOR",
+        "INTERIOR_17_EVENT_INTERIOR",
+        "INTERIOR_06_ADMINISTRATION"
+      ],
+      "instances": 0
+    },
+    {
+      "name": "MAIN_MARE_STAGE_18",
+      "objects": 0,
+      "children": [
+        "UNIDA_06_HOTEL_SIMPLES",
+        "UNIDA_06_RESTAURANTE_NOS_FUNDOS",
+        "UNIDA_05_SANITARIOS_INTEGRADOS",
+        "UNIDA_07_ALA_ESQUERDA",
+        "UNIDA_08_ALA_DIREITA",
+        "UNIDA_09_COZINHA_E_OPERACAO",
+        "UNIDA_10_PISCINA_PATIO",
+        "UNIDA_11_LOUNGE_ORLA",
+        "UNIDA_12_FAMILIA",
+        "UNIDA_13_FITNESS_PISO_SUPERIOR",
+        "UNIDA_14_SPA_ANEXADO",
+        "UNIDA_15_GASTRONOMIA_PISO_SUPERIOR",
+        "UNIDA_16_SUITES_PRIVATIVAS",
+        "UNIDA_17_EVENTOS_INTEGRADOS",
+        "UNIDA_18_LAVANDERIA_E_RECURSOS",
+        "UNIDA_STAIR_EXIT_LOW",
+        "INTERIOR_06_QUARTOS_HOTEL",
+        "INTERIOR_07_QUARTOS_J",
+        "INTERIOR_08_QUARTOS_O",
+        "INTERIOR_16_QUARTOS_SPA",
+        "INTERIOR_06_LOBBY",
+        "INTERIOR_06_REAR_RESTAURANT_INTERIOR",
+        "INTERIOR_09_OPERATIONS",
+        "INTERIOR_06_PUBLIC_WASHROOMS",
+        "INTERIOR_12_KIDS_INTERIOR",
+        "INTERIOR_13_FITNESS_INTERIOR",
+        "INTERIOR_14_SPA_INTERIOR",
+        "INTERIOR_15_FINE_DINING_INTERIOR",
+        "INTERIOR_17_EVENT_INTERIOR",
+        "INTERIOR_18_SERVICE_INTERIOR",
+        "INTERIOR_06_ADMINISTRATION"
+      ],
+      "instances": 0
+    },
+    {
+      "name": "MAIN_MARE_STAGE_19",
+      "objects": 0,
+      "children": [
+        "UNIDA_06_HOTEL_SIMPLES",
+        "UNIDA_06_RESTAURANTE_NOS_FUNDOS",
+        "UNIDA_05_SANITARIOS_INTEGRADOS",
+        "UNIDA_07_ALA_ESQUERDA",
+        "UNIDA_08_ALA_DIREITA",
+        "UNIDA_09_COZINHA_E_OPERACAO",
+        "UNIDA_10_PISCINA_PATIO",
+        "UNIDA_11_LOUNGE_ORLA",
+        "UNIDA_12_FAMILIA",
+        "UNIDA_13_FITNESS_PISO_SUPERIOR",
+        "UNIDA_14_SPA_ANEXADO",
+        "UNIDA_15_GASTRONOMIA_PISO_SUPERIOR",
+        "UNIDA_16_SUITES_PRIVATIVAS",
+        "UNIDA_17_EVENTOS_INTEGRADOS",
+        "UNIDA_18_LAVANDERIA_E_RECURSOS",
+        "UNIDA_19_AMPLIACAO_VERTICAL",
+        "UNIDA_STAIR_EXIT_ROOFTOP",
+        "INTERIOR_06_QUARTOS_HOTEL",
+        "INTERIOR_07_QUARTOS_J",
+        "INTERIOR_08_QUARTOS_O",
+        "INTERIOR_19_QUARTOS_PJ",
+        "INTERIOR_19_QUARTOS_CENTRO",
+        "INTERIOR_16_QUARTOS_SPA",
+        "INTERIOR_06_LOBBY",
+        "INTERIOR_06_REAR_RESTAURANT_INTERIOR",
+        "INTERIOR_09_OPERATIONS",
+        "INTERIOR_06_PUBLIC_WASHROOMS",
+        "INTERIOR_12_KIDS_INTERIOR",
+        "INTERIOR_13_FITNESS_INTERIOR",
+        "INTERIOR_14_SPA_INTERIOR",
+        "INTERIOR_15_FINE_DINING_INTERIOR",
+        "INTERIOR_17_EVENT_INTERIOR",
+        "INTERIOR_18_SERVICE_INTERIOR",
+        "INTERIOR_06_ADMINISTRATION"
+      ],
+      "instances": 0
+    },
+    {
+      "name": "MAIN_MARE_STAGE_20",
+      "objects": 0,
+      "children": [
+        "UNIDA_06_HOTEL_SIMPLES",
+        "UNIDA_06_RESTAURANTE_NOS_FUNDOS",
+        "UNIDA_05_SANITARIOS_INTEGRADOS",
+        "UNIDA_07_ALA_ESQUERDA",
+        "UNIDA_08_ALA_DIREITA",
+        "UNIDA_09_COZINHA_E_OPERACAO",
+        "UNIDA_10_PISCINA_PATIO",
+        "UNIDA_11_LOUNGE_ORLA",
+        "UNIDA_12_FAMILIA",
+        "UNIDA_13_FITNESS_PISO_SUPERIOR",
+        "UNIDA_14_SPA_ANEXADO",
+        "UNIDA_15_GASTRONOMIA_PISO_SUPERIOR",
+        "UNIDA_16_SUITES_PRIVATIVAS",
+        "UNIDA_17_EVENTOS_INTEGRADOS",
+        "UNIDA_18_LAVANDERIA_E_RECURSOS",
+        "UNIDA_19_AMPLIACAO_VERTICAL",
+        "UNIDA_20_RESORT_UNICO",
+        "UNIDA_STAIR_EXIT_ROOFTOP",
+        "INTERIOR_06_QUARTOS_HOTEL",
+        "INTERIOR_07_QUARTOS_J",
+        "INTERIOR_08_QUARTOS_O",
+        "INTERIOR_19_QUARTOS_PJ",
+        "INTERIOR_20_QUARTOS_PO",
+        "INTERIOR_19_QUARTOS_CENTRO",
+        "INTERIOR_16_QUARTOS_SPA",
+        "INTERIOR_06_LOBBY",
+        "INTERIOR_06_REAR_RESTAURANT_INTERIOR",
+        "INTERIOR_09_OPERATIONS",
+        "INTERIOR_06_PUBLIC_WASHROOMS",
+        "INTERIOR_12_KIDS_INTERIOR",
+        "INTERIOR_13_FITNESS_INTERIOR",
+        "INTERIOR_14_SPA_INTERIOR",
+        "INTERIOR_15_FINE_DINING_INTERIOR",
+        "INTERIOR_17_EVENT_INTERIOR",
+        "INTERIOR_18_SERVICE_INTERIOR",
+        "INTERIOR_20_ROOFTOP_SERVICE",
+        "INTERIOR_06_ADMINISTRATION"
+      ],
+      "instances": 0
+    }
+  ]
+}

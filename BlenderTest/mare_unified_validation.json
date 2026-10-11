@@ -1,0 +1,651 @@
+{
+  "file": "D:\\ProjectResort_300m_CompactPass\\BlenderTest\\Mare_Evolucao_Unificada_v2.blend",
+  "version": "5.2.1 LTS",
+  "stages": [
+    {
+      "stage": 1,
+      "scene": "MARE_UNIDA_ETAPA_01",
+      "present": true,
+      "assemblies": [
+        "UNIDA_ORLA_CONTINUA",
+        "MARE_01_QUIOSQUE_ORIGINAL"
+      ],
+      "restaurant_location": "original plot"
+    },
+    {
+      "stage": 2,
+      "scene": "MARE_UNIDA_ETAPA_02",
+      "present": true,
+      "assemblies": [
+        "UNIDA_ORLA_CONTINUA",
+        "MARE_01_QUIOSQUE_ORIGINAL",
+        "UNIDA_02_DECK_QUIOSQUE"
+      ],
+      "restaurant_location": "original plot"
+    },
+    {
+      "stage": 3,
+      "scene": "MARE_UNIDA_ETAPA_03",
+      "present": true,
+      "assemblies": [
+        "UNIDA_ORLA_CONTINUA",
+        "MARE_01_QUIOSQUE_ORIGINAL",
+        "UNIDA_02_DECK_QUIOSQUE",
+        "UNIDA_03_PREPARO_QUIOSQUE"
+      ],
+      "restaurant_location": "original plot"
+    },
+    {
+      "stage": 4,
+      "scene": "MARE_UNIDA_ETAPA_04",
+      "present": true,
+      "assemblies": [
+        "UNIDA_ORLA_CONTINUA",
+        "UNIDA_04_RESTAURANTE_TRANSFORMADO",
+        "UNIDA_04_BAR_NO_RESTAURANTE",
+        "UNIDA_02_DECK_RESTAURANTE",
+        "UNIDA_03_PREPARO_RESTAURANTE",
+        "UNIDA_RESTAURANT_ORIGINAL_ROOF"
+      ],
+      "restaurant_location": "original plot"
+    },
+    {
+      "stage": 5,
+      "scene": "MARE_UNIDA_ETAPA_05",
+      "present": true,
+      "assemblies": [
+        "UNIDA_ORLA_CONTINUA",
+        "UNIDA_04_RESTAURANTE_TRANSFORMADO",
+        "UNIDA_04_BAR_NO_RESTAURANTE",
+        "UNIDA_02_DECK_RESTAURANTE",
+        "UNIDA_03_PREPARO_RESTAURANTE",
+        "UNIDA_05_SANITARIOS_RESTAURANTE",
+        "UNIDA_RESTAURANT_ORIGINAL_ROOF"
+      ],
+      "restaurant_location": "original plot"
+    },
+    {
+      "stage": 6,
+      "scene": "MARE_UNIDA_ETAPA_06",
+      "present": true,
+      "assemblies": [
+        "UNIDA_ORLA_CONTINUA",
+        "UNIDA_06_HOTEL_SIMPLES",
+        "UNIDA_06_RESTAURANTE_NOS_FUNDOS",
+        "UNIDA_05_SANITARIOS_INTEGRADOS",
+        "UNIDA_RESTAURANT_REAR_ROOF",
+        "UNIDA_STAIR_EXIT_LOW"
+      ],
+      "restaurant_location": "rear"
+    },
+    {
+      "stage": 7,
+      "scene": "MARE_UNIDA_ETAPA_07",
+      "present": true,
+      "assemblies": [
+        "UNIDA_ORLA_CONTINUA",
+        "UNIDA_06_HOTEL_SIMPLES",
+        "UNIDA_06_RESTAURANTE_NOS_FUNDOS",
+        "UNIDA_05_SANITARIOS_INTEGRADOS",
+        "UNIDA_07_ALA_ESQUERDA",
+        "UNIDA_RESTAURANT_REAR_ROOF",
+        "UNIDA_STAIR_EXIT_LOW"
+      ],
+      "restaurant_location": "rear"
+    },
+    {
+      "stage": 8,
+      "scene": "MARE_UNIDA_ETAPA_08",
+      "present": true,
+      "assemblies": [
+        "UNIDA_ORLA_CONTINUA",
+        "UNIDA_06_HOTEL_SIMPLES",
+        "UNIDA_06_RESTAURANTE_NOS_FUNDOS",
+        "UNIDA_05_SANITARIOS_INTEGRADOS",
+        "UNIDA_07_ALA_ESQUERDA",
+        "UNIDA_08_ALA_DIREITA",
+        "UNIDA_RESTAURANT_REAR_ROOF",
+        "UNIDA_STAIR_EXIT_LOW"
+      ],
+      "restaurant_location": "rear"
+    },
+    {
+      "stage": 9,
+      "scene": "MARE_UNIDA_ETAPA_09",
+      "present": true,
+      "assemblies": [
+        "UNIDA_ORLA_CONTINUA",
+        "UNIDA_06_HOTEL_SIMPLES",
+        "UNIDA_06_RESTAURANTE_NOS_FUNDOS",
+        "UNIDA_05_SANITARIOS_INTEGRADOS",
+        "UNIDA_07_ALA_ESQUERDA",
+        "UNIDA_08_ALA_DIREITA",
+        "UNIDA_09_COZINHA_E_OPERACAO",
+        "UNIDA_RESTAURANT_REAR_ROOF",
+        "UNIDA_STAIR_EXIT_LOW"
+      ],
+      "restaurant_location": "rear"
+    },
+    {
+      "stage": 10,
+      "scene": "MARE_UNIDA_ETAPA_10",
+      "present": true,
+      "assemblies": [
+        "UNIDA_ORLA_CONTINUA",
+        "UNIDA_06_HOTEL_SIMPLES",
+        "UNIDA_06_RESTAURANTE_NOS_FUNDOS",
+        "UNIDA_05_SANITARIOS_INTEGRADOS",
+        "UNIDA_07_ALA_ESQUERDA",
+        "UNIDA_08_ALA_DIREITA",
+        "UNIDA_09_COZINHA_E_OPERACAO",
+        "UNIDA_10_PISCINA_PATIO",
+        "UNIDA_RESTAURANT_REAR_ROOF",
+        "UNIDA_STAIR_EXIT_LOW"
+      ],
+      "restaurant_location": "rear"
+    },
+    {
+      "stage": 11,
+      "scene": "MARE_UNIDA_ETAPA_11",
+      "present": true,
+      "assemblies": [
+        "UNIDA_ORLA_CONTINUA",
+        "UNIDA_06_HOTEL_SIMPLES",
+        "UNIDA_06_RESTAURANTE_NOS_FUNDOS",
+        "UNIDA_05_SANITARIOS_INTEGRADOS",
+        "UNIDA_07_ALA_ESQUERDA",
+        "UNIDA_08_ALA_DIREITA",
+        "UNIDA_09_COZINHA_E_OPERACAO",
+        "UNIDA_10_PISCINA_PATIO",
+        "UNIDA_11_LOUNGE_ORLA",
+        "UNIDA_RESTAURANT_REAR_ROOF",
+        "UNIDA_STAIR_EXIT_LOW"
+      ],
+      "restaurant_location": "rear"
+    },
+    {
+      "stage": 12,
+      "scene": "MARE_UNIDA_ETAPA_12",
+      "present": true,
+      "assemblies": [
+        "UNIDA_ORLA_CONTINUA",
+        "UNIDA_06_HOTEL_SIMPLES",
+        "UNIDA_06_RESTAURANTE_NOS_FUNDOS",
+        "UNIDA_05_SANITARIOS_INTEGRADOS",
+        "UNIDA_07_ALA_ESQUERDA",
+        "UNIDA_08_ALA_DIREITA",
+        "UNIDA_09_COZINHA_E_OPERACAO",
+        "UNIDA_10_PISCINA_PATIO",
+        "UNIDA_11_LOUNGE_ORLA",
+        "UNIDA_12_FAMILIA",
+        "UNIDA_RESTAURANT_REAR_ROOF",
+        "UNIDA_STAIR_EXIT_LOW"
+      ],
+      "restaurant_location": "rear"
+    },
+    {
+      "stage": 13,
+      "scene": "MARE_UNIDA_ETAPA_13",
+      "present": true,
+      "assemblies": [
+        "UNIDA_ORLA_CONTINUA",
+        "UNIDA_06_HOTEL_SIMPLES",
+        "UNIDA_06_RESTAURANTE_NOS_FUNDOS",
+        "UNIDA_05_SANITARIOS_INTEGRADOS",
+        "UNIDA_07_ALA_ESQUERDA",
+        "UNIDA_08_ALA_DIREITA",
+        "UNIDA_09_COZINHA_E_OPERACAO",
+        "UNIDA_10_PISCINA_PATIO",
+        "UNIDA_11_LOUNGE_ORLA",
+        "UNIDA_12_FAMILIA",
+        "UNIDA_13_FITNESS_PISO_SUPERIOR",
+        "UNIDA_RESTAURANT_REAR_ROOF",
+        "UNIDA_STAIR_EXIT_LOW"
+      ],
+      "restaurant_location": "rear"
+    },
+    {
+      "stage": 14,
+      "scene": "MARE_UNIDA_ETAPA_14",
+      "present": true,
+      "assemblies": [
+        "UNIDA_ORLA_CONTINUA",
+        "UNIDA_06_HOTEL_SIMPLES",
+        "UNIDA_06_RESTAURANTE_NOS_FUNDOS",
+        "UNIDA_05_SANITARIOS_INTEGRADOS",
+        "UNIDA_07_ALA_ESQUERDA",
+        "UNIDA_08_ALA_DIREITA",
+        "UNIDA_09_COZINHA_E_OPERACAO",
+        "UNIDA_10_PISCINA_PATIO",
+        "UNIDA_11_LOUNGE_ORLA",
+        "UNIDA_12_FAMILIA",
+        "UNIDA_13_FITNESS_PISO_SUPERIOR",
+        "UNIDA_14_SPA_ANEXADO",
+        "UNIDA_RESTAURANT_REAR_ROOF",
+        "UNIDA_STAIR_EXIT_LOW"
+      ],
+      "restaurant_location": "rear"
+    },
+    {
+      "stage": 15,
+      "scene": "MARE_UNIDA_ETAPA_15",
+      "present": true,
+      "assemblies": [
+        "UNIDA_ORLA_CONTINUA",
+        "UNIDA_06_HOTEL_SIMPLES",
+        "UNIDA_06_RESTAURANTE_NOS_FUNDOS",
+        "UNIDA_05_SANITARIOS_INTEGRADOS",
+        "UNIDA_07_ALA_ESQUERDA",
+        "UNIDA_08_ALA_DIREITA",
+        "UNIDA_09_COZINHA_E_OPERACAO",
+        "UNIDA_10_PISCINA_PATIO",
+        "UNIDA_11_LOUNGE_ORLA",
+        "UNIDA_12_FAMILIA",
+        "UNIDA_13_FITNESS_PISO_SUPERIOR",
+        "UNIDA_14_SPA_ANEXADO",
+        "UNIDA_15_GASTRONOMIA_PISO_SUPERIOR",
+        "UNIDA_STAIR_EXIT_LOW"
+      ],
+      "restaurant_location": "rear"
+    },
+    {
+      "stage": 16,
+      "scene": "MARE_UNIDA_ETAPA_16",
+      "present": true,
+      "assemblies": [
+        "UNIDA_ORLA_CONTINUA",
+        "UNIDA_06_HOTEL_SIMPLES",
+        "UNIDA_06_RESTAURANTE_NOS_FUNDOS",
+        "UNIDA_05_SANITARIOS_INTEGRADOS",
+        "UNIDA_07_ALA_ESQUERDA",
+        "UNIDA_08_ALA_DIREITA",
+        "UNIDA_09_COZINHA_E_OPERACAO",
+        "UNIDA_10_PISCINA_PATIO",
+        "UNIDA_11_LOUNGE_ORLA",
+        "UNIDA_12_FAMILIA",
+        "UNIDA_13_FITNESS_PISO_SUPERIOR",
+        "UNIDA_14_SPA_ANEXADO",
+        "UNIDA_15_GASTRONOMIA_PISO_SUPERIOR",
+        "UNIDA_16_SUITES_PRIVATIVAS",
+        "UNIDA_STAIR_EXIT_LOW"
+      ],
+      "restaurant_location": "rear"
+    },
+    {
+      "stage": 17,
+      "scene": "MARE_UNIDA_ETAPA_17",
+      "present": true,
+      "assemblies": [
+        "UNIDA_ORLA_CONTINUA",
+        "UNIDA_06_HOTEL_SIMPLES",
+        "UNIDA_06_RESTAURANTE_NOS_FUNDOS",
+        "UNIDA_05_SANITARIOS_INTEGRADOS",
+        "UNIDA_07_ALA_ESQUERDA",
+        "UNIDA_08_ALA_DIREITA",
+        "UNIDA_09_COZINHA_E_OPERACAO",
+        "UNIDA_10_PISCINA_PATIO",
+        "UNIDA_11_LOUNGE_ORLA",
+        "UNIDA_12_FAMILIA",
+        "UNIDA_13_FITNESS_PISO_SUPERIOR",
+        "UNIDA_14_SPA_ANEXADO",
+        "UNIDA_15_GASTRONOMIA_PISO_SUPERIOR",
+        "UNIDA_16_SUITES_PRIVATIVAS",
+        "UNIDA_17_EVENTOS_INTEGRADOS",
+        "UNIDA_STAIR_EXIT_LOW"
+      ],
+      "restaurant_location": "rear"
+    },
+    {
+      "stage": 18,
+      "scene": "MARE_UNIDA_ETAPA_18",
+      "present": true,
+      "assemblies": [
+        "UNIDA_ORLA_CONTINUA",
+        "UNIDA_06_HOTEL_SIMPLES",
+        "UNIDA_06_RESTAURANTE_NOS_FUNDOS",
+        "UNIDA_05_SANITARIOS_INTEGRADOS",
+        "UNIDA_07_ALA_ESQUERDA",
+        "UNIDA_08_ALA_DIREITA",
+        "UNIDA_09_COZINHA_E_OPERACAO",
+        "UNIDA_10_PISCINA_PATIO",
+        "UNIDA_11_LOUNGE_ORLA",
+        "UNIDA_12_FAMILIA",
+        "UNIDA_13_FITNESS_PISO_SUPERIOR",
+        "UNIDA_14_SPA_ANEXADO",
+        "UNIDA_15_GASTRONOMIA_PISO_SUPERIOR",
+        "UNIDA_16_SUITES_PRIVATIVAS",
+        "UNIDA_17_EVENTOS_INTEGRADOS",
+        "UNIDA_18_LAVANDERIA_E_RECURSOS",
+        "UNIDA_STAIR_EXIT_LOW"
+      ],
+      "restaurant_location": "rear"
+    },
+    {
+      "stage": 19,
+      "scene": "MARE_UNIDA_ETAPA_19",
+      "present": true,
+      "assemblies": [
+        "UNIDA_ORLA_CONTINUA",
+        "UNIDA_06_HOTEL_SIMPLES",
+        "UNIDA_06_RESTAURANTE_NOS_FUNDOS",
+        "UNIDA_05_SANITARIOS_INTEGRADOS",
+        "UNIDA_07_ALA_ESQUERDA",
+        "UNIDA_08_ALA_DIREITA",
+        "UNIDA_09_COZINHA_E_OPERACAO",
+        "UNIDA_10_PISCINA_PATIO",
+        "UNIDA_11_LOUNGE_ORLA",
+        "UNIDA_12_FAMILIA",
+        "UNIDA_13_FITNESS_PISO_SUPERIOR",
+        "UNIDA_14_SPA_ANEXADO",
+        "UNIDA_15_GASTRONOMIA_PISO_SUPERIOR",
+        "UNIDA_16_SUITES_PRIVATIVAS",
+        "UNIDA_17_EVENTOS_INTEGRADOS",
+        "UNIDA_18_LAVANDERIA_E_RECURSOS",
+        "UNIDA_19_AMPLIACAO_VERTICAL",
+        "UNIDA_STAIR_EXIT_ROOFTOP"
+      ],
+      "restaurant_location": "rear"
+    },
+    {
+      "stage": 20,
+      "scene": "MARE_UNIDA_ETAPA_20",
+      "present": true,
+      "assemblies": [
+        "UNIDA_ORLA_CONTINUA",
+        "UNIDA_06_HOTEL_SIMPLES",
+        "UNIDA_06_RESTAURANTE_NOS_FUNDOS",
+        "UNIDA_05_SANITARIOS_INTEGRADOS",
+        "UNIDA_07_ALA_ESQUERDA",
+        "UNIDA_08_ALA_DIREITA",
+        "UNIDA_09_COZINHA_E_OPERACAO",
+        "UNIDA_10_PISCINA_PATIO",
+        "UNIDA_11_LOUNGE_ORLA",
+        "UNIDA_12_FAMILIA",
+        "UNIDA_13_FITNESS_PISO_SUPERIOR",
+        "UNIDA_14_SPA_ANEXADO",
+        "UNIDA_15_GASTRONOMIA_PISO_SUPERIOR",
+        "UNIDA_16_SUITES_PRIVATIVAS",
+        "UNIDA_17_EVENTOS_INTEGRADOS",
+        "UNIDA_18_LAVANDERIA_E_RECURSOS",
+        "UNIDA_19_AMPLIACAO_VERTICAL",
+        "UNIDA_20_RESORT_UNICO",
+        "UNIDA_STAIR_EXIT_ROOFTOP"
+      ],
+      "restaurant_location": "rear"
+    }
+  ],
+  "all_20_scenes_present": true,
+  "obsolete_kiosk_shell_replaced_at_4": true,
+  "rear_restaurant_from_stage_6": true,
+  "future_stage_leaks": [],
+  "source_city_preserved": true,
+  "images": [
+    {
+      "name": "asphalt_03_Diffuse",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "asphalt_03_Displacement",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "asphalt_03_nor_gl",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "asphalt_03_Rough",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "checkered_pavement_tiles_Diffuse",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "checkered_pavement_tiles_Displacement",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "checkered_pavement_tiles_nor_gl",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "checkered_pavement_tiles_Rough",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "sand_03_Diffuse",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "sand_03_Displacement",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "sand_03_nor_gl",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "sand_03_Rough",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "sunflowers_puresky_2k",
+      "size": [
+        2048,
+        1024
+      ],
+      "packed": true
+    },
+    {
+      "name": "URBAN_4K_concrete_diff",
+      "size": [
+        4096,
+        4096
+      ],
+      "packed": true
+    },
+    {
+      "name": "URBAN_4K_concrete_disp",
+      "size": [
+        4096,
+        4096
+      ],
+      "packed": true
+    },
+    {
+      "name": "URBAN_4K_concrete_nor_gl",
+      "size": [
+        4096,
+        4096
+      ],
+      "packed": true
+    },
+    {
+      "name": "URBAN_4K_concrete_pavers_02_diff",
+      "size": [
+        4096,
+        4096
+      ],
+      "packed": true
+    },
+    {
+      "name": "URBAN_4K_concrete_pavers_02_disp",
+      "size": [
+        4096,
+        4096
+      ],
+      "packed": true
+    },
+    {
+      "name": "URBAN_4K_concrete_pavers_02_nor_gl",
+      "size": [
+        4096,
+        4096
+      ],
+      "packed": true
+    },
+    {
+      "name": "URBAN_4K_concrete_pavers_02_rough",
+      "size": [
+        4096,
+        4096
+      ],
+      "packed": true
+    },
+    {
+      "name": "URBAN_4K_concrete_rough",
+      "size": [
+        4096,
+        4096
+      ],
+      "packed": true
+    },
+    {
+      "name": "URBAN_4K_grey_plaster_02_diff",
+      "size": [
+        4096,
+        4096
+      ],
+      "packed": true
+    },
+    {
+      "name": "URBAN_4K_grey_plaster_02_disp",
+      "size": [
+        4096,
+        4096
+      ],
+      "packed": true
+    },
+    {
+      "name": "URBAN_4K_grey_plaster_02_nor_gl",
+      "size": [
+        4096,
+        4096
+      ],
+      "packed": true
+    },
+    {
+      "name": "URBAN_4K_grey_plaster_02_rough",
+      "size": [
+        4096,
+        4096
+      ],
+      "packed": true
+    },
+    {
+      "name": "URBAN_4K_pavement_03_diff",
+      "size": [
+        4096,
+        4096
+      ],
+      "packed": true
+    },
+    {
+      "name": "URBAN_4K_pavement_03_disp",
+      "size": [
+        4096,
+        4096
+      ],
+      "packed": true
+    },
+    {
+      "name": "URBAN_4K_pavement_03_nor_gl",
+      "size": [
+        4096,
+        4096
+      ],
+      "packed": true
+    },
+    {
+      "name": "URBAN_4K_pavement_03_rough",
+      "size": [
+        4096,
+        4096
+      ],
+      "packed": true
+    },
+    {
+      "name": "wooden_floor_02_Diffuse",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "wooden_floor_02_Displacement",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "wooden_floor_02_nor_gl",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    },
+    {
+      "name": "wooden_floor_02_Rough",
+      "size": [
+        2048,
+        2048
+      ],
+      "packed": true
+    }
+  ],
+  "all_used_file_images_packed": true,
+  "active_scene": "MARE_UNIDA_ETAPA_20",
+  "runtime_verified": false
+}

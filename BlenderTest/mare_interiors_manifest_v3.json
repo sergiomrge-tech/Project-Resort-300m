@@ -1,0 +1,2771 @@
+{
+  "revision": 3,
+  "rooms": [
+    {
+      "id": "H101_0",
+      "collection": "INTERIOR_06_QUARTOS_HOTEL",
+      "position": [
+        -9,
+        -16,
+        3.65
+      ],
+      "rotation": 0,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "H101_1",
+      "collection": "INTERIOR_06_QUARTOS_HOTEL",
+      "position": [
+        -3,
+        -16,
+        3.65
+      ],
+      "rotation": 0,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "H101_2",
+      "collection": "INTERIOR_06_QUARTOS_HOTEL",
+      "position": [
+        3,
+        -16,
+        3.65
+      ],
+      "rotation": 0,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "H101_3",
+      "collection": "INTERIOR_06_QUARTOS_HOTEL",
+      "position": [
+        9,
+        -16,
+        3.65
+      ],
+      "rotation": 0,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "J_0.45_0_-5",
+      "collection": "INTERIOR_07_QUARTOS_J",
+      "position": [
+        -26,
+        -16,
+        0.45
+      ],
+      "rotation": -1.5707963267948966,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "J_0.45_0_5",
+      "collection": "INTERIOR_07_QUARTOS_J",
+      "position": [
+        -16,
+        -16,
+        0.45
+      ],
+      "rotation": 1.5707963267948966,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "J_0.45_2_-5",
+      "collection": "INTERIOR_07_QUARTOS_J",
+      "position": [
+        -26,
+        -2,
+        0.45
+      ],
+      "rotation": -1.5707963267948966,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "J_0.45_2_5",
+      "collection": "INTERIOR_07_QUARTOS_J",
+      "position": [
+        -16,
+        -2,
+        0.45
+      ],
+      "rotation": 1.5707963267948966,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "J_0.45_3_-5",
+      "collection": "INTERIOR_07_QUARTOS_J",
+      "position": [
+        -26,
+        5,
+        0.45
+      ],
+      "rotation": -1.5707963267948966,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "J_0.45_3_5",
+      "collection": "INTERIOR_07_QUARTOS_J",
+      "position": [
+        -16,
+        5,
+        0.45
+      ],
+      "rotation": 1.5707963267948966,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "J_0.45_4_-5",
+      "collection": "INTERIOR_07_QUARTOS_J",
+      "position": [
+        -26,
+        12,
+        0.45
+      ],
+      "rotation": -1.5707963267948966,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "J_0.45_4_5",
+      "collection": "INTERIOR_07_QUARTOS_J",
+      "position": [
+        -16,
+        12,
+        0.45
+      ],
+      "rotation": 1.5707963267948966,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "J_3.65_0_-5",
+      "collection": "INTERIOR_07_QUARTOS_J",
+      "position": [
+        -26,
+        -16,
+        3.65
+      ],
+      "rotation": -1.5707963267948966,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "J_3.65_0_5",
+      "collection": "INTERIOR_07_QUARTOS_J",
+      "position": [
+        -16,
+        -16,
+        3.65
+      ],
+      "rotation": 1.5707963267948966,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "J_3.65_2_-5",
+      "collection": "INTERIOR_07_QUARTOS_J",
+      "position": [
+        -26,
+        -2,
+        3.65
+      ],
+      "rotation": -1.5707963267948966,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "J_3.65_2_5",
+      "collection": "INTERIOR_07_QUARTOS_J",
+      "position": [
+        -16,
+        -2,
+        3.65
+      ],
+      "rotation": 1.5707963267948966,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "J_3.65_3_-5",
+      "collection": "INTERIOR_07_QUARTOS_J",
+      "position": [
+        -26,
+        5,
+        3.65
+      ],
+      "rotation": -1.5707963267948966,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "J_3.65_3_5",
+      "collection": "INTERIOR_07_QUARTOS_J",
+      "position": [
+        -16,
+        5,
+        3.65
+      ],
+      "rotation": 1.5707963267948966,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "J_3.65_4_-5",
+      "collection": "INTERIOR_07_QUARTOS_J",
+      "position": [
+        -26,
+        12,
+        3.65
+      ],
+      "rotation": -1.5707963267948966,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "J_3.65_4_5",
+      "collection": "INTERIOR_07_QUARTOS_J",
+      "position": [
+        -16,
+        12,
+        3.65
+      ],
+      "rotation": 1.5707963267948966,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "O_0.45_0_-5",
+      "collection": "INTERIOR_08_QUARTOS_O",
+      "position": [
+        16,
+        -16,
+        0.45
+      ],
+      "rotation": -1.5707963267948966,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "O_0.45_0_5",
+      "collection": "INTERIOR_08_QUARTOS_O",
+      "position": [
+        26,
+        -16,
+        0.45
+      ],
+      "rotation": 1.5707963267948966,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "O_0.45_2_-5",
+      "collection": "INTERIOR_08_QUARTOS_O",
+      "position": [
+        16,
+        -2,
+        0.45
+      ],
+      "rotation": -1.5707963267948966,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "O_0.45_2_5",
+      "collection": "INTERIOR_08_QUARTOS_O",
+      "position": [
+        26,
+        -2,
+        0.45
+      ],
+      "rotation": 1.5707963267948966,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "O_0.45_3_-5",
+      "collection": "INTERIOR_08_QUARTOS_O",
+      "position": [
+        16,
+        5,
+        0.45
+      ],
+      "rotation": -1.5707963267948966,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "O_0.45_3_5",
+      "collection": "INTERIOR_08_QUARTOS_O",
+      "position": [
+        26,
+        5,
+        0.45
+      ],
+      "rotation": 1.5707963267948966,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "O_0.45_4_-5",
+      "collection": "INTERIOR_08_QUARTOS_O",
+      "position": [
+        16,
+        12,
+        0.45
+      ],
+      "rotation": -1.5707963267948966,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "O_0.45_4_5",
+      "collection": "INTERIOR_08_QUARTOS_O",
+      "position": [
+        26,
+        12,
+        0.45
+      ],
+      "rotation": 1.5707963267948966,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "O_3.65_0_-5",
+      "collection": "INTERIOR_08_QUARTOS_O",
+      "position": [
+        16,
+        -16,
+        3.65
+      ],
+      "rotation": -1.5707963267948966,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "O_3.65_0_5",
+      "collection": "INTERIOR_08_QUARTOS_O",
+      "position": [
+        26,
+        -16,
+        3.65
+      ],
+      "rotation": 1.5707963267948966,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "O_3.65_2_-5",
+      "collection": "INTERIOR_08_QUARTOS_O",
+      "position": [
+        16,
+        -2,
+        3.65
+      ],
+      "rotation": -1.5707963267948966,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "O_3.65_2_5",
+      "collection": "INTERIOR_08_QUARTOS_O",
+      "position": [
+        26,
+        -2,
+        3.65
+      ],
+      "rotation": 1.5707963267948966,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "O_3.65_3_-5",
+      "collection": "INTERIOR_08_QUARTOS_O",
+      "position": [
+        16,
+        5,
+        3.65
+      ],
+      "rotation": -1.5707963267948966,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "O_3.65_3_5",
+      "collection": "INTERIOR_08_QUARTOS_O",
+      "position": [
+        26,
+        5,
+        3.65
+      ],
+      "rotation": 1.5707963267948966,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "O_3.65_4_-5",
+      "collection": "INTERIOR_08_QUARTOS_O",
+      "position": [
+        16,
+        12,
+        3.65
+      ],
+      "rotation": -1.5707963267948966,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "O_3.65_4_5",
+      "collection": "INTERIOR_08_QUARTOS_O",
+      "position": [
+        26,
+        12,
+        3.65
+      ],
+      "rotation": 1.5707963267948966,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "PJ_6.85_0_-5",
+      "collection": "INTERIOR_19_QUARTOS_PJ",
+      "position": [
+        -26,
+        -16,
+        6.85
+      ],
+      "rotation": -1.5707963267948966,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "PJ_6.85_0_5",
+      "collection": "INTERIOR_19_QUARTOS_PJ",
+      "position": [
+        -16,
+        -16,
+        6.85
+      ],
+      "rotation": 1.5707963267948966,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "PJ_6.85_2_-5",
+      "collection": "INTERIOR_19_QUARTOS_PJ",
+      "position": [
+        -26,
+        -2,
+        6.85
+      ],
+      "rotation": -1.5707963267948966,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "PJ_6.85_2_5",
+      "collection": "INTERIOR_19_QUARTOS_PJ",
+      "position": [
+        -16,
+        -2,
+        6.85
+      ],
+      "rotation": 1.5707963267948966,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "PJ_6.85_3_-5",
+      "collection": "INTERIOR_19_QUARTOS_PJ",
+      "position": [
+        -26,
+        5,
+        6.85
+      ],
+      "rotation": -1.5707963267948966,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "PJ_6.85_3_5",
+      "collection": "INTERIOR_19_QUARTOS_PJ",
+      "position": [
+        -16,
+        5,
+        6.85
+      ],
+      "rotation": 1.5707963267948966,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "PJ_6.85_4_-5",
+      "collection": "INTERIOR_19_QUARTOS_PJ",
+      "position": [
+        -26,
+        12,
+        6.85
+      ],
+      "rotation": -1.5707963267948966,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "PJ_6.85_4_5",
+      "collection": "INTERIOR_19_QUARTOS_PJ",
+      "position": [
+        -16,
+        12,
+        6.85
+      ],
+      "rotation": 1.5707963267948966,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "PO_6.85_0_-5",
+      "collection": "INTERIOR_20_QUARTOS_PO",
+      "position": [
+        16,
+        -16,
+        6.85
+      ],
+      "rotation": -1.5707963267948966,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "PO_6.85_0_5",
+      "collection": "INTERIOR_20_QUARTOS_PO",
+      "position": [
+        26,
+        -16,
+        6.85
+      ],
+      "rotation": 1.5707963267948966,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "PO_6.85_2_-5",
+      "collection": "INTERIOR_20_QUARTOS_PO",
+      "position": [
+        16,
+        -2,
+        6.85
+      ],
+      "rotation": -1.5707963267948966,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "PO_6.85_2_5",
+      "collection": "INTERIOR_20_QUARTOS_PO",
+      "position": [
+        26,
+        -2,
+        6.85
+      ],
+      "rotation": 1.5707963267948966,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "PO_6.85_3_-5",
+      "collection": "INTERIOR_20_QUARTOS_PO",
+      "position": [
+        16,
+        5,
+        6.85
+      ],
+      "rotation": -1.5707963267948966,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "PO_6.85_3_5",
+      "collection": "INTERIOR_20_QUARTOS_PO",
+      "position": [
+        26,
+        5,
+        6.85
+      ],
+      "rotation": 1.5707963267948966,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "PO_6.85_4_-5",
+      "collection": "INTERIOR_20_QUARTOS_PO",
+      "position": [
+        16,
+        12,
+        6.85
+      ],
+      "rotation": -1.5707963267948966,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "PO_6.85_4_5",
+      "collection": "INTERIOR_20_QUARTOS_PO",
+      "position": [
+        26,
+        12,
+        6.85
+      ],
+      "rotation": 1.5707963267948966,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "PREMIUM_C0",
+      "collection": "INTERIOR_19_QUARTOS_CENTRO",
+      "position": [
+        -9,
+        -16,
+        6.85
+      ],
+      "rotation": 0,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "PREMIUM_C1",
+      "collection": "INTERIOR_19_QUARTOS_CENTRO",
+      "position": [
+        -3,
+        -16,
+        6.85
+      ],
+      "rotation": 0,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "PREMIUM_C2",
+      "collection": "INTERIOR_19_QUARTOS_CENTRO",
+      "position": [
+        3,
+        -16,
+        6.85
+      ],
+      "rotation": 0,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "PREMIUM_C3",
+      "collection": "INTERIOR_19_QUARTOS_CENTRO",
+      "position": [
+        9,
+        -16,
+        6.85
+      ],
+      "rotation": 0,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "SPA_SUITE_0",
+      "collection": "INTERIOR_16_QUARTOS_SPA",
+      "position": [
+        33.4,
+        16.8,
+        3.65
+      ],
+      "rotation": 0,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "SPA_SUITE_1",
+      "collection": "INTERIOR_16_QUARTOS_SPA",
+      "position": [
+        40,
+        16.8,
+        3.65
+      ],
+      "rotation": 0,
+      "template": "en_suite_6x7"
+    },
+    {
+      "id": "SPA_SUITE_2",
+      "collection": "INTERIOR_16_QUARTOS_SPA",
+      "position": [
+        46.6,
+        16.8,
+        3.65
+      ],
+      "rotation": 0,
+      "template": "en_suite_6x7"
+    }
+  ],
+  "interactions": [
+    {
+      "id": "GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        -0.55,
+        -0.5,
+        0.6
+      ],
+      "collection": "INTERIOR_ASSET_ENSUITE_ROOM"
+    },
+    {
+      "id": "GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        -2.3,
+        0.4,
+        0.6
+      ],
+      "collection": "INTERIOR_ASSET_ENSUITE_ROOM"
+    },
+    {
+      "id": "GAME_Check_In",
+      "type": "check_in_checkout",
+      "position": [
+        -5,
+        -16,
+        1
+      ],
+      "collection": "INTERIOR_06_LOBBY"
+    },
+    {
+      "id": "GAME_Concierge",
+      "type": "guest_requests",
+      "position": [
+        7,
+        -13.5,
+        1
+      ],
+      "collection": "INTERIOR_06_LOBBY"
+    },
+    {
+      "id": "GAME_Cook",
+      "type": "cook_orders",
+      "position": [
+        4.1,
+        -2.5,
+        0.95
+      ],
+      "collection": "INTERIOR_04_RESTAURANT_INTERIOR"
+    },
+    {
+      "id": "GAME_Pass",
+      "type": "serve_orders",
+      "position": [
+        6.1,
+        -5.5,
+        0.95
+      ],
+      "collection": "INTERIOR_04_RESTAURANT_INTERIOR"
+    },
+    {
+      "id": "GAME_Prep",
+      "type": "prepare_food",
+      "position": [
+        6.1,
+        -1.5,
+        0.95
+      ],
+      "collection": "INTERIOR_04_RESTAURANT_INTERIOR"
+    },
+    {
+      "id": "GAME_Restaurant_Host",
+      "type": "seat_guests",
+      "position": [
+        -7.8,
+        -16,
+        0.95
+      ],
+      "collection": "INTERIOR_04_RESTAURANT_INTERIOR"
+    },
+    {
+      "id": "GAME_Cook.001",
+      "type": "cook_orders",
+      "position": [
+        4.1,
+        20.5,
+        0.95
+      ],
+      "collection": "INTERIOR_06_REAR_RESTAURANT_INTERIOR"
+    },
+    {
+      "id": "GAME_Pass.001",
+      "type": "serve_orders",
+      "position": [
+        6.1,
+        17.5,
+        0.95
+      ],
+      "collection": "INTERIOR_06_REAR_RESTAURANT_INTERIOR"
+    },
+    {
+      "id": "GAME_Prep.001",
+      "type": "prepare_food",
+      "position": [
+        6.1,
+        21.5,
+        0.95
+      ],
+      "collection": "INTERIOR_06_REAR_RESTAURANT_INTERIOR"
+    },
+    {
+      "id": "GAME_Restaurant_Host.001",
+      "type": "seat_guests",
+      "position": [
+        -7.8,
+        7,
+        0.95
+      ],
+      "collection": "INTERIOR_06_REAR_RESTAURANT_INTERIOR"
+    },
+    {
+      "id": "GAME_Cook.002",
+      "type": "cook_orders",
+      "position": [
+        -7,
+        30.0,
+        0.95
+      ],
+      "collection": "INTERIOR_09_OPERATIONS"
+    },
+    {
+      "id": "GAME_Pass.002",
+      "type": "serve_orders",
+      "position": [
+        -5,
+        27.0,
+        0.95
+      ],
+      "collection": "INTERIOR_09_OPERATIONS"
+    },
+    {
+      "id": "GAME_Prep.002",
+      "type": "prepare_food",
+      "position": [
+        -5,
+        31.0,
+        0.95
+      ],
+      "collection": "INTERIOR_09_OPERATIONS"
+    },
+    {
+      "id": "GAME_Stock_Delivery",
+      "type": "receive_inventory",
+      "position": [
+        8,
+        31,
+        0.6
+      ],
+      "collection": "INTERIOR_09_OPERATIONS"
+    },
+    {
+      "id": "GAME_Inventory",
+      "type": "stock_control",
+      "position": [
+        5,
+        31,
+        0.6
+      ],
+      "collection": "INTERIOR_09_OPERATIONS"
+    },
+    {
+      "id": "GAME_Kids_Activity",
+      "type": "organize_children_activity",
+      "position": [
+        21,
+        24,
+        0.6
+      ],
+      "collection": "INTERIOR_12_KIDS_INTERIOR"
+    },
+    {
+      "id": "GAME_Fitness_Class",
+      "type": "fitness_activity",
+      "position": [
+        21,
+        26,
+        3.8
+      ],
+      "collection": "INTERIOR_13_FITNESS_INTERIOR"
+    },
+    {
+      "id": "GAME_Treatment_34",
+      "type": "spa_treatment",
+      "position": [
+        33,
+        18,
+        0.6
+      ],
+      "collection": "INTERIOR_14_SPA_INTERIOR"
+    },
+    {
+      "id": "GAME_Treatment_42",
+      "type": "spa_treatment",
+      "position": [
+        41,
+        18,
+        0.6
+      ],
+      "collection": "INTERIOR_14_SPA_INTERIOR"
+    },
+    {
+      "id": "GAME_Fine_Dining_Service",
+      "type": "premium_dining",
+      "position": [
+        0,
+        17,
+        3.8
+      ],
+      "collection": "INTERIOR_15_FINE_DINING_INTERIOR"
+    },
+    {
+      "id": "GAME_Event_Service",
+      "type": "event_setup",
+      "position": [
+        0,
+        49,
+        0.6
+      ],
+      "collection": "INTERIOR_17_EVENT_INTERIOR"
+    },
+    {
+      "id": "GAME_Laundry_Work",
+      "type": "wash_and_fold",
+      "position": [
+        -23,
+        44,
+        0.6
+      ],
+      "collection": "INTERIOR_18_SERVICE_INTERIOR"
+    },
+    {
+      "id": "GAME_Housekeeping_Store",
+      "type": "clean_room_supply",
+      "position": [
+        -17,
+        45,
+        0.6
+      ],
+      "collection": "INTERIOR_18_SERVICE_INTERIOR"
+    },
+    {
+      "id": "GAME_Pool_Bar",
+      "type": "pool_bar_service",
+      "position": [
+        21,
+        0.5,
+        10.2
+      ],
+      "collection": "INTERIOR_20_ROOFTOP_SERVICE"
+    }
+  ],
+  "runtime_implemented": false,
+  "collections": [
+    {
+      "name": "INTERIOR_04_RESTAURANT_INTERIOR",
+      "objects": 233,
+      "first": 4,
+      "last": 5
+    },
+    {
+      "name": "INTERIOR_06_ADMINISTRATION",
+      "objects": 15,
+      "first": 6,
+      "last": 20
+    },
+    {
+      "name": "INTERIOR_06_LOBBY",
+      "objects": 133,
+      "first": 6,
+      "last": 20
+    },
+    {
+      "name": "INTERIOR_06_PUBLIC_WASHROOMS",
+      "objects": 54,
+      "first": 6,
+      "last": 20
+    },
+    {
+      "name": "INTERIOR_06_QUARTOS_HOTEL",
+      "objects": 11,
+      "first": 6,
+      "last": 20
+    },
+    {
+      "name": "INTERIOR_06_REAR_GUARD",
+      "objects": 2,
+      "first": 6,
+      "last": 14
+    },
+    {
+      "name": "INTERIOR_06_REAR_RESTAURANT_INTERIOR",
+      "objects": 171,
+      "first": 6,
+      "last": 20
+    },
+    {
+      "name": "INTERIOR_07_QUARTOS_J",
+      "objects": 48,
+      "first": 7,
+      "last": 20
+    },
+    {
+      "name": "INTERIOR_08_QUARTOS_O",
+      "objects": 48,
+      "first": 8,
+      "last": 20
+    },
+    {
+      "name": "INTERIOR_09_OPERATIONS",
+      "objects": 171,
+      "first": 9,
+      "last": 20
+    },
+    {
+      "name": "INTERIOR_12_KIDS_INTERIOR",
+      "objects": 53,
+      "first": 12,
+      "last": 20
+    },
+    {
+      "name": "INTERIOR_13_FITNESS_INTERIOR",
+      "objects": 27,
+      "first": 13,
+      "last": 20
+    },
+    {
+      "name": "INTERIOR_14_SPA_INTERIOR",
+      "objects": 91,
+      "first": 14,
+      "last": 20
+    },
+    {
+      "name": "INTERIOR_15_FINE_DINING_INTERIOR",
+      "objects": 200,
+      "first": 15,
+      "last": 20
+    },
+    {
+      "name": "INTERIOR_16_QUARTOS_SPA",
+      "objects": 32,
+      "first": 16,
+      "last": 20
+    },
+    {
+      "name": "INTERIOR_17_EVENT_INTERIOR",
+      "objects": 102,
+      "first": 17,
+      "last": 20
+    },
+    {
+      "name": "INTERIOR_18_SERVICE_INTERIOR",
+      "objects": 57,
+      "first": 18,
+      "last": 20
+    },
+    {
+      "name": "INTERIOR_19_QUARTOS_CENTRO",
+      "objects": 13,
+      "first": 19,
+      "last": 20
+    },
+    {
+      "name": "INTERIOR_19_QUARTOS_PJ",
+      "objects": 24,
+      "first": 19,
+      "last": 20
+    },
+    {
+      "name": "INTERIOR_20_QUARTOS_PO",
+      "objects": 24,
+      "first": 20,
+      "last": 20
+    },
+    {
+      "name": "INTERIOR_20_ROOFTOP_SERVICE",
+      "objects": 6,
+      "first": 20,
+      "last": 20
+    },
+    {
+      "name": "INTERIOR_ASSET_DINING_CHAIR",
+      "objects": 6,
+      "first": 0,
+      "last": 20
+    },
+    {
+      "name": "INTERIOR_ASSET_ENSUITE_ROOM",
+      "objects": 78,
+      "first": 0,
+      "last": 20
+    }
+  ],
+  "circulation_revision": "open cross-wing corridor at y=-9, central core rear spine, glazed seams opened",
+  "room_count": 59,
+  "interior_scope": "all unlocked indoor modules furnished; gameplay anchors only",
+  "extra_facilities": [
+    "management office",
+    "staff break",
+    "staff lockers",
+    "cooking/preparation/pass/dishwashing"
+  ],
+  "scenes": [
+    {
+      "stage": 1,
+      "scene": "MARE_UNIDA_ETAPA_01",
+      "rooms": 0,
+      "interior_collections": []
+    },
+    {
+      "stage": 2,
+      "scene": "MARE_UNIDA_ETAPA_02",
+      "rooms": 0,
+      "interior_collections": []
+    },
+    {
+      "stage": 3,
+      "scene": "MARE_UNIDA_ETAPA_03",
+      "rooms": 0,
+      "interior_collections": []
+    },
+    {
+      "stage": 4,
+      "scene": "MARE_UNIDA_ETAPA_04",
+      "rooms": 0,
+      "interior_collections": [
+        "INTERIOR_04_RESTAURANT_INTERIOR"
+      ]
+    },
+    {
+      "stage": 5,
+      "scene": "MARE_UNIDA_ETAPA_05",
+      "rooms": 0,
+      "interior_collections": [
+        "INTERIOR_04_RESTAURANT_INTERIOR"
+      ]
+    },
+    {
+      "stage": 6,
+      "scene": "MARE_UNIDA_ETAPA_06",
+      "rooms": 4,
+      "interior_collections": [
+        "INTERIOR_06_QUARTOS_HOTEL",
+        "INTERIOR_06_LOBBY",
+        "INTERIOR_06_REAR_RESTAURANT_INTERIOR",
+        "INTERIOR_06_PUBLIC_WASHROOMS",
+        "INTERIOR_06_ADMINISTRATION",
+        "INTERIOR_06_REAR_GUARD"
+      ]
+    },
+    {
+      "stage": 7,
+      "scene": "MARE_UNIDA_ETAPA_07",
+      "rooms": 20,
+      "interior_collections": [
+        "INTERIOR_06_QUARTOS_HOTEL",
+        "INTERIOR_07_QUARTOS_J",
+        "INTERIOR_06_LOBBY",
+        "INTERIOR_06_REAR_RESTAURANT_INTERIOR",
+        "INTERIOR_06_PUBLIC_WASHROOMS",
+        "INTERIOR_06_ADMINISTRATION",
+        "INTERIOR_06_REAR_GUARD"
+      ]
+    },
+    {
+      "stage": 8,
+      "scene": "MARE_UNIDA_ETAPA_08",
+      "rooms": 36,
+      "interior_collections": [
+        "INTERIOR_06_QUARTOS_HOTEL",
+        "INTERIOR_07_QUARTOS_J",
+        "INTERIOR_08_QUARTOS_O",
+        "INTERIOR_06_LOBBY",
+        "INTERIOR_06_REAR_RESTAURANT_INTERIOR",
+        "INTERIOR_06_PUBLIC_WASHROOMS",
+        "INTERIOR_06_ADMINISTRATION",
+        "INTERIOR_06_REAR_GUARD"
+      ]
+    },
+    {
+      "stage": 9,
+      "scene": "MARE_UNIDA_ETAPA_09",
+      "rooms": 36,
+      "interior_collections": [
+        "INTERIOR_06_QUARTOS_HOTEL",
+        "INTERIOR_07_QUARTOS_J",
+        "INTERIOR_08_QUARTOS_O",
+        "INTERIOR_06_LOBBY",
+        "INTERIOR_06_REAR_RESTAURANT_INTERIOR",
+        "INTERIOR_09_OPERATIONS",
+        "INTERIOR_06_PUBLIC_WASHROOMS",
+        "INTERIOR_06_ADMINISTRATION",
+        "INTERIOR_06_REAR_GUARD"
+      ]
+    },
+    {
+      "stage": 10,
+      "scene": "MARE_UNIDA_ETAPA_10",
+      "rooms": 36,
+      "interior_collections": [
+        "INTERIOR_06_QUARTOS_HOTEL",
+        "INTERIOR_07_QUARTOS_J",
+        "INTERIOR_08_QUARTOS_O",
+        "INTERIOR_06_LOBBY",
+        "INTERIOR_06_REAR_RESTAURANT_INTERIOR",
+        "INTERIOR_09_OPERATIONS",
+        "INTERIOR_06_PUBLIC_WASHROOMS",
+        "INTERIOR_06_ADMINISTRATION",
+        "INTERIOR_06_REAR_GUARD"
+      ]
+    },
+    {
+      "stage": 11,
+      "scene": "MARE_UNIDA_ETAPA_11",
+      "rooms": 36,
+      "interior_collections": [
+        "INTERIOR_06_QUARTOS_HOTEL",
+        "INTERIOR_07_QUARTOS_J",
+        "INTERIOR_08_QUARTOS_O",
+        "INTERIOR_06_LOBBY",
+        "INTERIOR_06_REAR_RESTAURANT_INTERIOR",
+        "INTERIOR_09_OPERATIONS",
+        "INTERIOR_06_PUBLIC_WASHROOMS",
+        "INTERIOR_06_ADMINISTRATION",
+        "INTERIOR_06_REAR_GUARD"
+      ]
+    },
+    {
+      "stage": 12,
+      "scene": "MARE_UNIDA_ETAPA_12",
+      "rooms": 36,
+      "interior_collections": [
+        "INTERIOR_06_QUARTOS_HOTEL",
+        "INTERIOR_07_QUARTOS_J",
+        "INTERIOR_08_QUARTOS_O",
+        "INTERIOR_06_LOBBY",
+        "INTERIOR_06_REAR_RESTAURANT_INTERIOR",
+        "INTERIOR_09_OPERATIONS",
+        "INTERIOR_06_PUBLIC_WASHROOMS",
+        "INTERIOR_12_KIDS_INTERIOR",
+        "INTERIOR_06_ADMINISTRATION",
+        "INTERIOR_06_REAR_GUARD"
+      ]
+    },
+    {
+      "stage": 13,
+      "scene": "MARE_UNIDA_ETAPA_13",
+      "rooms": 36,
+      "interior_collections": [
+        "INTERIOR_06_QUARTOS_HOTEL",
+        "INTERIOR_07_QUARTOS_J",
+        "INTERIOR_08_QUARTOS_O",
+        "INTERIOR_06_LOBBY",
+        "INTERIOR_06_REAR_RESTAURANT_INTERIOR",
+        "INTERIOR_09_OPERATIONS",
+        "INTERIOR_06_PUBLIC_WASHROOMS",
+        "INTERIOR_12_KIDS_INTERIOR",
+        "INTERIOR_13_FITNESS_INTERIOR",
+        "INTERIOR_06_ADMINISTRATION",
+        "INTERIOR_06_REAR_GUARD"
+      ]
+    },
+    {
+      "stage": 14,
+      "scene": "MARE_UNIDA_ETAPA_14",
+      "rooms": 36,
+      "interior_collections": [
+        "INTERIOR_06_QUARTOS_HOTEL",
+        "INTERIOR_07_QUARTOS_J",
+        "INTERIOR_08_QUARTOS_O",
+        "INTERIOR_06_LOBBY",
+        "INTERIOR_06_REAR_RESTAURANT_INTERIOR",
+        "INTERIOR_09_OPERATIONS",
+        "INTERIOR_06_PUBLIC_WASHROOMS",
+        "INTERIOR_12_KIDS_INTERIOR",
+        "INTERIOR_13_FITNESS_INTERIOR",
+        "INTERIOR_14_SPA_INTERIOR",
+        "INTERIOR_06_ADMINISTRATION",
+        "INTERIOR_06_REAR_GUARD"
+      ]
+    },
+    {
+      "stage": 15,
+      "scene": "MARE_UNIDA_ETAPA_15",
+      "rooms": 36,
+      "interior_collections": [
+        "INTERIOR_06_QUARTOS_HOTEL",
+        "INTERIOR_07_QUARTOS_J",
+        "INTERIOR_08_QUARTOS_O",
+        "INTERIOR_06_LOBBY",
+        "INTERIOR_06_REAR_RESTAURANT_INTERIOR",
+        "INTERIOR_09_OPERATIONS",
+        "INTERIOR_06_PUBLIC_WASHROOMS",
+        "INTERIOR_12_KIDS_INTERIOR",
+        "INTERIOR_13_FITNESS_INTERIOR",
+        "INTERIOR_14_SPA_INTERIOR",
+        "INTERIOR_15_FINE_DINING_INTERIOR",
+        "INTERIOR_06_ADMINISTRATION"
+      ]
+    },
+    {
+      "stage": 16,
+      "scene": "MARE_UNIDA_ETAPA_16",
+      "rooms": 39,
+      "interior_collections": [
+        "INTERIOR_06_QUARTOS_HOTEL",
+        "INTERIOR_07_QUARTOS_J",
+        "INTERIOR_08_QUARTOS_O",
+        "INTERIOR_16_QUARTOS_SPA",
+        "INTERIOR_06_LOBBY",
+        "INTERIOR_06_REAR_RESTAURANT_INTERIOR",
+        "INTERIOR_09_OPERATIONS",
+        "INTERIOR_06_PUBLIC_WASHROOMS",
+        "INTERIOR_12_KIDS_INTERIOR",
+        "INTERIOR_13_FITNESS_INTERIOR",
+        "INTERIOR_14_SPA_INTERIOR",
+        "INTERIOR_15_FINE_DINING_INTERIOR",
+        "INTERIOR_06_ADMINISTRATION"
+      ]
+    },
+    {
+      "stage": 17,
+      "scene": "MARE_UNIDA_ETAPA_17",
+      "rooms": 39,
+      "interior_collections": [
+        "INTERIOR_06_QUARTOS_HOTEL",
+        "INTERIOR_07_QUARTOS_J",
+        "INTERIOR_08_QUARTOS_O",
+        "INTERIOR_16_QUARTOS_SPA",
+        "INTERIOR_06_LOBBY",
+        "INTERIOR_06_REAR_RESTAURANT_INTERIOR",
+        "INTERIOR_09_OPERATIONS",
+        "INTERIOR_06_PUBLIC_WASHROOMS",
+        "INTERIOR_12_KIDS_INTERIOR",
+        "INTERIOR_13_FITNESS_INTERIOR",
+        "INTERIOR_14_SPA_INTERIOR",
+        "INTERIOR_15_FINE_DINING_INTERIOR",
+        "INTERIOR_17_EVENT_INTERIOR",
+        "INTERIOR_06_ADMINISTRATION"
+      ]
+    },
+    {
+      "stage": 18,
+      "scene": "MARE_UNIDA_ETAPA_18",
+      "rooms": 39,
+      "interior_collections": [
+        "INTERIOR_06_QUARTOS_HOTEL",
+        "INTERIOR_07_QUARTOS_J",
+        "INTERIOR_08_QUARTOS_O",
+        "INTERIOR_16_QUARTOS_SPA",
+        "INTERIOR_06_LOBBY",
+        "INTERIOR_06_REAR_RESTAURANT_INTERIOR",
+        "INTERIOR_09_OPERATIONS",
+        "INTERIOR_06_PUBLIC_WASHROOMS",
+        "INTERIOR_12_KIDS_INTERIOR",
+        "INTERIOR_13_FITNESS_INTERIOR",
+        "INTERIOR_14_SPA_INTERIOR",
+        "INTERIOR_15_FINE_DINING_INTERIOR",
+        "INTERIOR_17_EVENT_INTERIOR",
+        "INTERIOR_18_SERVICE_INTERIOR",
+        "INTERIOR_06_ADMINISTRATION"
+      ]
+    },
+    {
+      "stage": 19,
+      "scene": "MARE_UNIDA_ETAPA_19",
+      "rooms": 51,
+      "interior_collections": [
+        "INTERIOR_06_QUARTOS_HOTEL",
+        "INTERIOR_07_QUARTOS_J",
+        "INTERIOR_08_QUARTOS_O",
+        "INTERIOR_19_QUARTOS_PJ",
+        "INTERIOR_19_QUARTOS_CENTRO",
+        "INTERIOR_16_QUARTOS_SPA",
+        "INTERIOR_06_LOBBY",
+        "INTERIOR_06_REAR_RESTAURANT_INTERIOR",
+        "INTERIOR_09_OPERATIONS",
+        "INTERIOR_06_PUBLIC_WASHROOMS",
+        "INTERIOR_12_KIDS_INTERIOR",
+        "INTERIOR_13_FITNESS_INTERIOR",
+        "INTERIOR_14_SPA_INTERIOR",
+        "INTERIOR_15_FINE_DINING_INTERIOR",
+        "INTERIOR_17_EVENT_INTERIOR",
+        "INTERIOR_18_SERVICE_INTERIOR",
+        "INTERIOR_06_ADMINISTRATION"
+      ]
+    },
+    {
+      "stage": 20,
+      "scene": "MARE_UNIDA_ETAPA_20",
+      "rooms": 59,
+      "interior_collections": [
+        "INTERIOR_06_QUARTOS_HOTEL",
+        "INTERIOR_07_QUARTOS_J",
+        "INTERIOR_08_QUARTOS_O",
+        "INTERIOR_19_QUARTOS_PJ",
+        "INTERIOR_20_QUARTOS_PO",
+        "INTERIOR_19_QUARTOS_CENTRO",
+        "INTERIOR_16_QUARTOS_SPA",
+        "INTERIOR_06_LOBBY",
+        "INTERIOR_06_REAR_RESTAURANT_INTERIOR",
+        "INTERIOR_09_OPERATIONS",
+        "INTERIOR_06_PUBLIC_WASHROOMS",
+        "INTERIOR_12_KIDS_INTERIOR",
+        "INTERIOR_13_FITNESS_INTERIOR",
+        "INTERIOR_14_SPA_INTERIOR",
+        "INTERIOR_15_FINE_DINING_INTERIOR",
+        "INTERIOR_17_EVENT_INTERIOR",
+        "INTERIOR_18_SERVICE_INTERIOR",
+        "INTERIOR_20_ROOFTOP_SERVICE",
+        "INTERIOR_06_ADMINISTRATION"
+      ]
+    }
+  ],
+  "expanded_final_activity_anchors": [
+    {
+      "id": "H101_0/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        -9.550000190734863,
+        -16.5,
+        4.25
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "H101_0/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        -11.300000190734863,
+        -15.600000381469727,
+        4.25
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "H101_1/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        -3.549999952316284,
+        -16.5,
+        4.25
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "H101_1/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        -5.300000190734863,
+        -15.600000381469727,
+        4.25
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "H101_2/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        2.450000047683716,
+        -16.5,
+        4.25
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "H101_2/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        0.7000000476837158,
+        -15.600000381469727,
+        4.25
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "H101_3/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        8.449999809265137,
+        -16.5,
+        4.25
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "H101_3/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        6.699999809265137,
+        -15.600000381469727,
+        4.25
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "J_0.45_0_-5/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        -26.5,
+        -15.449999809265137,
+        1.0499999523162842
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "J_0.45_0_-5/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        -25.600000381469727,
+        -13.699999809265137,
+        1.0499999523162842
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "J_0.45_0_5/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        -15.5,
+        -16.549999237060547,
+        1.0499999523162842
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "J_0.45_0_5/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        -16.399999618530273,
+        -18.299999237060547,
+        1.0499999523162842
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "J_0.45_2_-5/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        -26.5,
+        -1.4499999284744263,
+        1.0499999523162842
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "J_0.45_2_-5/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        -25.600000381469727,
+        0.2999999225139618,
+        1.0499999523162842
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "J_0.45_2_5/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        -15.5,
+        -2.549999952316284,
+        1.0499999523162842
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "J_0.45_2_5/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        -16.399999618530273,
+        -4.300000190734863,
+        1.0499999523162842
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "J_0.45_3_-5/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        -26.5,
+        5.550000190734863,
+        1.0499999523162842
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "J_0.45_3_-5/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        -25.600000381469727,
+        7.299999713897705,
+        1.0499999523162842
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "J_0.45_3_5/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        -15.5,
+        4.449999809265137,
+        1.0499999523162842
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "J_0.45_3_5/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        -16.399999618530273,
+        2.700000047683716,
+        1.0499999523162842
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "J_0.45_4_-5/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        -26.5,
+        12.550000190734863,
+        1.0499999523162842
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "J_0.45_4_-5/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        -25.600000381469727,
+        14.300000190734863,
+        1.0499999523162842
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "J_0.45_4_5/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        -15.5,
+        11.449999809265137,
+        1.0499999523162842
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "J_0.45_4_5/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        -16.399999618530273,
+        9.699999809265137,
+        1.0499999523162842
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "J_3.65_0_-5/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        -26.5,
+        -15.449999809265137,
+        4.25
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "J_3.65_0_-5/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        -25.600000381469727,
+        -13.699999809265137,
+        4.25
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "J_3.65_0_5/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        -15.5,
+        -16.549999237060547,
+        4.25
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "J_3.65_0_5/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        -16.399999618530273,
+        -18.299999237060547,
+        4.25
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "J_3.65_2_-5/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        -26.5,
+        -1.4499999284744263,
+        4.25
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "J_3.65_2_-5/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        -25.600000381469727,
+        0.2999999225139618,
+        4.25
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "J_3.65_2_5/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        -15.5,
+        -2.549999952316284,
+        4.25
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "J_3.65_2_5/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        -16.399999618530273,
+        -4.300000190734863,
+        4.25
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "J_3.65_3_-5/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        -26.5,
+        5.550000190734863,
+        4.25
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "J_3.65_3_-5/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        -25.600000381469727,
+        7.299999713897705,
+        4.25
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "J_3.65_3_5/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        -15.5,
+        4.449999809265137,
+        4.25
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "J_3.65_3_5/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        -16.399999618530273,
+        2.700000047683716,
+        4.25
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "J_3.65_4_-5/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        -26.5,
+        12.550000190734863,
+        4.25
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "J_3.65_4_-5/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        -25.600000381469727,
+        14.300000190734863,
+        4.25
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "J_3.65_4_5/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        -15.5,
+        11.449999809265137,
+        4.25
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "J_3.65_4_5/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        -16.399999618530273,
+        9.699999809265137,
+        4.25
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "O_0.45_0_-5/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        15.5,
+        -15.449999809265137,
+        1.0499999523162842
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "O_0.45_0_-5/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        16.399999618530273,
+        -13.699999809265137,
+        1.0499999523162842
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "O_0.45_0_5/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        26.5,
+        -16.549999237060547,
+        1.0499999523162842
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "O_0.45_0_5/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        25.600000381469727,
+        -18.299999237060547,
+        1.0499999523162842
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "O_0.45_2_-5/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        15.5,
+        -1.4499999284744263,
+        1.0499999523162842
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "O_0.45_2_-5/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        16.399999618530273,
+        0.2999999225139618,
+        1.0499999523162842
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "O_0.45_2_5/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        26.5,
+        -2.549999952316284,
+        1.0499999523162842
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "O_0.45_2_5/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        25.600000381469727,
+        -4.300000190734863,
+        1.0499999523162842
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "O_0.45_3_-5/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        15.5,
+        5.550000190734863,
+        1.0499999523162842
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "O_0.45_3_-5/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        16.399999618530273,
+        7.299999713897705,
+        1.0499999523162842
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "O_0.45_3_5/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        26.5,
+        4.449999809265137,
+        1.0499999523162842
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "O_0.45_3_5/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        25.600000381469727,
+        2.700000047683716,
+        1.0499999523162842
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "O_0.45_4_-5/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        15.5,
+        12.550000190734863,
+        1.0499999523162842
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "O_0.45_4_-5/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        16.399999618530273,
+        14.300000190734863,
+        1.0499999523162842
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "O_0.45_4_5/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        26.5,
+        11.449999809265137,
+        1.0499999523162842
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "O_0.45_4_5/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        25.600000381469727,
+        9.699999809265137,
+        1.0499999523162842
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "O_3.65_0_-5/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        15.5,
+        -15.449999809265137,
+        4.25
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "O_3.65_0_-5/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        16.399999618530273,
+        -13.699999809265137,
+        4.25
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "O_3.65_0_5/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        26.5,
+        -16.549999237060547,
+        4.25
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "O_3.65_0_5/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        25.600000381469727,
+        -18.299999237060547,
+        4.25
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "O_3.65_2_-5/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        15.5,
+        -1.4499999284744263,
+        4.25
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "O_3.65_2_-5/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        16.399999618530273,
+        0.2999999225139618,
+        4.25
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "O_3.65_2_5/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        26.5,
+        -2.549999952316284,
+        4.25
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "O_3.65_2_5/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        25.600000381469727,
+        -4.300000190734863,
+        4.25
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "O_3.65_3_-5/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        15.5,
+        5.550000190734863,
+        4.25
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "O_3.65_3_-5/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        16.399999618530273,
+        7.299999713897705,
+        4.25
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "O_3.65_3_5/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        26.5,
+        4.449999809265137,
+        4.25
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "O_3.65_3_5/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        25.600000381469727,
+        2.700000047683716,
+        4.25
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "O_3.65_4_-5/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        15.5,
+        12.550000190734863,
+        4.25
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "O_3.65_4_-5/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        16.399999618530273,
+        14.300000190734863,
+        4.25
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "O_3.65_4_5/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        26.5,
+        11.449999809265137,
+        4.25
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "O_3.65_4_5/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        25.600000381469727,
+        9.699999809265137,
+        4.25
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "PJ_6.85_0_-5/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        -26.5,
+        -15.449999809265137,
+        7.449999809265137
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "PJ_6.85_0_-5/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        -25.600000381469727,
+        -13.699999809265137,
+        7.449999809265137
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "PJ_6.85_0_5/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        -15.5,
+        -16.549999237060547,
+        7.449999809265137
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "PJ_6.85_0_5/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        -16.399999618530273,
+        -18.299999237060547,
+        7.449999809265137
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "PJ_6.85_2_-5/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        -26.5,
+        -1.4499999284744263,
+        7.449999809265137
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "PJ_6.85_2_-5/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        -25.600000381469727,
+        0.2999999225139618,
+        7.449999809265137
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "PJ_6.85_2_5/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        -15.5,
+        -2.549999952316284,
+        7.449999809265137
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "PJ_6.85_2_5/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        -16.399999618530273,
+        -4.300000190734863,
+        7.449999809265137
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "PJ_6.85_3_-5/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        -26.5,
+        5.550000190734863,
+        7.449999809265137
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "PJ_6.85_3_-5/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        -25.600000381469727,
+        7.299999713897705,
+        7.449999809265137
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "PJ_6.85_3_5/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        -15.5,
+        4.449999809265137,
+        7.449999809265137
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "PJ_6.85_3_5/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        -16.399999618530273,
+        2.700000047683716,
+        7.449999809265137
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "PJ_6.85_4_-5/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        -26.5,
+        12.550000190734863,
+        7.449999809265137
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "PJ_6.85_4_-5/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        -25.600000381469727,
+        14.300000190734863,
+        7.449999809265137
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "PJ_6.85_4_5/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        -15.5,
+        11.449999809265137,
+        7.449999809265137
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "PJ_6.85_4_5/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        -16.399999618530273,
+        9.699999809265137,
+        7.449999809265137
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "PO_6.85_0_-5/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        15.5,
+        -15.449999809265137,
+        7.449999809265137
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "PO_6.85_0_-5/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        16.399999618530273,
+        -13.699999809265137,
+        7.449999809265137
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "PO_6.85_0_5/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        26.5,
+        -16.549999237060547,
+        7.449999809265137
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "PO_6.85_0_5/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        25.600000381469727,
+        -18.299999237060547,
+        7.449999809265137
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "PO_6.85_2_-5/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        15.5,
+        -1.4499999284744263,
+        7.449999809265137
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "PO_6.85_2_-5/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        16.399999618530273,
+        0.2999999225139618,
+        7.449999809265137
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "PO_6.85_2_5/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        26.5,
+        -2.549999952316284,
+        7.449999809265137
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "PO_6.85_2_5/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        25.600000381469727,
+        -4.300000190734863,
+        7.449999809265137
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "PO_6.85_3_-5/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        15.5,
+        5.550000190734863,
+        7.449999809265137
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "PO_6.85_3_-5/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        16.399999618530273,
+        7.299999713897705,
+        7.449999809265137
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "PO_6.85_3_5/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        26.5,
+        4.449999809265137,
+        7.449999809265137
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "PO_6.85_3_5/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        25.600000381469727,
+        2.700000047683716,
+        7.449999809265137
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "PO_6.85_4_-5/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        15.5,
+        12.550000190734863,
+        7.449999809265137
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "PO_6.85_4_-5/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        16.399999618530273,
+        14.300000190734863,
+        7.449999809265137
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "PO_6.85_4_5/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        26.5,
+        11.449999809265137,
+        7.449999809265137
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "PO_6.85_4_5/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        25.600000381469727,
+        9.699999809265137,
+        7.449999809265137
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "PREMIUM_C0/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        -9.550000190734863,
+        -16.5,
+        7.449999809265137
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "PREMIUM_C0/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        -11.300000190734863,
+        -15.600000381469727,
+        7.449999809265137
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "PREMIUM_C1/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        -3.549999952316284,
+        -16.5,
+        7.449999809265137
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "PREMIUM_C1/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        -5.300000190734863,
+        -15.600000381469727,
+        7.449999809265137
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "PREMIUM_C2/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        2.450000047683716,
+        -16.5,
+        7.449999809265137
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "PREMIUM_C2/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        0.7000000476837158,
+        -15.600000381469727,
+        7.449999809265137
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "PREMIUM_C3/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        8.449999809265137,
+        -16.5,
+        7.449999809265137
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "PREMIUM_C3/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        6.699999809265137,
+        -15.600000381469727,
+        7.449999809265137
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "SPA_SUITE_0/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        32.85000228881836,
+        16.299999237060547,
+        4.25
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "SPA_SUITE_0/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        31.10000228881836,
+        17.19999885559082,
+        4.25
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "SPA_SUITE_1/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        39.45000076293945,
+        16.299999237060547,
+        4.25
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "SPA_SUITE_1/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        37.70000076293945,
+        17.19999885559082,
+        4.25
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "SPA_SUITE_2/GAME_Guest_Bed",
+      "type": "housekeeping_bed",
+      "position": [
+        46.04999923706055,
+        16.299999237060547,
+        4.25
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "SPA_SUITE_2/GAME_Guest_Minibar",
+      "type": "restock_minibar",
+      "position": [
+        44.29999923706055,
+        17.19999885559082,
+        4.25
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "GAME_Check_In",
+      "type": "check_in_checkout",
+      "position": [
+        -5.0,
+        -16.0,
+        1.0
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "GAME_Concierge",
+      "type": "guest_requests",
+      "position": [
+        7.0,
+        -13.5,
+        1.0
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "GAME_Cook.001",
+      "type": "cook_orders",
+      "position": [
+        4.099999904632568,
+        20.5,
+        0.949999988079071
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "GAME_Pass.001",
+      "type": "serve_orders",
+      "position": [
+        6.099999904632568,
+        17.5,
+        0.949999988079071
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "GAME_Prep.001",
+      "type": "prepare_food",
+      "position": [
+        6.099999904632568,
+        21.5,
+        0.949999988079071
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "GAME_Restaurant_Host.001",
+      "type": "seat_guests",
+      "position": [
+        -7.800000190734863,
+        7.0,
+        0.949999988079071
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "GAME_Cook.002",
+      "type": "cook_orders",
+      "position": [
+        -7.0,
+        30.0,
+        0.949999988079071
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "GAME_Pass.002",
+      "type": "serve_orders",
+      "position": [
+        -5.0,
+        27.0,
+        0.949999988079071
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "GAME_Prep.002",
+      "type": "prepare_food",
+      "position": [
+        -5.0,
+        31.0,
+        0.949999988079071
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "GAME_Stock_Delivery",
+      "type": "receive_inventory",
+      "position": [
+        8.0,
+        31.0,
+        0.6000000238418579
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "GAME_Inventory",
+      "type": "stock_control",
+      "position": [
+        5.0,
+        31.0,
+        0.6000000238418579
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "GAME_Kids_Activity",
+      "type": "organize_children_activity",
+      "position": [
+        21.0,
+        24.0,
+        0.6000000238418579
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "GAME_Fitness_Class",
+      "type": "fitness_activity",
+      "position": [
+        21.0,
+        26.0,
+        3.799999952316284
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "GAME_Treatment_34",
+      "type": "spa_treatment",
+      "position": [
+        33.0,
+        18.0,
+        0.6000000238418579
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "GAME_Treatment_42",
+      "type": "spa_treatment",
+      "position": [
+        41.0,
+        18.0,
+        0.6000000238418579
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "GAME_Fine_Dining_Service",
+      "type": "premium_dining",
+      "position": [
+        0.0,
+        17.0,
+        3.799999952316284
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "GAME_Event_Service",
+      "type": "event_setup",
+      "position": [
+        0.0,
+        49.0,
+        0.6000000238418579
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "GAME_Laundry_Work",
+      "type": "wash_and_fold",
+      "position": [
+        -23.0,
+        44.0,
+        0.6000000238418579
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "GAME_Housekeeping_Store",
+      "type": "clean_room_supply",
+      "position": [
+        -17.0,
+        45.0,
+        0.6000000238418579
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "GAME_Pool_Bar",
+      "type": "pool_bar_service",
+      "position": [
+        21.0,
+        0.5,
+        10.199999809265137
+      ],
+      "runtime_implemented": false
+    },
+    {
+      "id": "GAME_Management_Desk",
+      "type": "manage_staff_and_finances",
+      "position": [
+        3.0,
+        -1.0,
+        0.6000000238418579
+      ],
+      "runtime_implemented": false
+    }
+  ],
+  "file": "D:\\ProjectResort_300m_CompactPass\\BlenderTest\\Mare_Evolucao_Interiores_v3_1.blend"
+}

@@ -1,0 +1,1196 @@
+{
+  "scene": "RESORT_MAIN_MARE_20",
+  "instances_count": 74997,
+  "mesh_type_counts": 4759,
+  "sample": [
+    {
+      "name": "ROAD_LABEL_PARE",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        -869.0,
+        -314.04998779296875,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.001",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        -869.0,
+        -114.05000305175781,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.002",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        -869.0,
+        85.94999694824219,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.003",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        -869.0,
+        285.95001220703125,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.004",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        -669.0,
+        -314.04998779296875,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.005",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        -669.0,
+        -114.05000305175781,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.006",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        -669.0,
+        85.94999694824219,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.007",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        -669.0,
+        285.95001220703125,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.008",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        -469.0,
+        -314.04998779296875,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.009",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        -469.0,
+        -114.05000305175781,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.010",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        -469.0,
+        85.94999694824219,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.011",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        -469.0,
+        285.95001220703125,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.012",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        -269.0,
+        -314.04998779296875,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.013",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        -269.0,
+        -114.05000305175781,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.014",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        -269.0,
+        85.94999694824219,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.015",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        -269.0,
+        285.95001220703125,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.016",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        -69.0,
+        -314.04998779296875,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.017",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        -69.0,
+        -114.05000305175781,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.018",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        -69.0,
+        85.94999694824219,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.019",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        -69.0,
+        285.95001220703125,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.020",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        131.0,
+        -314.04998779296875,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.021",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        131.0,
+        -114.05000305175781,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.022",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        131.0,
+        85.94999694824219,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.023",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        131.0,
+        285.95001220703125,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.024",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        331.0,
+        -314.04998779296875,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.025",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        331.0,
+        -114.05000305175781,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.026",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        331.0,
+        85.94999694824219,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.027",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        331.0,
+        285.95001220703125,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.028",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        531.0,
+        -314.04998779296875,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.029",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        531.0,
+        -114.05000305175781,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.030",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        531.0,
+        85.94999694824219,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.031",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        531.0,
+        285.95001220703125,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.032",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        731.0,
+        -314.04998779296875,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.033",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        731.0,
+        -114.05000305175781,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.034",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        731.0,
+        85.94999694824219,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.035",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        731.0,
+        285.95001220703125,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.036",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        931.0,
+        -314.04998779296875,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.037",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        931.0,
+        -114.05000305175781,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.038",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        931.0,
+        85.94999694824219,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.039",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        931.0,
+        285.95001220703125,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.040",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        -792.2999877929688,
+        -314.04998779296875,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_ORLA  >",
+      "inst": true,
+      "verts": 856,
+      "faces": 634,
+      "loc": [
+        -791.0,
+        -310.05999755859375,
+        2.740000009536743
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.041",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        -792.2999877929688,
+        -170.0500030517578,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.042",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        -792.2999877929688,
+        29.950000762939453,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.043",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        -792.2999877929688,
+        229.9499969482422,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.044",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        -592.2999877929688,
+        -314.04998779296875,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_ORLA  >.001",
+      "inst": true,
+      "verts": 856,
+      "faces": 634,
+      "loc": [
+        -591.0,
+        -310.05999755859375,
+        2.740000009536743
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.045",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        -592.2999877929688,
+        -170.0500030517578,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.046",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        -592.2999877929688,
+        29.950000762939453,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.047",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        -592.2999877929688,
+        229.9499969482422,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.048",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        -392.29998779296875,
+        -314.04998779296875,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_ORLA  >.002",
+      "inst": true,
+      "verts": 856,
+      "faces": 634,
+      "loc": [
+        -391.0,
+        -310.05999755859375,
+        2.740000009536743
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.049",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        -392.29998779296875,
+        -170.0500030517578,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.050",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        -392.29998779296875,
+        29.950000762939453,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.051",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        -392.29998779296875,
+        229.9499969482422,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.052",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        -192.3000030517578,
+        -314.04998779296875,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_ORLA  >.003",
+      "inst": true,
+      "verts": 856,
+      "faces": 634,
+      "loc": [
+        -191.0,
+        -310.05999755859375,
+        2.740000009536743
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.053",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        -192.3000030517578,
+        -170.0500030517578,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.054",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        -192.3000030517578,
+        29.950000762939453,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.055",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        -192.3000030517578,
+        229.9499969482422,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.056",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        7.699999809265137,
+        -314.04998779296875,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_ORLA  >.004",
+      "inst": true,
+      "verts": 856,
+      "faces": 634,
+      "loc": [
+        9.0,
+        -310.05999755859375,
+        2.740000009536743
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.057",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        7.699999809265137,
+        -170.0500030517578,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.058",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        7.699999809265137,
+        29.950000762939453,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.059",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        7.699999809265137,
+        229.9499969482422,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.060",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        207.6999969482422,
+        -314.04998779296875,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_ORLA  >.005",
+      "inst": true,
+      "verts": 856,
+      "faces": 634,
+      "loc": [
+        209.0,
+        -310.05999755859375,
+        2.740000009536743
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.061",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        207.6999969482422,
+        -170.0500030517578,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.062",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        207.6999969482422,
+        29.950000762939453,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.063",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        207.6999969482422,
+        229.9499969482422,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.064",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        407.70001220703125,
+        -314.04998779296875,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_ORLA  >.006",
+      "inst": true,
+      "verts": 856,
+      "faces": 634,
+      "loc": [
+        409.0,
+        -310.05999755859375,
+        2.740000009536743
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.065",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        407.70001220703125,
+        -170.0500030517578,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.066",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        407.70001220703125,
+        29.950000762939453,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.067",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        407.70001220703125,
+        229.9499969482422,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.068",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        607.7000122070312,
+        -314.04998779296875,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_ORLA  >.007",
+      "inst": true,
+      "verts": 856,
+      "faces": 634,
+      "loc": [
+        609.0,
+        -310.05999755859375,
+        2.740000009536743
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.069",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        607.7000122070312,
+        -170.0500030517578,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.070",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        607.7000122070312,
+        29.950000762939453,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.071",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        607.7000122070312,
+        229.9499969482422,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.072",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        807.7000122070312,
+        -314.04998779296875,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_ORLA  >.008",
+      "inst": true,
+      "verts": 856,
+      "faces": 634,
+      "loc": [
+        809.0,
+        -310.05999755859375,
+        2.740000009536743
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.073",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        807.7000122070312,
+        -170.0500030517578,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.074",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        807.7000122070312,
+        29.950000762939453,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_PARE.075",
+      "inst": true,
+      "verts": 692,
+      "faces": 515,
+      "loc": [
+        807.7000122070312,
+        229.9499969482422,
+        2.559999942779541
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_30",
+      "inst": true,
+      "verts": 972,
+      "faces": 725,
+      "loc": [
+        -915.0,
+        -322.052001953125,
+        2.5799999237060547
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_30.001",
+      "inst": true,
+      "verts": 972,
+      "faces": 725,
+      "loc": [
+        -715.0,
+        -322.052001953125,
+        2.5799999237060547
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_30.002",
+      "inst": true,
+      "verts": 972,
+      "faces": 725,
+      "loc": [
+        -515.0,
+        -322.052001953125,
+        2.5799999237060547
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_30.003",
+      "inst": true,
+      "verts": 972,
+      "faces": 725,
+      "loc": [
+        -315.0,
+        -322.052001953125,
+        2.5799999237060547
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_30.004",
+      "inst": true,
+      "verts": 972,
+      "faces": 725,
+      "loc": [
+        -115.0,
+        -322.052001953125,
+        2.5799999237060547
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_30.005",
+      "inst": true,
+      "verts": 972,
+      "faces": 725,
+      "loc": [
+        85.0,
+        -322.052001953125,
+        2.5799999237060547
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_30.006",
+      "inst": true,
+      "verts": 972,
+      "faces": 725,
+      "loc": [
+        285.0,
+        -322.052001953125,
+        2.5799999237060547
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_30.007",
+      "inst": true,
+      "verts": 972,
+      "faces": 725,
+      "loc": [
+        485.0,
+        -322.052001953125,
+        2.5799999237060547
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_30.008",
+      "inst": true,
+      "verts": 972,
+      "faces": 725,
+      "loc": [
+        685.0,
+        -322.052001953125,
+        2.5799999237060547
+      ]
+    },
+    {
+      "name": "ROAD_LABEL_30.009",
+      "inst": true,
+      "verts": 972,
+      "faces": 725,
+      "loc": [
+        885.0,
+        -322.052001953125,
+        2.5799999237060547
+      ]
+    },
+    {
+      "name": "STREET_Raised_Street_Connectors__asphalt_03",
+      "inst": false,
+      "verts": 320,
+      "faces": 120,
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "STREET_Zebra_Crossings__IP_Road_Paint",
+      "inst": false,
+      "verts": 12144,
+      "faces": 9108,
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "STREET_Raised_Crossing_StopLine__IP_Road_Paint",
+      "inst": false,
+      "verts": 320,
+      "faces": 240,
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "STREET_Sign_Posts__IP_Bronze",
+      "inst": false,
+      "verts": 760,
+      "faces": 570,
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "name": "STREET_Traffic_Sign_Plates__IP_Road_Paint",
+      "inst": false,
+      "verts": 1856,
+      "faces": 1100,
+      "loc": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "material_count": 78,
+  "materials": [
+    "CRISTO_Mirante_Paving",
+    "CRISTO_Railing_Metal",
+    "CRISTO_Soapstone_Mosaic",
+    "HOUSES_V7_Terracotta_Roof",
+    "INTERIOR_Coral_Upholstery",
+    "INTERIOR_Deep_Sea_Fabric",
+    "INTERIOR_Glazed_Ivory_Ceramic",
+    "INTERIOR_Polished_Mirror",
+    "INTERIOR_Travertine_Honed",
+    "INTERIOR_Warm_Lamp_Diffuser",
+    "IP_Bark",
+    "IP_Basalt",
+    "IP_Bronze",
+    "IP_Coral_Plaster",
+    "IP_Glass",
+    "IP_Groundcover",
+    "IP_Leaf",
+    "IP_Leaf_Sunlit",
+    "IP_Limestone",
+    "IP_Linen",
+    "IP_Ochre_Plaster",
+    "IP_Road_Paint",
+    "IP_Sage_Plaster",
+    "IP_Teak",
+    "IP_Terracotta",
+    "IP_Water",
+    "IP_Window_Recess",
+    "MARE_Architectural_Glass",
+    "MARE_Brushed_Brass",
+    "MARE_Brushed_Stainless",
+    "MARE_Charcoal",
+    "MARE_Clear_Glass",
+    "MARE_Coastal_Garden",
+    "MARE_Coconut_Husk",
+    "MARE_Glazed_Ceramic",
+    "MARE_Honed_Counter_Stone",
+    "MARE_Leaf_Green",
+    "MARE_Leaf_Sunlit",
+    "MARE_Linen_Canvas",
+    "MARE_Painted_Teal",
+    "MARE_Pool_Water",
+    "MARE_Teak_Existing_PBR",
+    "MARE_Warm_Lamp_Glass",
+    "RIO_Atlantic_Water_Backdrop",
+    "RIO_Bark_Fibrous",
+    "RIO_Granite_Atlantic_Forest",
+    "RIO_Leaf_Waxy",
+    "RIO_Leaf_Young",
+    "ROAD_Direction_Blue",
+    "ROAD_Sign_Red",
+    "ROAD_Signal_Green",
+    "ROAD_Signal_Red",
+    "ROAD_Yellow",
+    "SHOP_Berry",
+    "SHOP_Clear_Display_Glass",
+    "SHOP_Lettering",
+    "SHOP_Midnight_Teal",
+    "SHOP_Ocean_Blue",
+    "SHOP_Product_Green",
+    "SHOP_Product_Orange",
+    "SHOP_Product_Yellow",
+    "SHOP_Warm_Luminaires",
+    "URBAN_PBR_Curb_Cut_Concrete",
+    "URBAN_PBR_Facade_Cast_Concrete",
+    "URBAN_PBR_IP_Coral_Plaster_Painted_Render",
+    "URBAN_PBR_IP_Ivory_Painted_Render",
+    "URBAN_PBR_IP_Ochre_Plaster_Painted_Render",
+    "URBAN_PBR_IP_Sage_Plaster_Painted_Render",
+    "URBAN_PBR_IP_Teal_Plaster_Painted_Render",
+    "URBAN_PBR_Promenade_Stone_Pavers",
+    "URBAN_PBR_Retail_Concrete_Pavers",
+    "URBAN_PBR_Sidewalk_Stone_Pavers",
+    "asphalt_03",
+    "asphalt_03_material_Coastal_Avenue__IP_Asphalt",
+    "asphalt_03_material_Cross_Street__IP_Asphalt",
+    "asphalt_03_material_NorthSouth_Street__IP_Asphalt",
+    "checkered_pavement_tiles",
+    "sand_03_material_Beach__IP_Sand"
+  ],
+  "sampled_bounds": [
+    -15000.0,
+    -15000.0,
+    -6.206093788146973,
+    15000.0,
+    12000.0,
+    866.4432373046875
+  ]
+}

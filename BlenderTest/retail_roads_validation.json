@@ -1,0 +1,30 @@
+{
+  "file": "D:\\ProjectResort_300m_CompactPass\\BlenderTest\\Resort_Ipanema_2x1km_Comercio_Ruas.blend",
+  "scene": "RESORT_2x1KM_COMERCIO",
+  "dimensions_m": [
+    2000.0,
+    1000.0,
+    1.600000023841858
+  ],
+  "sectors": 40,
+  "coastal_businesses": 130,
+  "rounded_junctions": 45,
+  "new_zebra_crossings": 193,
+  "curb_ramps": 63,
+  "cleared_surface_assets": 32,
+  "rounded_pavement_assets": 11,
+  "packed_images": 17,
+  "missing_or_unpacked_images": [],
+  "sector_scales": [
+    [
+      1.0,
+      1.0,
+      1.0
+    ]
+  ],
+  "resolution": [
+    1600,
+    900
+  ],
+  "notes": "Blender art asset inspection; no runtime, physics or performance claims."
+}

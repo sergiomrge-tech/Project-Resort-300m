@@ -1,0 +1,147 @@
+{
+  "file": "D:\\ProjectResort_300m_CompactPass\\BlenderTest\\Mare_Evolucao_Interiores_v3_1.blend",
+  "blender": "5.2.1 LTS",
+  "stages": 20,
+  "final_room_count": 59,
+  "activity_anchors": 139,
+  "future_or_expired_collection_leaks": [],
+  "all_used_file_textures_packed": true,
+  "source_city_preserved": true,
+  "runtime_verified": false,
+  "collision_navigation_verified": false,
+  "visual_review": "real Blender renders; not a Unity playtest",
+  "images": [
+    {
+      "name": "asphalt_03_Diffuse",
+      "packed": true
+    },
+    {
+      "name": "asphalt_03_Displacement",
+      "packed": true
+    },
+    {
+      "name": "asphalt_03_nor_gl",
+      "packed": true
+    },
+    {
+      "name": "asphalt_03_Rough",
+      "packed": true
+    },
+    {
+      "name": "checkered_pavement_tiles_Diffuse",
+      "packed": true
+    },
+    {
+      "name": "checkered_pavement_tiles_Displacement",
+      "packed": true
+    },
+    {
+      "name": "checkered_pavement_tiles_nor_gl",
+      "packed": true
+    },
+    {
+      "name": "checkered_pavement_tiles_Rough",
+      "packed": true
+    },
+    {
+      "name": "sand_03_Diffuse",
+      "packed": true
+    },
+    {
+      "name": "sand_03_Displacement",
+      "packed": true
+    },
+    {
+      "name": "sand_03_nor_gl",
+      "packed": true
+    },
+    {
+      "name": "sand_03_Rough",
+      "packed": true
+    },
+    {
+      "name": "sunflowers_puresky_2k",
+      "packed": true
+    },
+    {
+      "name": "URBAN_4K_concrete_diff",
+      "packed": true
+    },
+    {
+      "name": "URBAN_4K_concrete_disp",
+      "packed": true
+    },
+    {
+      "name": "URBAN_4K_concrete_nor_gl",
+      "packed": true
+    },
+    {
+      "name": "URBAN_4K_concrete_pavers_02_diff",
+      "packed": true
+    },
+    {
+      "name": "URBAN_4K_concrete_pavers_02_disp",
+      "packed": true
+    },
+    {
+      "name": "URBAN_4K_concrete_pavers_02_nor_gl",
+      "packed": true
+    },
+    {
+      "name": "URBAN_4K_concrete_pavers_02_rough",
+      "packed": true
+    },
+    {
+      "name": "URBAN_4K_concrete_rough",
+      "packed": true
+    },
+    {
+      "name": "URBAN_4K_grey_plaster_02_diff",
+      "packed": true
+    },
+    {
+      "name": "URBAN_4K_grey_plaster_02_disp",
+      "packed": true
+    },
+    {
+      "name": "URBAN_4K_grey_plaster_02_nor_gl",
+      "packed": true
+    },
+    {
+      "name": "URBAN_4K_grey_plaster_02_rough",
+      "packed": true
+    },
+    {
+      "name": "URBAN_4K_pavement_03_diff",
+      "packed": true
+    },
+    {
+      "name": "URBAN_4K_pavement_03_disp",
+      "packed": true
+    },
+    {
+      "name": "URBAN_4K_pavement_03_nor_gl",
+      "packed": true
+    },
+    {
+      "name": "URBAN_4K_pavement_03_rough",
+      "packed": true
+    },
+    {
+      "name": "wooden_floor_02_Diffuse",
+      "packed": true
+    },
+    {
+      "name": "wooden_floor_02_Displacement",
+      "packed": true
+    },
+    {
+      "name": "wooden_floor_02_nor_gl",
+      "packed": true
+    },
+    {
+      "name": "wooden_floor_02_Rough",
+      "packed": true
+    }
+  ]
+}

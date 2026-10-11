@@ -1,0 +1,31 @@
+{
+  "file": "D:\\ProjectResort_300m_CompactPass\\BlenderTest\\Resort_Ipanema_2x2km.blend",
+  "scene": "RESORT_IPANEMA_2x2KM",
+  "site_dimensions_m": [
+    2000.0,
+    2000.0,
+    1.600000023841858
+  ],
+  "sector_instances": 90,
+  "sector_scales": [
+    [
+      1.0,
+      1.0,
+      1.0
+    ]
+  ],
+  "packed_images": 17,
+  "missing_or_unpacked": [],
+  "camera_names": [
+    "CITY_AERIAL",
+    "CITY_DISTRICT",
+    "CITY_WALK",
+    "CITY_POOL"
+  ],
+  "render_resolution": [
+    1600,
+    900
+  ],
+  "render_engine": "CYCLES",
+  "world": "PolyHaven sunflowers_puresky.001"
+}

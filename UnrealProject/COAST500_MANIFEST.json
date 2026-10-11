@@ -1,0 +1,69 @@
+{
+  "files": [
+    {
+      "path": "Content/Resort/Maps/Resort_HalfWest.umap",
+      "sha256": "39CAF142E4EF021DFE2996766BA954ED38C3BE7AE36DD56158EF1D4B95526EB1"
+    },
+    {
+      "path": "Config/DefaultEngine.ini",
+      "sha256": "A1EF6B189CF2927568F4064F06E4CA72770C9635F4700793BD5D446E7832B85B"
+    },
+    {
+      "path": "COAST500.md",
+      "sha256": "DA037FECAD1D025BB1AD75FD18C9789FE4490A15BA6E8E9895E847C2B8A002B9"
+    },
+    {
+      "path": "Content/Resort/Coast500/City_01_03_Coast500_Final.uasset",
+      "sha256": "62AF1901B3CB14BE43B2C98047C5DA7F2846CCC879A76C78A75A00B3700E8F90"
+    },
+    {
+      "path": "Content/Resort/Coast500/City_01_03_Coast500.uasset",
+      "sha256": "928550A57A4F0D97D9D10F38AD42FFC743811147E280ADAFB34D4441E0D5392D"
+    },
+    {
+      "path": "Content/Resort/Coast500/City_02_03_Coast500.uasset",
+      "sha256": "34DBE879F2056C1B091A47352FA58905AD1CE8647752DC659883A60BA43FFE89"
+    },
+    {
+      "path": "Content/Resort/Coast500/City_03_03_Coast500.uasset",
+      "sha256": "FAC6BB67A91B497D27830BB0F9A66EDCACAF409CDCA11A29EAAFDBE991CF8C72"
+    },
+    {
+      "path": "Content/Resort/Coast500/City_04_03_Coast500.uasset",
+      "sha256": "C419979FB39F88CF2BD3051B47A61280B5834C8BD5A37E67532556D2C45DCE66"
+    },
+    {
+      "path": "Content/Resort/Coast500/City_05_03_Coast500.uasset",
+      "sha256": "3F3BE24B01C5885AB243EFAE0481F636E7412099557918C307CE64FE7F95ADB4"
+    },
+    {
+      "path": "Content/Resort/Coast500/HalfWest_BoundarySurfaces_Coast500.uasset",
+      "sha256": "E1F8D68D1723C482B119E6BD822E32D25CC763C288F8A371BA50C22ADC37B4FA"
+    },
+    {
+      "path": "Tools/build_coast500.py",
+      "sha256": "A152533974D369B68149C5F07DC98DF6CF9441D14164312B2095B98DF50C0143"
+    },
+    {
+      "path": "Tools/crop_coast500.py",
+      "sha256": "CCE7B133B1C9D705BBD79D6275E4C5962EC4620F66ECA3ECE10760DAF2B50E11"
+    },
+    {
+      "path": "Tools/prepare_coast500.py",
+      "sha256": "17E2E9A7835E673BBB32933FCD5FF88E7A685E517D996D097A6C3E0266C7B01C"
+    },
+    {
+      "path": "Tools/repair_coast_edge.py",
+      "sha256": "60508B6159F6D2A568D97A1BF05999C69C96AA6D99D7E07559BDEEB8E2602314"
+    },
+    {
+      "path": "Tools/validate_coast500.py",
+      "sha256": "0257BF9DB9E81CAD14CF6AA5AACF06B9E680E29F0D069A9AD009D59AF91831E0"
+    }
+  ],
+  "dimensions_m": [
+    1000,
+    500
+  ],
+  "map": "/Game/Resort/Maps/Resort_HalfWest"
+}

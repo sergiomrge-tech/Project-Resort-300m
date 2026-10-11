@@ -1,0 +1,152 @@
+{
+  "file": "D:\\ProjectResort_300m_CompactPass\\BlenderTest\\Resort_Rio_Urban_Textures_v3.blend",
+  "scene": "RESORT_2x1KM_COMERCIO",
+  "urban_meshes": 152,
+  "urban_image_count": 16,
+  "images": [
+    {
+      "name": "URBAN_4K_concrete_diff",
+      "size": [
+        4096,
+        4096
+      ],
+      "packed": true
+    },
+    {
+      "name": "URBAN_4K_concrete_disp",
+      "size": [
+        4096,
+        4096
+      ],
+      "packed": true
+    },
+    {
+      "name": "URBAN_4K_concrete_nor_gl",
+      "size": [
+        4096,
+        4096
+      ],
+      "packed": true
+    },
+    {
+      "name": "URBAN_4K_concrete_pavers_02_diff",
+      "size": [
+        4096,
+        4096
+      ],
+      "packed": true
+    },
+    {
+      "name": "URBAN_4K_concrete_pavers_02_disp",
+      "size": [
+        4096,
+        4096
+      ],
+      "packed": true
+    },
+    {
+      "name": "URBAN_4K_concrete_pavers_02_nor_gl",
+      "size": [
+        4096,
+        4096
+      ],
+      "packed": true
+    },
+    {
+      "name": "URBAN_4K_concrete_pavers_02_rough",
+      "size": [
+        4096,
+        4096
+      ],
+      "packed": true
+    },
+    {
+      "name": "URBAN_4K_concrete_rough",
+      "size": [
+        4096,
+        4096
+      ],
+      "packed": true
+    },
+    {
+      "name": "URBAN_4K_grey_plaster_02_diff",
+      "size": [
+        4096,
+        4096
+      ],
+      "packed": true
+    },
+    {
+      "name": "URBAN_4K_grey_plaster_02_disp",
+      "size": [
+        4096,
+        4096
+      ],
+      "packed": true
+    },
+    {
+      "name": "URBAN_4K_grey_plaster_02_nor_gl",
+      "size": [
+        4096,
+        4096
+      ],
+      "packed": true
+    },
+    {
+      "name": "URBAN_4K_grey_plaster_02_rough",
+      "size": [
+        4096,
+        4096
+      ],
+      "packed": true
+    },
+    {
+      "name": "URBAN_4K_pavement_03_diff",
+      "size": [
+        4096,
+        4096
+      ],
+      "packed": true
+    },
+    {
+      "name": "URBAN_4K_pavement_03_disp",
+      "size": [
+        4096,
+        4096
+      ],
+      "packed": true
+    },
+    {
+      "name": "URBAN_4K_pavement_03_nor_gl",
+      "size": [
+        4096,
+        4096
+      ],
+      "packed": true
+    },
+    {
+      "name": "URBAN_4K_pavement_03_rough",
+      "size": [
+        4096,
+        4096
+      ],
+      "packed": true
+    }
+  ],
+  "sector_instances": 40,
+  "sector_scales_unit": true,
+  "materials": {
+    "Sidewalk_Stone_Pavers": "URBAN_PBR_Sidewalk_Stone_Pavers",
+    "Retail_Concrete_Pavers": "URBAN_PBR_Retail_Concrete_Pavers",
+    "Curb_Cut_Concrete": "URBAN_PBR_Curb_Cut_Concrete",
+    "Facade_Cast_Concrete": "URBAN_PBR_Facade_Cast_Concrete",
+    "Promenade_Stone_Pavers": "URBAN_PBR_Promenade_Stone_Pavers",
+    "IP_Coral_Plaster_Painted_Render": "URBAN_PBR_IP_Coral_Plaster_Painted_Render",
+    "IP_Teal_Plaster_Painted_Render": "URBAN_PBR_IP_Teal_Plaster_Painted_Render",
+    "IP_Sage_Plaster_Painted_Render": "URBAN_PBR_IP_Sage_Plaster_Painted_Render",
+    "IP_Ochre_Plaster_Painted_Render": "URBAN_PBR_IP_Ochre_Plaster_Painted_Render",
+    "IP_Ivory_Painted_Render": "URBAN_PBR_IP_Ivory_Painted_Render"
+  },
+  "lot_surface_fix": true,
+  "lot_surface_meshes": 3
+}
